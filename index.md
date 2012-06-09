@@ -1,1 +1,6 @@
-## Eregansu
+---
+title: Eregansu
+---
+
+# Eregansu
+
