@@ -1,3 +1,7 @@
+---
+title: XapianSearch
+---
+
 `XapianSearch` is a class derived from [[SearchEngine]].
 
 ## Public Methods
