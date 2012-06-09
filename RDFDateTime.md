@@ -1,4 +1,8 @@
-`RDFDateTime` is a class derived from [[RDFComplexLiteral]].
+---
+title: RDFDateTime
+---
+
+`RDFDateTime` is a class derived from <a href="RDFComplexLiteral">RDFComplexLiteral</a>.
 
 ## Synopsis
 
@@ -8,5 +12,5 @@ uses('rdf');
 
 ## Public Methods
 
-* `[[RDFDateTime::__construct]]()`
+* `<a href="RDFDateTime%3A%3A__construct">RDFDateTime::__construct</a>()`
 

@@ -1,8 +1,12 @@
+---
+title: OpenIDAuth::verifyAuth
+---
+
 ## Synopsis
 
 <code>uses('openid');</code>
 
-<code>public function <b>[[OpenIDAuth]]::verifyAuth</b>(<b>$request</b>, <b>$scheme</b>, <b>$remainder</b>, <b>$authData</b>, <b>$callbackIRI</b>)</code>
+<code>public function <b><a href="OpenIDAuth">OpenIDAuth</a>::verifyAuth</b>(<b>$request</b>, <b>$scheme</b>, <b>$remainder</b>, <b>$authData</b>, <b>$callbackIRI</b>)</code>
 
 ## Parameters
 

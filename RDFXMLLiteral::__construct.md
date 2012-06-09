@@ -1,6 +1,10 @@
+---
+title: RDFXMLLiteral::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFXMLLiteral]]::__construct</b>(<b>$value</b>, <b>$world</b> = null)</code>
+<code>public function <b><a href="RDFXMLLiteral">RDFXMLLiteral</a>::__construct</b>(<b>$value</b>, <b>$world</b> = null)</code>
 
 ## Parameters
 

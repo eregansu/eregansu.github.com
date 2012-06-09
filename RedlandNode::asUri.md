@@ -1,4 +1,8 @@
+---
+title: RedlandNode::asUri
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandNode]]::asUri</b>()</code>
+<code>public function <b><a href="RedlandNode">RedlandNode</a>::asUri</b>()</code>
 

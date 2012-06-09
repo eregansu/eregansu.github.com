@@ -1,6 +1,10 @@
+---
+title: RDFDocument::fromDOM
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::fromDOM</b>(<b>$root</b>)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::fromDOM</b>(<b>$root</b>)</code>
 
 ## Parameters
 

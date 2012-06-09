@@ -1,4 +1,8 @@
+---
+title: XMLParser::byteIndex
+---
+
 ## Synopsis
 
-<code>public function <b>[[XMLParser]]::byteIndex</b>()</code>
+<code>public function <b><a href="XMLParser">XMLParser</a>::byteIndex</b>()</code>
 

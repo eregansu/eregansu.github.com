@@ -1,6 +1,10 @@
+---
+title: StaticStorableSet::current
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[StaticStorableSet]]::current</b>()</code>
+<code>public function <b><a href="StaticStorableSet">StaticStorableSet</a>::current</b>()</code>
 

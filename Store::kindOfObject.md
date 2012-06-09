@@ -1,8 +1,12 @@
+---
+title: Store::kindOfObject
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::kindOfObject</b>(<b>$object</b>)</code>
+<code>public function <b><a href="Store">Store</a>::kindOfObject</b>(<b>$object</b>)</code>
 
 ## Parameters
 

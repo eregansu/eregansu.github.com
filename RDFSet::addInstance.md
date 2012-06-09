@@ -1,6 +1,10 @@
+---
+title: RDFSet::addInstance
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFSet]]::addInstance</b>(<b>$keys</b>, <b>$instance</b>)</code>
+<code>public function <b><a href="RDFSet">RDFSet</a>::addInstance</b>(<b>$keys</b>, <b>$instance</b>)</code>
 
 ## Parameters
 

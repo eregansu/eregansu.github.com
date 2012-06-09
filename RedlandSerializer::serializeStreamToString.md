@@ -1,6 +1,10 @@
+---
+title: RedlandSerializer::serializeStreamToString
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandSerializer]]::serializeStreamToString</b>(<b>$stream</b>, <b>$baseURI</b> = null)</code>
+<code>public function <b><a href="RedlandSerializer">RedlandSerializer</a>::serializeStreamToString</b>(<b>$stream</b>, <b>$baseURI</b> = null)</code>
 
 ## Parameters
 

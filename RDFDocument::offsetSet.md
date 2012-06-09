@@ -1,6 +1,10 @@
+---
+title: RDFDocument::offsetSet
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::offsetSet</b>(<b>$key</b>, <b>$what</b>)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::offsetSet</b>(<b>$key</b>, <b>$what</b>)</code>
 
 ## Parameters
 

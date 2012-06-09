@@ -1,8 +1,12 @@
+---
+title: RDF::documentFromURL
+---
+
 ## Synopsis
 
 <code>uses('rdf');</code>
 
-<code>public static function <b>[[RDF]]::documentFromURL</b>(<b>$location</b>, <b>$curl</b> = null)</code>
+<code>public static function <b><a href="RDF">RDF</a>::documentFromURL</b>(<b>$location</b>, <b>$curl</b> = null)</code>
 
 ## Parameters
 

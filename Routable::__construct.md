@@ -1,8 +1,14 @@
-Initialise a `[[Routable]]` instance.
+---
+title: Routable::__construct
+---
+
+Initialise a `<a href="Routable">Routable</a>` instance.
 
 ## Synopsis
 
-<code>public function <b>[[Routable]]::__construct</b>()</code>
+<code>uses('routable');</code>
+
+<code>public function <b><a href="Routable">Routable</a>::__construct</b>()</code>
 
 ## Description
 

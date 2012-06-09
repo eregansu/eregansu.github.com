@@ -1,4 +1,8 @@
+---
+title: SilkRequest::abort
+---
+
 ## Synopsis
 
-<code>public function <b>[[SilkRequest]]::abort</b>()</code>
+<code>public function <b><a href="SilkRequest">SilkRequest</a>::abort</b>()</code>
 

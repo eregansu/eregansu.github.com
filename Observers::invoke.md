@@ -1,6 +1,10 @@
+---
+title: Observers::invoke
+---
+
 ## Synopsis
 
-<code>public static function <b>[[Observers]]::invoke</b>(<b>$event</b>, <b>$observable</b>, <b>$args</b> = null)</code>
+<code>public static function <b><a href="Observers">Observers</a>::invoke</b>(<b>$event</b>, <b>$observable</b>, <b>$args</b> = null)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: SQLite3Schema::views
+---
+
 ## Synopsis
 
-<code>public function <b>[[SQLite3Schema]]::views</b>(<b>$dbName</b>, <b>$schemaName</b>)</code>
+<code>public function <b><a href="SQLite3Schema">SQLite3Schema</a>::views</b>(<b>$dbName</b>, <b>$schemaName</b>)</code>
 
 ## Parameters
 

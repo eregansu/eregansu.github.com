@@ -1,14 +1,18 @@
-`MySQL` is a class derived from [[DBCore]].
+---
+title: MySQL
+---
+
+`MySQL` is a class derived from <a href="DBCore">DBCore</a>.
 
 ## Public Methods
 
-* `[[MySQL::__construct]]()`
-* `[[MySQL::selectDatabase]]()`
-* `[[MySQL::quoteRef]]()`
-* `[[MySQL::row]]()`
-* `[[MySQL::insertId]]()`
-* `[[MySQL::commit]]()`
-* `[[MySQL::now]]()`
-* `[[MySQL::rowCount]]()`
-* `[[MySQL::quoteTable]]()`
+* `<a href="MySQL%3A%3A__construct">MySQL::__construct</a>()`
+* `<a href="MySQL%3A%3AselectDatabase">MySQL::selectDatabase</a>()`
+* `<a href="MySQL%3A%3AquoteRef">MySQL::quoteRef</a>()`
+* `<a href="MySQL%3A%3Arow">MySQL::row</a>()`
+* `<a href="MySQL%3A%3AinsertId">MySQL::insertId</a>()`
+* `<a href="MySQL%3A%3Acommit">MySQL::commit</a>()`
+* `<a href="MySQL%3A%3Anow">MySQL::now</a>()`
+* `<a href="MySQL%3A%3ArowCount">MySQL::rowCount</a>()`
+* `<a href="MySQL%3A%3AquoteTable">MySQL::quoteTable</a>()`
 

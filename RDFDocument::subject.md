@@ -1,6 +1,10 @@
+---
+title: RDFDocument::subject
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::subject</b>(<b>$uri</b>, <b>$type</b> = null, <b>$create</b> = true)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::subject</b>(<b>$uri</b>, <b>$type</b> = null, <b>$create</b> = true, <b>$isNode</b> = false)</code>
 
 ## Parameters
 
@@ -32,6 +36,14 @@
     </tr>
     <tr>
       <td><code>$create</code>
+      <td><i></i></td>
+      <td></td>
+      <td>
+
+      </td>
+    </tr>
+    <tr>
+      <td><code>$isNode</code>
       <td><i></i></td>
       <td></td>
       <td>

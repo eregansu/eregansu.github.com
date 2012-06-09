@@ -1,10 +1,14 @@
+---
+title: RDF::tripleSetFromDOM
+---
+
 Create a new set of triples from an RDF/XML DOMElement
 
 ## Synopsis
 
 <code>uses('rdf');</code>
 
-<code>public static function <b>[[RDF]]::tripleSetFromDOM</b>(<b>$dom</b>, <b>$location</b> = null)</code>
+<code>public static function <b><a href="RDF">RDF</a>::tripleSetFromDOM</b>(<b>$dom</b>, <b>$location</b> = null)</code>
 
 ## Parameters
 

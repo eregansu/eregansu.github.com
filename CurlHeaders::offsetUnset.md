@@ -1,6 +1,10 @@
+---
+title: CurlHeaders::offsetUnset
+---
+
 ## Synopsis
 
-<code>public function <b>[[CurlHeaders]]::offsetUnset</b>(<b>$name</b>)</code>
+<code>public function <b><a href="CurlHeaders">CurlHeaders</a>::offsetUnset</b>(<b>$name</b>)</code>
 
 ## Parameters
 

@@ -1,8 +1,12 @@
+---
+title: Module::getInstance
+---
+
 ## Synopsis
 
 <code>uses('module');</code>
 
-<code>public static function <b>[[Module]]::getInstance</b>(<b>$args</b> = null)</code>
+<code>public static function <b><a href="Module">Module</a>::getInstance</b>(<b>$args</b> = null)</code>
 
 ## Parameters
 

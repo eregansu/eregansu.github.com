@@ -1,4 +1,8 @@
+---
+title: RDFInstanceBase::predicateObjectList
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::predicateObjectList</b>()</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::predicateObjectList</b>()</code>
 

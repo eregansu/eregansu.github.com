@@ -1,6 +1,10 @@
+---
+title: RDFSet::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFSet]]::__construct</b>(<b>$values</b> = null, <b>$world</b> = null)</code>
+<code>public function <b><a href="RDFSet">RDFSet</a>::__construct</b>(<b>$values</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

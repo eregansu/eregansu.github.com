@@ -1,4 +1,8 @@
+---
+title: Installer::checkConfig
+---
+
 ## Synopsis
 
-<code>public function <b>[[Installer]]::checkConfig</b>()</code>
+<code>public function <b><a href="Installer">Installer</a>::checkConfig</b>()</code>
 

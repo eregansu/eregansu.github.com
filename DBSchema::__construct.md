@@ -1,6 +1,10 @@
+---
+title: DBSchema::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBSchema]]::__construct</b>(<b>$connection</b>)</code>
+<code>public function <b><a href="DBSchema">DBSchema</a>::__construct</b>(<b>$connection</b>)</code>
 
 ## Parameters
 

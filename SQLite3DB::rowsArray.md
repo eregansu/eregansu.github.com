@@ -1,6 +1,10 @@
+---
+title: SQLite3DB::rowsArray
+---
+
 ## Synopsis
 
-<code>public function <b>[[SQLite3DB]]::rowsArray</b>(<b>$query</b>, <b>$params</b>)</code>
+<code>public function <b><a href="SQLite3DB">SQLite3DB</a>::rowsArray</b>(<b>$query</b>, <b>$params</b>)</code>
 
 ## Parameters
 

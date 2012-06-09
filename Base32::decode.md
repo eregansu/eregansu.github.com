@@ -1,14 +1,18 @@
+---
+title: Base32::decode
+---
+
 Decode a base-32 string and return the value as an integer
 
 ## Synopsis
 
 <code>uses('base32');</code>
 
-<code>public static function <i>int</i> <b>[[Base32]]::decode</b>(<i>string</i> <i>[in]</i> <b>$input</b>)</code>
+<code>public static function <i>int</i> <b><a href="Base32">Base32</a>::decode</b>(<i>string</i> <i>[in]</i> <b>$input</b>)</code>
 
 ## Description
 
-Accepts a base-32-encoded string as encoded by `[[Base32::encode]]()` and
+Accepts a base-32-encoded string as encoded by `<a href="Base32%3A%3Aencode">Base32::encode</a>()` and
 returns its integer value.
 
 ## Parameters

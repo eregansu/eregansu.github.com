@@ -1,8 +1,12 @@
+---
+title: Storable::offsetGet
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Storable]]::offsetGet</b>(<b>$name</b>)</code>
+<code>public function <b><a href="Storable">Storable</a>::offsetGet</b>(<b>$name</b>)</code>
 
 ## Parameters
 

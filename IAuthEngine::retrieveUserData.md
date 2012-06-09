@@ -1,8 +1,12 @@
+---
+title: IAuthEngine::retrieveUserData
+---
+
 ## Synopsis
 
 <code>uses('auth');</code>
 
-<code>public function <b>[[IAuthEngine]]::retrieveUserData</b>(<b>$scheme</b>, <b>$remainder</b>)</code>
+<code>public function <b><a href="IAuthEngine">IAuthEngine</a>::retrieveUserData</b>(<b>$scheme</b>, <b>$remainder</b>)</code>
 
 ## Parameters
 

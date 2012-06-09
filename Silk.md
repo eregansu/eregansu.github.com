@@ -1,6 +1,10 @@
-`Silk` is a class derived from [[CommandLine]].
+---
+title: Silk
+---
+
+`Silk` is a class derived from <a href="CommandLine">CommandLine</a>.
 
 ## Public Methods
 
-* `[[Silk::main]]()`
+* `<a href="Silk%3A%3Amain">Silk::main</a>()`
 

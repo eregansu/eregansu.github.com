@@ -1,8 +1,12 @@
+---
+title: RDFString::__construct
+---
+
 ## Synopsis
 
 <code>uses('rdf');</code>
 
-<code>public function <b>[[RDFString]]::__construct</b>(<b>$value</b>, <b>$lang</b> = null, <b>$world</b> = null)</code>
+<code>public function <b><a href="RDFString">RDFString</a>::__construct</b>(<b>$value</b>, <b>$lang</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

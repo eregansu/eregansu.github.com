@@ -1,6 +1,10 @@
+---
+title: RDFDocument::offsetGet
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::offsetGet</b>(<b>$key</b>)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::offsetGet</b>(<b>$key</b>)</code>
 
 ## Parameters
 

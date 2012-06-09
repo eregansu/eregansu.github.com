@@ -1,6 +1,10 @@
+---
+title: IdentityFile
+---
+
 Support for static identity data in an XML file.
 
-`IdentityFile` is a class derived from [[Identity]].
+`IdentityFile` is a class derived from <a href="Identity">Identity</a>.
 
 ## Synopsis
 
@@ -19,8 +23,8 @@ IDENTITY_IRI is not defined).
 
 ## Public Methods
 
-* `[[IdentityFile::__construct]]()`
-* `[[IdentityFile::uuidFromIRI]]()`
-* `[[IdentityFile::identityFromUUID]]()`
-* `[[IdentityFile::createIdentity]]()`
+* `<a href="IdentityFile%3A%3A__construct">IdentityFile::__construct</a>()`
+* `<a href="IdentityFile%3A%3AuuidFromIRI">IdentityFile::uuidFromIRI</a>()`
+* `<a href="IdentityFile%3A%3AidentityFromUUID">IdentityFile::identityFromUUID</a>()`
+* `<a href="IdentityFile%3A%3AcreateIdentity">IdentityFile::createIdentity</a>()`
 

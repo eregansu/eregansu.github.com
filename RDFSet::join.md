@@ -1,6 +1,10 @@
+---
+title: RDFSet::join
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFSet]]::join</b>(<b>$by</b>)</code>
+<code>public function <b><a href="RDFSet">RDFSet</a>::join</b>(<b>$by</b>)</code>
 
 ## Parameters
 

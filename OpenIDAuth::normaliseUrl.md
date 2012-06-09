@@ -1,3 +1,7 @@
+---
+title: OpenIDAuth::normaliseUrl
+---
+
 Taken from the Zend Framework
 Normalizes URL according to RFC 3986 to use it in comparison operations.
 It returns the normalised URL on success and false of failure.
@@ -6,7 +10,7 @@ It returns the normalised URL on success and false of failure.
 
 <code>uses('openid');</code>
 
-<code>public function <b>[[OpenIDAuth]]::normaliseUrl</b>(<b>$id</b>)</code>
+<code>public function <b><a href="OpenIDAuth">OpenIDAuth</a>::normaliseUrl</b>(<b>$id</b>)</code>
 
 ## Description
 

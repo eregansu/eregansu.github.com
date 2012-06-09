@@ -1,4 +1,10 @@
+---
+title: DefaultApp::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[DefaultApp]]::__construct</b>()</code>
+<code>uses('routable');</code>
+
+<code>public function <b><a href="DefaultApp">DefaultApp</a>::__construct</b>()</code>
 

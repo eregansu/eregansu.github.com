@@ -1,8 +1,12 @@
+---
+title: Store::uuidOfObject
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::uuidOfObject</b>(<b>$object</b>)</code>
+<code>public function <b><a href="Store">Store</a>::uuidOfObject</b>(<b>$object</b>)</code>
 
 ## Parameters
 

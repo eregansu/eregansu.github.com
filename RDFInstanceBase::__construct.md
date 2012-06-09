@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::__construct</b>(<b>$uri</b> = null, <b>$type</b> = null, <b>$world</b> = null)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::__construct</b>(<b>$uri</b> = null, <b>$type</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

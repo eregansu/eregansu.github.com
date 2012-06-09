@@ -1,6 +1,10 @@
+---
+title: SearchIndexer::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[SearchIndexer]]::__construct</b>(<b>$uri</b>)</code>
+<code>public function <b><a href="SearchIndexer">SearchIndexer</a>::__construct</b>(<b>$uri</b>)</code>
 
 ## Parameters
 

@@ -1,8 +1,12 @@
+---
+title: IAuthEngine::refreshUserData
+---
+
 ## Synopsis
 
 <code>uses('auth');</code>
 
-<code>public function <b>[[IAuthEngine]]::refreshUserData</b>(<b>$data</b>)</code>
+<code>public function <b><a href="IAuthEngine">IAuthEngine</a>::refreshUserData</b>(<b>$data</b>)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: Curl::exec
+---
+
 ## Synopsis
 
-<code>public function <b>[[Curl]]::exec</b>(<b>$_applyHeaders_internal</b> = true)</code>
+<code>public function <b><a href="Curl">Curl</a>::exec</b>(<b>$_applyHeaders_internal</b> = true)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: RedlandStorage::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandStorage]]::__construct</b>(<b>$storageName</b> = null, <b>$name</b> = null, <b>$options</b> = null, <b>$world</b> = null)</code>
+<code>public function <b><a href="RedlandStorage">RedlandStorage</a>::__construct</b>(<b>$storageName</b> = null, <b>$name</b> = null, <b>$options</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

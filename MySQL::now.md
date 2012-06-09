@@ -1,4 +1,8 @@
+---
+title: MySQL::now
+---
+
 ## Synopsis
 
-<code>public function <b>[[MySQL]]::now</b>()</code>
+<code>public function <b><a href="MySQL">MySQL</a>::now</b>()</code>
 

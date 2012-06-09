@@ -1,6 +1,10 @@
+---
+title: EregansuDateTime::parse
+---
+
 ## Synopsis
 
-<code>public static function <b>[[EregansuDateTime]]::parse</b>(<b>$s</b>, <b>$tz</b> = null)</code>
+<code>public static function <b><a href="EregansuDateTime">EregansuDateTime</a>::parse</b>(<b>$s</b>, <b>$tz</b> = null)</code>
 
 ## Parameters
 

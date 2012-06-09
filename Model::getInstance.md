@@ -1,21 +1,25 @@
-Obtains an instance of one of `[[Model]]`'s descendants.
+---
+title: Model::getInstance
+---
+
+Obtains an instance of one of `<a href="Model">Model</a>`'s descendants.
 
 ## Synopsis
 
 <code>uses('model');</code>
 
-<code>public static function <i>Model</i> <b>[[Model]]::getInstance</b>(<i>array</i> <i>[in,optional]</i> <b>$args</b> = null)</code>
+<code>public static function <i>Model</i> <b><a href="Model">Model</a>::getInstance</b>(<i>array</i> <i>[in,optional]</i> <b>$args</b> = null)</code>
 
 ## Description
 
 If `$args['class']` is not set, `Model::getInstance()` will immediately
 return `null`.
 Otherwise, an instance of the named class will be obtained, and its
-[[constructorModel::__construct]] will be invoked, passing `$args`.
+<a href="Model%3A%3A__construct">constructor</a> will be invoked, passing `$args`.
 Descendants should override `Model::getInstance()` to set `$args['class']` to
 the name of the class if it's not set.
 Descendants should, if possible, ensure that `$args['db']` is set to
-a database connection IRI which can be passed to `[[DBCore::connect]]()`.
+a database connection URI which can be passed to `<a href="DBCore%3A%3Aconnect">DBCore::connect</a>()`.
 The combination of `$args['class']` and `$args['db']` are used to
 construct a key into the shared instance list. When a new instance is
 constructed, it is stored with this key in the list. If an entry with
@@ -47,5 +51,5 @@ Initialisation parameter array.
 
 ## Return Value
 
-On success, returns an instance of a descendant of `[[Model]]`.
+On success, returns an instance of a descendant of `<a href="Model">Model</a>`.
 

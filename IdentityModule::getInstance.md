@@ -1,6 +1,10 @@
+---
+title: IdentityModule::getInstance
+---
+
 ## Synopsis
 
-<code>public static function <b>[[IdentityModule]]::getInstance</b>(<b>$args</b> = null)</code>
+<code>public static function <b><a href="IdentityModule">IdentityModule</a>::getInstance</b>(<b>$args</b> = null)</code>
 
 ## Parameters
 

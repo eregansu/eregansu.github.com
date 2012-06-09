@@ -1,6 +1,10 @@
+---
+title: CurlHeaders::offsetExists
+---
+
 ## Synopsis
 
-<code>public function <b>[[CurlHeaders]]::offsetExists</b>(<b>$name</b>)</code>
+<code>public function <b><a href="CurlHeaders">CurlHeaders</a>::offsetExists</b>(<b>$name</b>)</code>
 
 ## Parameters
 

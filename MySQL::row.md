@@ -1,6 +1,10 @@
+---
+title: MySQL::row
+---
+
 ## Synopsis
 
-<code>public function <b>[[MySQL]]::row</b>(<b>$query</b>)</code>
+<code>public function <b><a href="MySQL">MySQL</a>::row</b>(<b>$query</b>)</code>
 
 ## Parameters
 

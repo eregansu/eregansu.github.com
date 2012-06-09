@@ -1,6 +1,10 @@
+---
+title: Identity
+---
+
 Identity management.
 
-`Identity` is a class derived from [[Model]].
+`Identity` is a class derived from <a href="Model">Model</a>.
 
 ## Synopsis
 
@@ -10,9 +14,9 @@ uses('id');
 
 ## Public Static Methods
 
-* `[[Identity::getInstance]]()`
+* `<a href="Identity%3A%3AgetInstance">Identity::getInstance</a>()`
 
 ## Public Methods
 
-* `[[Identity::__construct]]()`
+* `<a href="Identity%3A%3A__construct">Identity::__construct</a>()`
 

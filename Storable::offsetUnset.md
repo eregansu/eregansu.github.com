@@ -1,8 +1,12 @@
+---
+title: Storable::offsetUnset
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Storable]]::offsetUnset</b>(<b>$name</b>)</code>
+<code>public function <b><a href="Storable">Storable</a>::offsetUnset</b>(<b>$name</b>)</code>
 
 ## Parameters
 

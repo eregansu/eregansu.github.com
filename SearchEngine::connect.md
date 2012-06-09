@@ -1,6 +1,10 @@
+---
+title: SearchEngine::connect
+---
+
 ## Synopsis
 
-<code>public static function <b>[[SearchEngine]]::connect</b>(<b>$uri</b>)</code>
+<code>public static function <b><a href="SearchEngine">SearchEngine</a>::connect</b>(<b>$uri</b>)</code>
 
 ## Parameters
 

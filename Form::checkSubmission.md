@@ -1,8 +1,12 @@
+---
+title: Form::checkSubmission
+---
+
 ## Synopsis
 
 <code>uses('form');</code>
 
-<code>public function <b>[[Form]]::checkSubmission</b>(<b>$req</b>)</code>
+<code>public function <b><a href="Form">Form</a>::checkSubmission</b>(<b>$req</b>)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: RedlandNode::literal
+---
+
 ## Synopsis
 
-<code>public static function <b>[[RedlandNode]]::literal</b>(<b>$text</b>, <b>$world</b> = null)</code>
+<code>public static function <b><a href="RedlandNode">RedlandNode</a>::literal</b>(<b>$text</b>, <b>$world</b> = null)</code>
 
 ## Parameters
 

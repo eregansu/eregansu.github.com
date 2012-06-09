@@ -1,8 +1,12 @@
+---
+title: Auth::authEngineForScheme
+---
+
 ## Synopsis
 
 <code>uses('auth');</code>
 
-<code>public static function <b>[[Auth]]::authEngineForScheme</b>(<b>$scheme</b>)</code>
+<code>public static function <b><a href="Auth">Auth</a>::authEngineForScheme</b>(<b>$scheme</b>)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: RDFComplexLiteral::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFComplexLiteral]]::__construct</b>(<b>$type</b> = null, <b>$value</b> = null, <b>$lang</b> = null, <b>$world</b> = null)</code>
+<code>public function <b><a href="RDFComplexLiteral">RDFComplexLiteral</a>::__construct</b>(<b>$type</b> = null, <b>$value</b> = null, <b>$lang</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

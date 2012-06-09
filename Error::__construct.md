@@ -1,8 +1,12 @@
+---
+title: Error::__construct
+---
+
 ## Synopsis
 
 <code>uses('error');</code>
 
-<code>public function <b>[[Error]]::__construct</b>(<b>$aStatus</b> = null)</code>
+<code>public function <b><a href="Error">Error</a>::__construct</b>(<b>$aStatus</b> = null, <b>$object</b> = null, <b>$detail</b> = null)</code>
 
 ## Parameters
 
@@ -18,6 +22,22 @@
   <tbody>
     <tr>
       <td><code>$aStatus</code>
+      <td><i></i></td>
+      <td></td>
+      <td>
+
+      </td>
+    </tr>
+    <tr>
+      <td><code>$object</code>
+      <td><i></i></td>
+      <td></td>
+      <td>
+
+      </td>
+    </tr>
+    <tr>
+      <td><code>$detail</code>
       <td><i></i></td>
       <td></td>
       <td>

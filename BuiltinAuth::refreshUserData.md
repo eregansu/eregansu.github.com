@@ -1,8 +1,10 @@
+---
+title: BuiltinAuth::refreshUserData
+---
+
 ## Synopsis
 
-<code>uses('auth');</code>
-
-<code>public function <b>[[BuiltinAuth]]::refreshUserData</b>(<b>$data</b>)</code>
+<code>public function <b><a href="BuiltinAuth">BuiltinAuth</a>::refreshUserData</b>(<b>$data</b>)</code>
 
 ## Parameters
 

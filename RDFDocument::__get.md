@@ -1,6 +1,10 @@
+---
+title: RDFDocument::__get
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::__get</b>(<b>$name</b>)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::__get</b>(<b>$name</b>)</code>
 
 ## Parameters
 

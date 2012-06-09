@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::__get
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::__get</b>(<b>$predicate</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::__get</b>(<b>$predicate</b>)</code>
 
 ## Parameters
 

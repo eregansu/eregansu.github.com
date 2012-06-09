@@ -1,6 +1,10 @@
+---
+title: RDFSet::removeValueString
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFSet]]::removeValueString</b>(<b>$string</b>)</code>
+<code>public function <b><a href="RDFSet">RDFSet</a>::removeValueString</b>(<b>$string</b>)</code>
 
 ## Parameters
 

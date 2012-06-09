@@ -1,4 +1,8 @@
+---
+title: RDFURI::asArray
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFURI]]::asArray</b>()</code>
+<code>public function <b><a href="RDFURI">RDFURI</a>::asArray</b>()</code>
 

@@ -1,8 +1,12 @@
+---
+title: Auth::retrieveUserData
+---
+
 ## Synopsis
 
 <code>uses('auth');</code>
 
-<code>public function <b>[[Auth]]::retrieveUserData</b>(<b>$scheme</b>, <b>$remainder</b>)</code>
+<code>public function <b><a href="Auth">Auth</a>::retrieveUserData</b>(<b>$scheme</b>, <b>$remainder</b>)</code>
 
 ## Parameters
 

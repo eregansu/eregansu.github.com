@@ -1,8 +1,12 @@
+---
+title: Form::cancel
+---
+
 ## Synopsis
 
 <code>uses('form');</code>
 
-<code>public function <b>[[Form]]::cancel</b>(<b>$url</b>)</code>
+<code>public function <b><a href="Form">Form</a>::cancel</b>(<b>$url</b>)</code>
 
 ## Parameters
 

@@ -1,8 +1,12 @@
+---
+title: Request::write
+---
+
 ## Synopsis
 
 <code>uses('request');</code>
 
-<code>public function <b>[[Request]]::write</b>(<b>$str</b>)</code>
+<code>public function <b><a href="Request">Request</a>::write</b>(<b>$str</b>)</code>
 
 ## Parameters
 

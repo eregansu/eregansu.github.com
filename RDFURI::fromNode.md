@@ -1,6 +1,10 @@
+---
+title: RDFURI::fromNode
+---
+
 ## Synopsis
 
-<code>public static function <b>[[RDFURI]]::fromNode</b>(<b>$node</b>)</code>
+<code>public static function <b><a href="RDFURI">RDFURI</a>::fromNode</b>(<b>$node</b>)</code>
 
 ## Parameters
 

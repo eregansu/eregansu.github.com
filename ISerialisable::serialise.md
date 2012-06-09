@@ -1,8 +1,12 @@
+---
+title: ISerialisable::serialise
+---
+
 ## Synopsis
 
 <code>require_once(dirname(__FILE__) . '/../eregansu/lib/common.php');</code>
 
-<code>public function <b>[[ISerialisable]]::serialise</b>(<b>$mimeType</b>, <b>$returnBuffer</b> = false, <b>$request</b> = null, <b>$sendHeaders</b> = null)</code>
+<code>public function <b><a href="ISerialisable">ISerialisable</a>::serialise</b>(<b>$mimeType</b>, <b>$returnBuffer</b> = false, <b>$request</b> = null, <b>$sendHeaders</b> = null)</code>
 
 ## Parameters
 

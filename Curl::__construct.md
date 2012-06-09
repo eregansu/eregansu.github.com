@@ -1,6 +1,10 @@
+---
+title: Curl::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[Curl]]::__construct</b>(<b>$url</b> = null)</code>
+<code>public function <b><a href="Curl">Curl</a>::__construct</b>(<b>$url</b> = null)</code>
 
 ## Parameters
 

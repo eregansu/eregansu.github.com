@@ -1,6 +1,10 @@
+---
+title: XapianIndexer::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[XapianIndexer]]::__construct</b>(<b>$uri</b>)</code>
+<code>public function <b><a href="XapianIndexer">XapianIndexer</a>::__construct</b>(<b>$uri</b>)</code>
 
 ## Parameters
 

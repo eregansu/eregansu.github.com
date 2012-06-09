@@ -1,4 +1,8 @@
+---
+title: DBTable::apply
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBTable]]::apply</b>()</code>
+<code>public function <b><a href="DBTable">DBTable</a>::apply</b>()</code>
 

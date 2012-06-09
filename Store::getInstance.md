@@ -1,8 +1,12 @@
+---
+title: Store::getInstance
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public static function <b>[[Store]]::getInstance</b>(<b>$args</b> = null)</code>
+<code>public static function <b><a href="Store">Store</a>::getInstance</b>(<b>$args</b> = null)</code>
 
 ## Parameters
 

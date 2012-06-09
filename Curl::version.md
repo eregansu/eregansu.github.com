@@ -1,4 +1,8 @@
+---
+title: Curl::version
+---
+
 ## Synopsis
 
-<code>public static function <b>[[Curl]]::version</b>()</code>
+<code>public static function <b><a href="Curl">Curl</a>::version</b>()</code>
 

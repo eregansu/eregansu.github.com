@@ -1,4 +1,8 @@
+---
+title: RDFDocument::asJSONTriples
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::asJSONTriples</b>()</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::asJSONTriples</b>()</code>
 

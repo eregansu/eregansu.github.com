@@ -1,4 +1,8 @@
+---
+title: RedlandNode::isBlank
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandNode]]::isBlank</b>()</code>
+<code>public function <b><a href="RedlandNode">RedlandNode</a>::isBlank</b>()</code>
 

@@ -1,6 +1,10 @@
+---
+title: MySQL::quoteTable
+---
+
 ## Synopsis
 
-<code>public function <b>[[MySQL]]::quoteTable</b>(<b>$name</b>)</code>
+<code>public function <b><a href="MySQL">MySQL</a>::quoteTable</b>(<b>$name</b>)</code>
 
 ## Parameters
 

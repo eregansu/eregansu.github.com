@@ -1,8 +1,12 @@
+---
+title: Template::setArrayRef
+---
+
 ## Synopsis
 
 <code>uses('template');</code>
 
-<code>public function <b>[[Template]]::setArrayRef</b>(<b>$vars</b>)</code>
+<code>public function <b><a href="Template">Template</a>::setArrayRef</b>(<b>$vars</b>)</code>
 
 ## Parameters
 

@@ -1,8 +1,10 @@
+---
+title: LDAP::quoteRef
+---
+
 ## Synopsis
 
-<code>uses('db');</code>
-
-<code>public function <b>[[LDAP]]::quoteRef</b>(<b>$string</b>)</code>
+<code>public function <b><a href="LDAP">LDAP</a>::quoteRef</b>(<b>$string</b>)</code>
 
 ## Parameters
 

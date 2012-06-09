@@ -1,6 +1,10 @@
+---
+title: StoreModule::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[StoreModule]]::__construct</b>(<b>$args</b>)</code>
+<code>public function <b><a href="StoreModule">StoreModule</a>::__construct</b>(<b>$args</b>)</code>
 
 ## Parameters
 

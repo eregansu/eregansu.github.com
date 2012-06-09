@@ -1,8 +1,12 @@
+---
+title: IAuthEngine::verifyAuth
+---
+
 ## Synopsis
 
 <code>uses('auth');</code>
 
-<code>public function <b>[[IAuthEngine]]::verifyAuth</b>(<b>$request</b>, <b>$scheme</b>, <b>$remainder</b>, <b>$authData</b>, <b>$callbackIRI</b>)</code>
+<code>public function <b><a href="IAuthEngine">IAuthEngine</a>::verifyAuth</b>(<b>$request</b>, <b>$scheme</b>, <b>$remainder</b>, <b>$authData</b>, <b>$callbackIRI</b>)</code>
 
 ## Parameters
 

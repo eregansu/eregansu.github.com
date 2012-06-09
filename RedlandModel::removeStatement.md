@@ -1,6 +1,10 @@
+---
+title: RedlandModel::removeStatement
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandModel]]::removeStatement</b>(<b>$statement</b>)</code>
+<code>public function <b><a href="RedlandModel">RedlandModel</a>::removeStatement</b>(<b>$statement</b>)</code>
 
 ## Parameters
 

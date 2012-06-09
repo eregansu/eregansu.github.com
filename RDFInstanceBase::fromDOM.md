@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::fromDOM
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::fromDOM</b>(<b>$root</b>, <b>$doc</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::fromDOM</b>(<b>$root</b>, <b>$doc</b>)</code>
 
 ## Parameters
 

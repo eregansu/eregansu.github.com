@@ -1,8 +1,12 @@
+---
+title: RDFStore::subjectOfObject
+---
+
 ## Synopsis
 
 <code>uses('rdfstore');</code>
 
-<code>public function <b>[[RDFStore]]::subjectOfObject</b>(<b>$object</b>)</code>
+<code>public function <b><a href="RDFStore">RDFStore</a>::subjectOfObject</b>(<b>$object</b>)</code>
 
 ## Parameters
 

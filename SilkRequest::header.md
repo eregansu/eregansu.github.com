@@ -1,6 +1,10 @@
+---
+title: SilkRequest::header
+---
+
 ## Synopsis
 
-<code>public function <b>[[SilkRequest]]::header</b>(<b>$name</b>, <b>$value</b>, <b>$replace</b> = true)</code>
+<code>public function <b><a href="SilkRequest">SilkRequest</a>::header</b>(<b>$name</b>, <b>$value</b>, <b>$replace</b> = true)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
-`RDFXMLStreamParser` is a class derived from [[XMLParser]].
+---
+title: RDFXMLStreamParser
+---
+
+`RDFXMLStreamParser` is a class derived from <a href="XMLParser">XMLParser</a>.
 
 ## Public Methods
 
-* `[[RDFXMLStreamParser::__construct]]()`
+* `<a href="RDFXMLStreamParser%3A%3A__construct">RDFXMLStreamParser::__construct</a>()`
 

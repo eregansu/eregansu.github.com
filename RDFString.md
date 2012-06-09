@@ -1,4 +1,8 @@
-`RDFString` is a class derived from [[RDFComplexLiteral]].
+---
+title: RDFString
+---
+
+`RDFString` is a class derived from <a href="RDFComplexLiteral">RDFComplexLiteral</a>.
 
 ## Synopsis
 
@@ -8,5 +12,5 @@ uses('rdf');
 
 ## Public Methods
 
-* `[[RDFString::__construct]]()`
+* `<a href="RDFString%3A%3A__construct">RDFString::__construct</a>()`
 

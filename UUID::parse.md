@@ -1,10 +1,12 @@
+---
+title: UUID::parse
+---
+
 Parse a string containing a UUID and return an array representing its value.
 
 ## Synopsis
 
-<code>uses('uuid');</code>
-
-<code>public static function <i>array</i> <b>[[UUID]]::parse</b>(<i>string</i> <i>[in]</i> <b>$uuid</b>)</code>
+<code>public static function <i>array</i> <b><a href="UUID">UUID</a>::parse</b>(<i>string</i> <i>[in]</i> <b>$uuid</b>)</code>
 
 ## Description
 
@@ -20,10 +22,6 @@ array contains the following members:
 - `variant`
 The `version` member contains a UUID version number, for example `UUID::RANDOM`.
 The `variant` member specifies the UUID variant, for example `UUID::DCE`.
-
-## Example
-
-* [examples/uuids.php](http://github.com/nexgenta/eregansu/blob/master/examples/uuids.php)
 
 ## Parameters
 

@@ -1,8 +1,12 @@
+---
+title: Store::pendingObjectsSet
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::pendingObjectsSet</b>(<b>$limit</b> = null)</code>
+<code>public function <b><a href="Store">Store</a>::pendingObjectsSet</b>(<b>$limit</b> = null)</code>
 
 ## Parameters
 

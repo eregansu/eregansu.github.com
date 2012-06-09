@@ -1,6 +1,10 @@
+---
+title: MySQLSchema::moduleVersion
+---
+
 ## Synopsis
 
-<code>public function <b>[[MySQLSchema]]::moduleVersion</b>(<b>$moduleId</b>)</code>
+<code>public function <b><a href="MySQLSchema">MySQLSchema</a>::moduleVersion</b>(<b>$moduleId</b>)</code>
 
 ## Parameters
 

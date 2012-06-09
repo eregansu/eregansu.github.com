@@ -1,4 +1,8 @@
+---
+title: RDFInstanceBase::asTurtle
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::asTurtle</b>()</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::asTurtle</b>()</code>
 

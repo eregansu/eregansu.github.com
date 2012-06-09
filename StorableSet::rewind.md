@@ -1,6 +1,10 @@
+---
+title: StorableSet::rewind
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[StorableSet]]::rewind</b>()</code>
+<code>public function <b><a href="StorableSet">StorableSet</a>::rewind</b>()</code>
 

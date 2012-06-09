@@ -1,6 +1,10 @@
+---
+title: Silk::main
+---
+
 ## Synopsis
 
-<code>public function <b>[[Silk]]::main</b>(<b>$args</b>)</code>
+<code>public function <b><a href="Silk">Silk</a>::main</b>(<b>$args</b>)</code>
 
 ## Parameters
 

@@ -1,19 +1,17 @@
+---
+title: UUID::unparse
+---
+
 Constructs a UUID string given an array as returned by UUID::parse()
 
 ## Synopsis
 
-<code>uses('uuid');</code>
-
-<code>public static function <i>string</i> <b>[[UUID]]::unparse</b>(<i>array</i> <i>[in]</i> <b>$info</b>)</code>
+<code>public static function <i>string</i> <b><a href="UUID">UUID</a>::unparse</b>(<i>array</i> <i>[in]</i> <b>$info</b>)</code>
 
 ## Description
 
 `UUID::unparse()` accepts an array representation of a UUID as returned by
-`[[UUID::parse]]()` and returns a string representation of the same UUID.
-
-## Example
-
-* [examples/uuids.php](http://github.com/nexgenta/eregansu/blob/master/examples/uuids.php)
+`<a href="UUID%3A%3Aparse">UUID::parse</a>()` and returns a string representation of the same UUID.
 
 ## Parameters
 

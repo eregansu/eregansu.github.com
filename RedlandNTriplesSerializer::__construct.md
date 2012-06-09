@@ -1,6 +1,10 @@
+---
+title: RedlandNTriplesSerializer::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandNTriplesSerializer]]::__construct</b>(<b>$mime</b> = null, <b>$uri</b> = null, <b>$world</b> = null)</code>
+<code>public function <b><a href="RedlandNTriplesSerializer">RedlandNTriplesSerializer</a>::__construct</b>(<b>$mime</b> = null, <b>$uri</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

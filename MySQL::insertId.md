@@ -1,4 +1,8 @@
+---
+title: MySQL::insertId
+---
+
 ## Synopsis
 
-<code>public function <b>[[MySQL]]::insertId</b>()</code>
+<code>public function <b><a href="MySQL">MySQL</a>::insertId</b>()</code>
 

@@ -1,6 +1,10 @@
+---
+title: RedlandBase::world
+---
+
 ## Synopsis
 
-<code>public static function <b>[[RedlandBase]]::world</b>(<b>$world</b> = null)</code>
+<code>public static function <b><a href="RedlandBase">RedlandBase</a>::world</b>(<b>$world</b> = null)</code>
 
 ## Parameters
 

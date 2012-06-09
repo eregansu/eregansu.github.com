@@ -1,4 +1,8 @@
+---
+title: SilkRequest::complete
+---
+
 ## Synopsis
 
-<code>public function <b>[[SilkRequest]]::complete</b>()</code>
+<code>public function <b><a href="SilkRequest">SilkRequest</a>::complete</b>()</code>
 

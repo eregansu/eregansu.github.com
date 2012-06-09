@@ -1,6 +1,10 @@
+---
+title: TransientSession::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[TransientSession]]::__construct</b>(<b>$request</b>)</code>
+<code>public function <b><a href="TransientSession">TransientSession</a>::__construct</b>(<b>$request</b>)</code>
 
 ## Parameters
 

@@ -1,8 +1,12 @@
+---
+title: Request::header
+---
+
 ## Synopsis
 
 <code>uses('request');</code>
 
-<code>public function <b>[[Request]]::header</b>(<b>$name</b>, <b>$value</b> = null, <b>$replace</b> = true)</code>
+<code>public function <b><a href="Request">Request</a>::header</b>(<b>$name</b>, <b>$value</b> = null, <b>$replace</b> = true)</code>
 
 ## Parameters
 

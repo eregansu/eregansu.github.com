@@ -1,6 +1,10 @@
+---
+title: RedlandNode::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandNode]]::__construct</b>(<b>$node</b>, <b>$world</b> = null)</code>
+<code>public function <b><a href="RedlandNode">RedlandNode</a>::__construct</b>(<b>$node</b>, <b>$world</b> = null)</code>
 
 ## Parameters
 

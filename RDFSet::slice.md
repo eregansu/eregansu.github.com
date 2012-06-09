@@ -1,6 +1,10 @@
+---
+title: RDFSet::slice
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFSet]]::slice</b>(<b>$start</b>, <b>$count</b>)</code>
+<code>public function <b><a href="RDFSet">RDFSet</a>::slice</b>(<b>$start</b>, <b>$count</b>)</code>
 
 ## Parameters
 

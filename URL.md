@@ -1,17 +1,6 @@
-`URL` is a base class.
+---
+title: URL
+---
 
-## Public Static Methods
-
-* `[[URL::register]]()`
-* `[[URL::parse]]()`
-* `[[URL::parseForOptions]]()`
-* `[[URL::copy]]()`
-* `[[URL::readlink]]()`
-* `[[URL::realpath]]()`
-* `[[URL::merge]]()`
-
-## Public Methods
-
-* `[[URL::__construct]]()`
-* `[[URL::__toString]]()`
+`URL` is a class derived from <a href="URI">URI</a>.
 

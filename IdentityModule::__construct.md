@@ -1,6 +1,10 @@
+---
+title: IdentityModule::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[IdentityModule]]::__construct</b>(<b>$args</b>)</code>
+<code>public function <b><a href="IdentityModule">IdentityModule</a>::__construct</b>(<b>$args</b>)</code>
 
 ## Parameters
 

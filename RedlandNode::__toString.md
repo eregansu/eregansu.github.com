@@ -1,4 +1,8 @@
+---
+title: RedlandNode::__toString
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandNode]]::__toString</b>()</code>
+<code>public function <b><a href="RedlandNode">RedlandNode</a>::__toString</b>()</code>
 

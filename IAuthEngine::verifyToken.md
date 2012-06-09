@@ -1,8 +1,12 @@
+---
+title: IAuthEngine::verifyToken
+---
+
 ## Synopsis
 
 <code>uses('auth');</code>
 
-<code>public function <b>[[IAuthEngine]]::verifyToken</b>(<b>$request</b>, <b>$scheme</b>, <b>$remainder</b>, <b>$token</b>)</code>
+<code>public function <b><a href="IAuthEngine">IAuthEngine</a>::verifyToken</b>(<b>$request</b>, <b>$scheme</b>, <b>$remainder</b>, <b>$token</b>)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: RedlandNode::blank
+---
+
 ## Synopsis
 
-<code>public static function <b>[[RedlandNode]]::blank</b>(<b>$world</b> = null)</code>
+<code>public static function <b><a href="RedlandNode">RedlandNode</a>::blank</b>(<b>$world</b> = null)</code>
 
 ## Parameters
 

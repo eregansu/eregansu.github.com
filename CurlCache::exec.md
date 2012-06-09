@@ -1,6 +1,10 @@
+---
+title: CurlCache::exec
+---
+
 ## Synopsis
 
-<code>public function <b>[[CurlCache]]::exec</b>(<b>$_applyHeaders_internal</b> = true)</code>
+<code>public function <b><a href="CurlCache">CurlCache</a>::exec</b>(<b>$_applyHeaders_internal</b> = true)</code>
 
 ## Parameters
 

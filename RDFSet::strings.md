@@ -1,4 +1,8 @@
+---
+title: RDFSet::strings
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFSet]]::strings</b>()</code>
+<code>public function <b><a href="RDFSet">RDFSet</a>::strings</b>()</code>
 

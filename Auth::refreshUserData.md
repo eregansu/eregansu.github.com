@@ -1,8 +1,12 @@
+---
+title: Auth::refreshUserData
+---
+
 ## Synopsis
 
 <code>uses('auth');</code>
 
-<code>public function <b>[[Auth]]::refreshUserData</b>(<b>$data</b>)</code>
+<code>public function <b><a href="Auth">Auth</a>::refreshUserData</b>(<b>$data</b>)</code>
 
 ## Parameters
 

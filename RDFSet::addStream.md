@@ -1,6 +1,10 @@
+---
+title: RDFSet::addStream
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFSet]]::addStream</b>(<b>$stream</b>)</code>
+<code>public function <b><a href="RDFSet">RDFSet</a>::addStream</b>(<b>$stream</b>)</code>
 
 ## Parameters
 

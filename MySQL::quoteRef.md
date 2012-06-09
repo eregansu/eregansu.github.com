@@ -1,6 +1,10 @@
+---
+title: MySQL::quoteRef
+---
+
 ## Synopsis
 
-<code>public function <b>[[MySQL]]::quoteRef</b>(<b>$string</b>)</code>
+<code>public function <b><a href="MySQL">MySQL</a>::quoteRef</b>(<b>$string</b>)</code>
 
 ## Parameters
 

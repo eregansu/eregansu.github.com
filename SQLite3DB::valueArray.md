@@ -1,6 +1,10 @@
+---
+title: SQLite3DB::valueArray
+---
+
 ## Synopsis
 
-<code>public function <b>[[SQLite3DB]]::valueArray</b>(<b>$query</b>, <b>$params</b>)</code>
+<code>public function <b><a href="SQLite3DB">SQLite3DB</a>::valueArray</b>(<b>$query</b>, <b>$params</b>)</code>
 
 ## Parameters
 

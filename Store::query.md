@@ -1,8 +1,12 @@
+---
+title: Store::query
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::query</b>(<b>$query</b>)</code>
+<code>public function <b><a href="Store">Store</a>::query</b>(<b>$query</b>)</code>
 
 ## Parameters
 

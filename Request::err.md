@@ -1,8 +1,12 @@
+---
+title: Request::err
+---
+
 ## Synopsis
 
 <code>uses('request');</code>
 
-<code>public function <b>[[Request]]::err</b>(<b>$str</b>)</code>
+<code>public function <b><a href="Request">Request</a>::err</b>(<b>$str</b>)</code>
 
 ## Parameters
 

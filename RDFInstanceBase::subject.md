@@ -1,4 +1,8 @@
+---
+title: RDFInstanceBase::subject
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::subject</b>()</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::subject</b>()</code>
 

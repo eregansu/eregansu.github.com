@@ -1,6 +1,10 @@
+---
+title: StaticStorableSet::key
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[StaticStorableSet]]::key</b>()</code>
+<code>public function <b><a href="StaticStorableSet">StaticStorableSet</a>::key</b>()</code>
 

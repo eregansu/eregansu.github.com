@@ -1,6 +1,10 @@
+---
+title: SilkRequest::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[SilkRequest]]::__construct</b>(<b>$client</b>)</code>
+<code>public function <b><a href="SilkRequest">SilkRequest</a>::__construct</b>(<b>$client</b>)</code>
 
 ## Parameters
 

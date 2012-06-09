@@ -1,8 +1,10 @@
+---
+title: LDAPSet::__construct
+---
+
 ## Synopsis
 
-<code>uses('db');</code>
-
-<code>public function <b>[[LDAPSet]]::__construct</b>(<b>$db</b>, <b>$resource</b>)</code>
+<code>public function <b><a href="LDAPSet">LDAPSet</a>::__construct</b>(<b>$db</b>, <b>$resource</b>)</code>
 
 ## Parameters
 

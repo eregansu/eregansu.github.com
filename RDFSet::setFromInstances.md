@@ -1,6 +1,10 @@
+---
+title: RDFSet::setFromInstances
+---
+
 ## Synopsis
 
-<code>public static function <b>[[RDFSet]]::setFromInstances</b>(<b>$keys</b>, <b>$instances</b>)</code>
+<code>public static function <b><a href="RDFSet">RDFSet</a>::setFromInstances</b>(<b>$keys</b>, <b>$instances</b>)</code>
 
 ## Parameters
 

@@ -1,8 +1,10 @@
+---
+title: BuiltinAuth::verifyToken
+---
+
 ## Synopsis
 
-<code>uses('auth');</code>
-
-<code>public function <b>[[BuiltinAuth]]::verifyToken</b>(<b>$request</b>, <b>$scheme</b>, <b>$iri</b>, <b>$token</b>)</code>
+<code>public function <b><a href="BuiltinAuth">BuiltinAuth</a>::verifyToken</b>(<b>$request</b>, <b>$scheme</b>, <b>$iri</b>, <b>$token</b>)</code>
 
 ## Parameters
 

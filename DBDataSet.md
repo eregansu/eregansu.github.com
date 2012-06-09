@@ -1,6 +1,10 @@
+---
+title: DBDataSet
+---
+
 `DBDataSet` is a base class.
 
-[View source](http://github.com/nexgenta/eregansu/blob/master/lib/db.php)
+<a href="http://github.com/nexgenta/eregansu/blob/master/lib/db.php">View source</a>
 
 ## Synopsis
 
@@ -10,10 +14,10 @@ uses('db');
 
 ## Public Methods
 
-* `[[DBDataSet::__construct]]()`
-* `[[DBDataSet::next]]()`
-* `[[DBDataSet::rewind]]()`
-* `[[DBDataSet::current]]()`
-* `[[DBDataSet::key]]()`
-* `[[DBDataSet::valid]]()`
+* `<a href="DBDataSet%3A%3A__construct">DBDataSet::__construct</a>()`
+* `<a href="DBDataSet%3A%3Anext">DBDataSet::next</a>()`
+* `<a href="DBDataSet%3A%3Arewind">DBDataSet::rewind</a>()`
+* `<a href="DBDataSet%3A%3Acurrent">DBDataSet::current</a>()`
+* `<a href="DBDataSet%3A%3Akey">DBDataSet::key</a>()`
+* `<a href="DBDataSet%3A%3Avalid">DBDataSet::valid</a>()`
 

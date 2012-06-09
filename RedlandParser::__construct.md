@@ -1,6 +1,10 @@
+---
+title: RedlandParser::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandParser]]::__construct</b>(<b>$name</b> = null, <b>$mime</b> = null, <b>$type</b> = null, <b>$world</b> = null)</code>
+<code>public function <b><a href="RedlandParser">RedlandParser</a>::__construct</b>(<b>$name</b> = null, <b>$mime</b> = null, <b>$type</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

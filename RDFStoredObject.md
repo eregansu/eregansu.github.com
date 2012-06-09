@@ -1,4 +1,8 @@
-`RDFStoredObject` is a class derived from [[RDFInstance]].
+---
+title: RDFStoredObject
+---
+
+`RDFStoredObject` is a class derived from <a href="RDFInstance">RDFInstance</a>.
 
 ## Synopsis
 
@@ -8,5 +12,5 @@ uses('rdfstore');
 
 ## Public Static Methods
 
-* `[[RDFStoredObject::objectForData]]()`
+* `<a href="RDFStoredObject%3A%3AobjectForData">RDFStoredObject::objectForData</a>()`
 

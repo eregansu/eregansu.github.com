@@ -1,6 +1,10 @@
+---
+title: ISearchIndexer::indexDocument
+---
+
 ## Synopsis
 
-<code>public function <b>[[ISearchIndexer]]::indexDocument</b>(<b>$identifier</b>, <b>$text</b>, <b>$attributes</b> = null)</code>
+<code>public function <b><a href="ISearchIndexer">ISearchIndexer</a>::indexDocument</b>(<b>$identifier</b>, <b>$text</b> = null, <b>$attributes</b> = null)</code>
 
 ## Parameters
 

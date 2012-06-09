@@ -1,4 +1,8 @@
+---
+title: EregansuDateTime::__toString
+---
+
 ## Synopsis
 
-<code>public function <b>[[EregansuDateTime]]::__toString</b>()</code>
+<code>public function <b><a href="EregansuDateTime">EregansuDateTime</a>::__toString</b>()</code>
 

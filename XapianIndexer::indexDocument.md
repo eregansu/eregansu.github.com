@@ -1,6 +1,10 @@
+---
+title: XapianIndexer::indexDocument
+---
+
 ## Synopsis
 
-<code>public function <b>[[XapianIndexer]]::indexDocument</b>(<b>$identifier</b>, <b>$fullText</b>, <b>$attributes</b> = null)</code>
+<code>public function <b><a href="XapianIndexer">XapianIndexer</a>::indexDocument</b>(<b>$identifier</b>, <b>$fullText</b> = null, <b>$attributes</b> = null)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: TransientSession::commit
+---
+
 ## Synopsis
 
-<code>public function <b>[[TransientSession]]::commit</b>(<b>$req</b> = null)</code>
+<code>public function <b><a href="TransientSession">TransientSession</a>::commit</b>(<b>$req</b> = null)</code>
 
 ## Parameters
 

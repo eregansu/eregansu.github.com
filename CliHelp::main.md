@@ -1,6 +1,10 @@
+---
+title: CliHelp::main
+---
+
 ## Synopsis
 
-<code>public function <b>[[CliHelp]]::main</b>(<b>$args</b>)</code>
+<code>public function <b><a href="CliHelp">CliHelp</a>::main</b>(<b>$args</b>)</code>
 
 ## Parameters
 

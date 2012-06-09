@@ -1,4 +1,8 @@
+---
+title: SilkRequest::flush
+---
+
 ## Synopsis
 
-<code>public function <b>[[SilkRequest]]::flush</b>()</code>
+<code>public function <b><a href="SilkRequest">SilkRequest</a>::flush</b>()</code>
 

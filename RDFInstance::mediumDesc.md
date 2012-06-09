@@ -1,8 +1,12 @@
+---
+title: RDFInstance::mediumDesc
+---
+
 ## Synopsis
 
 <code>uses('rdf');</code>
 
-<code>public function <b>[[RDFInstance]]::mediumDesc</b>(<b>$langs</b> = null, <b>$fallbackFirst</b> = true)</code>
+<code>public function <b><a href="RDFInstance">RDFInstance</a>::mediumDesc</b>(<b>$langs</b> = null, <b>$fallbackFirst</b> = true)</code>
 
 ## Parameters
 

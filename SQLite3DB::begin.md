@@ -1,4 +1,8 @@
+---
+title: SQLite3DB::begin
+---
+
 ## Synopsis
 
-<code>public function <b>[[SQLite3DB]]::begin</b>()</code>
+<code>public function <b><a href="SQLite3DB">SQLite3DB</a>::begin</b>()</code>
 

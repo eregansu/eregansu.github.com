@@ -1,6 +1,10 @@
+---
+title: DBSchema::moduleVersion
+---
+
 ## Synopsis
 
-<code>abstract public function <b>[[DBSchema]]::moduleVersion</b>(<b>$moduleId</b>)</code>
+<code>abstract public function <b><a href="DBSchema">DBSchema</a>::moduleVersion</b>(<b>$moduleId</b>)</code>
 
 ## Parameters
 

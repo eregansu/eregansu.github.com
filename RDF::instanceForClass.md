@@ -1,8 +1,12 @@
+---
+title: RDF::instanceForClass
+---
+
 ## Synopsis
 
 <code>uses('rdf');</code>
 
-<code>public static function <b>[[RDF]]::instanceForClass</b>(<b>$classUri</b>, <b>$lname</b> = null)</code>
+<code>public static function <b><a href="RDF">RDF</a>::instanceForClass</b>(<b>$classUri</b>, <b>$lname</b> = null)</code>
 
 ## Parameters
 

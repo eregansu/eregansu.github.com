@@ -1,8 +1,12 @@
+---
+title: Store::dataForUUID
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::dataForUUID</b>(<b>$uuid</b>, <b>$owner</b> = null, <b>$kind</b> = null, <b>$firstOnly</b> = false)</code>
+<code>public function <b><a href="Store">Store</a>::dataForUUID</b>(<b>$uuid</b>, <b>$owner</b> = null, <b>$kind</b> = null, <b>$firstOnly</b> = false)</code>
 
 ## Parameters
 

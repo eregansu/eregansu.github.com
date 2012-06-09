@@ -1,2 +1,6 @@
-`MySQLTable` is a class derived from [[DBTable]].
+---
+title: MySQLTable
+---
+
+`MySQLTable` is a class derived from <a href="DBTable">DBTable</a>.
 

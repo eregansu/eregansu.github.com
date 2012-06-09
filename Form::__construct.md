@@ -1,8 +1,12 @@
+---
+title: Form::__construct
+---
+
 ## Synopsis
 
 <code>uses('form');</code>
 
-<code>public function <b>[[Form]]::__construct</b>(<b>$name</b>)</code>
+<code>public function <b><a href="Form">Form</a>::__construct</b>(<b>$name</b>)</code>
 
 ## Parameters
 

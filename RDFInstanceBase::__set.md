@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::__set
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::__set</b>(<b>$key</b>, <b>$value</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::__set</b>(<b>$key</b>, <b>$value</b>)</code>
 
 ## Parameters
 

@@ -1,10 +1,14 @@
+---
+title: ASN1::decodeBER
+---
+
 Decode a BER-encoded ASN.1 structure.
 
 ## Synopsis
 
 <code>uses('asn1');</code>
 
-<code>public static function <i>array</i> <b>[[ASN1]]::decodeBER</b>(<i>string</i> <i>[in]</i> <b>$binary</b>)</code>
+<code>public static function <i>array</i> <b><a href="ASN1">ASN1</a>::decodeBER</b>(<i>string</i> <i>[in]</i> <b>$binary</b>)</code>
 
 ## Description
 

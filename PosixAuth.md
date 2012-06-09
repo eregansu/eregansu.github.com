@@ -1,6 +1,10 @@
+---
+title: PosixAuth
+---
+
 Implementation of the `posix:` pseudo-authentication scheme.
 
-`PosixAuth` is a class derived from [[Auth]].
+`PosixAuth` is a class derived from <a href="Auth">Auth</a>.
 
 ## Synopsis
 
@@ -10,5 +14,5 @@ uses('auth');
 
 ## Public Methods
 
-* `[[PosixAuth::retrieveUserData]]()`
+* `<a href="PosixAuth%3A%3AretrieveUserData">PosixAuth::retrieveUserData</a>()`
 

@@ -1,8 +1,12 @@
+---
+title: Store::dataForEntry
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::dataForEntry</b>(<b>$uuid</b>)</code>
+<code>public function <b><a href="Store">Store</a>::dataForEntry</b>(<b>$uuid</b>)</code>
 
 ## Parameters
 

@@ -1,13 +1,23 @@
+---
+title: App
+---
+
 A routable class which encapsulates an application.
 
-`App` is a class derived from [[Router]].
+`App` is a class derived from <a href="Router">Router</a>.
+
+## Synopsis
+
+```php
+uses('routable');
+```
 
 ## Public Static Methods
 
-* `[[App::initialApp]]()`
+* `<a href="App%3A%3AinitialApp">App::initialApp</a>()`
 
 ## Public Methods
 
-* `[[App::__construct]]()`
-* `[[App::process]]()`
+* `<a href="App%3A%3A__construct">App::__construct</a>()`
+* `<a href="App%3A%3Aprocess">App::process</a>()`
 

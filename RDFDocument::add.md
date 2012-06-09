@@ -1,6 +1,10 @@
+---
+title: RDFDocument::add
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::add</b>(<b>$inst</b>, <b>$pos</b> = null)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::add</b>(<b>$inst</b>, <b>$pos</b> = null)</code>
 
 ## Parameters
 

@@ -1,8 +1,12 @@
+---
+title: RDF::documentFromFile
+---
+
 ## Synopsis
 
 <code>uses('rdf');</code>
 
-<code>public static function <b>[[RDF]]::documentFromFile</b>(<b>$path</b>, <b>$location</b> = null)</code>
+<code>public static function <b><a href="RDF">RDF</a>::documentFromFile</b>(<b>$path</b>, <b>$location</b> = null)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: RDFDocument::asXML
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::asXML</b>(<b>$leader</b> = null)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::asXML</b>(<b>$leader</b> = null)</code>
 
 ## Parameters
 

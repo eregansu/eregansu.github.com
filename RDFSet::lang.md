@@ -1,6 +1,10 @@
+---
+title: RDFSet::lang
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFSet]]::lang</b>(<b>$langs</b> = null, <b>$fallbackFirst</b> = false)</code>
+<code>public function <b><a href="RDFSet">RDFSet</a>::lang</b>(<b>$langs</b> = null, <b>$fallbackFirst</b> = false)</code>
 
 ## Parameters
 

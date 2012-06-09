@@ -1,8 +1,12 @@
+---
+title: Store::__construct
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::__construct</b>(<b>$args</b>)</code>
+<code>public function <b><a href="Store">Store</a>::__construct</b>(<b>$args</b>)</code>
 
 ## Parameters
 

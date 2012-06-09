@@ -1,6 +1,10 @@
+---
+title: RedlandModel::addStatement
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandModel]]::addStatement</b>(<b>$statement</b>)</code>
+<code>public function <b><a href="RedlandModel">RedlandModel</a>::addStatement</b>(<b>$statement</b>)</code>
 
 ## Parameters
 

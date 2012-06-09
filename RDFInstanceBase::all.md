@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::all
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::all</b>(<b>$key</b>, <b>$nullOnEmpty</b> = false)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::all</b>(<b>$key</b>, <b>$nullOnEmpty</b> = false)</code>
 
 ## Parameters
 

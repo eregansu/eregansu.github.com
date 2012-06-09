@@ -1,6 +1,10 @@
+---
+title: RDFComplexLiteral::fromDOM
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFComplexLiteral]]::fromDOM</b>(<b>$node</b>, <b>$doc</b> = null)</code>
+<code>public function <b><a href="RDFComplexLiteral">RDFComplexLiteral</a>::fromDOM</b>(<b>$node</b>, <b>$doc</b> = null)</code>
 
 ## Parameters
 

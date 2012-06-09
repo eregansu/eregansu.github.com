@@ -1,8 +1,12 @@
+---
+title: Form::submit
+---
+
 ## Synopsis
 
 <code>uses('form');</code>
 
-<code>public function <b>[[Form]]::submit</b>(<b>$label</b>)</code>
+<code>public function <b><a href="Form">Form</a>::submit</b>(<b>$label</b>)</code>
 
 ## Parameters
 

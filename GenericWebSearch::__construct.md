@@ -1,6 +1,10 @@
+---
+title: GenericWebSearch::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[GenericWebSearch]]::__construct</b>(<b>$uri</b>)</code>
+<code>public function <b><a href="GenericWebSearch">GenericWebSearch</a>::__construct</b>(<b>$uri</b>)</code>
 
 ## Parameters
 

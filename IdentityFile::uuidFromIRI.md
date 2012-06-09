@@ -1,8 +1,12 @@
+---
+title: IdentityFile::uuidFromIRI
+---
+
 ## Synopsis
 
 <code>uses('id');</code>
 
-<code>public function <b>[[IdentityFile]]::uuidFromIRI</b>(<b>$iri</b>, <b>$data</b> = null)</code>
+<code>public function <b><a href="IdentityFile">IdentityFile</a>::uuidFromIRI</b>(<b>$iri</b>, <b>$data</b> = null)</code>
 
 ## Parameters
 

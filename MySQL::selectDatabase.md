@@ -1,6 +1,10 @@
+---
+title: MySQL::selectDatabase
+---
+
 ## Synopsis
 
-<code>public function <b>[[MySQL]]::selectDatabase</b>(<b>$name</b>)</code>
+<code>public function <b><a href="MySQL">MySQL</a>::selectDatabase</b>(<b>$name</b>)</code>
 
 ## Parameters
 

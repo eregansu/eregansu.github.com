@@ -1,8 +1,12 @@
+---
+title: HTTPRequest::redirect
+---
+
 ## Synopsis
 
 <code>uses('request');</code>
 
-<code>public function <b>[[HTTPRequest]]::redirect</b>(<b>$uri</b>, <b>$useHTML</b> = false, <b>$passSid</b> = true)</code>
+<code>public function <b><a href="HTTPRequest">HTTPRequest</a>::redirect</b>(<b>$uri</b>, <b>$useHTML</b> = false, <b>$passSid</b> = true)</code>
 
 ## Parameters
 

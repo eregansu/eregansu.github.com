@@ -1,4 +1,8 @@
+---
+title: XMLParser::errorCode
+---
+
 ## Synopsis
 
-<code>public function <b>[[XMLParser]]::errorCode</b>()</code>
+<code>public function <b><a href="XMLParser">XMLParser</a>::errorCode</b>()</code>
 

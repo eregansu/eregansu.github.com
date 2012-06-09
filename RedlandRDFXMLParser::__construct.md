@@ -1,6 +1,10 @@
+---
+title: RedlandRDFXMLParser::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandRDFXMLParser]]::__construct</b>(<b>$mime</b> = null, <b>$type</b> = null, <b>$world</b> = null)</code>
+<code>public function <b><a href="RedlandRDFXMLParser">RedlandRDFXMLParser</a>::__construct</b>(<b>$mime</b> = null, <b>$type</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: StoreModule::updateSchema
+---
+
 ## Synopsis
 
-<code>public function <b>[[StoreModule]]::updateSchema</b>(<b>$targetVersion</b>)</code>
+<code>public function <b><a href="StoreModule">StoreModule</a>::updateSchema</b>(<b>$targetVersion</b>)</code>
 
 ## Parameters
 

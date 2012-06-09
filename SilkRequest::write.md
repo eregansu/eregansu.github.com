@@ -1,6 +1,10 @@
+---
+title: SilkRequest::write
+---
+
 ## Synopsis
 
-<code>public function <b>[[SilkRequest]]::write</b>(<b>$str</b>)</code>
+<code>public function <b><a href="SilkRequest">SilkRequest</a>::write</b>(<b>$str</b>)</code>
 
 ## Parameters
 

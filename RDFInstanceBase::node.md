@@ -1,4 +1,8 @@
+---
+title: RDFInstanceBase::node
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::node</b>()</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::node</b>()</code>
 

@@ -1,6 +1,10 @@
+---
+title: DBTable::indexWithSpec
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBTable]]::indexWithSpec</b>(<b>$name</b>, <b>$type</b>, <b>$column</b>)</code>
+<code>public function <b><a href="DBTable">DBTable</a>::indexWithSpec</b>(<b>$name</b>, <b>$type</b>, <b>$column</b>)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: XMLParser::__get
+---
+
 ## Synopsis
 
-<code>public function <b>[[XMLParser]]::__get</b>(<b>$name</b>)</code>
+<code>public function <b><a href="XMLParser">XMLParser</a>::__get</b>(<b>$name</b>)</code>
 
 ## Parameters
 

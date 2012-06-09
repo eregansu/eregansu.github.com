@@ -1,6 +1,10 @@
+---
+title: Template::useChromaHash
+---
+
 ## Synopsis
 
 <code>uses('template');</code>
 
-<code>public function <b>[[Template]]::useChromaHash</b>()</code>
+<code>public function <b><a href="Template">Template</a>::useChromaHash</b>()</code>
 

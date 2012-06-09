@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::add
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::add</b>(<b>$predicate</b>, <b>$object</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::add</b>(<b>$predicate</b>, <b>$object</b>)</code>
 
 ## Parameters
 

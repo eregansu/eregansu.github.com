@@ -1,6 +1,10 @@
+---
+title: RDFDocument::namespacedName
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::namespacedName</b>(<b>$qname</b>, <b>$generate</b> = true)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::namespacedName</b>(<b>$uri</b>, <b>$generate</b> = true)</code>
 
 ## Parameters
 
@@ -15,7 +19,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><code>$qname</code>
+      <td><code>$uri</code>
       <td><i></i></td>
       <td></td>
       <td>

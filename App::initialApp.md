@@ -1,6 +1,12 @@
+---
+title: App::initialApp
+---
+
 ## Synopsis
 
-<code>public static function <b>[[App]]::initialApp</b>(<b>$sapi</b> = null)</code>
+<code>uses('routable');</code>
+
+<code>public static function <b><a href="App">App</a>::initialApp</b>(<b>$sapi</b> = null)</code>
 
 ## Parameters
 

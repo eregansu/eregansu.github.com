@@ -1,4 +1,8 @@
+---
+title: SQLite3DB::now
+---
+
 ## Synopsis
 
-<code>public function <b>[[SQLite3DB]]::now</b>()</code>
+<code>public function <b><a href="SQLite3DB">SQLite3DB</a>::now</b>()</code>
 

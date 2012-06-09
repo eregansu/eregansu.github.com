@@ -1,6 +1,10 @@
+---
+title: MySQLSchema::views
+---
+
 ## Synopsis
 
-<code>public function <b>[[MySQLSchema]]::views</b>(<b>$dbName</b>, <b>$schemaName</b>)</code>
+<code>public function <b><a href="MySQLSchema">MySQLSchema</a>::views</b>(<b>$dbName</b>, <b>$schemaName</b>)</code>
 
 ## Parameters
 

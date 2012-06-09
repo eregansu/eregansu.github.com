@@ -1,8 +1,12 @@
+---
+title: RDFStore::ingestRDF
+---
+
 ## Synopsis
 
 <code>uses('rdfstore');</code>
 
-<code>public function <b>[[RDFStore]]::ingestRDF</b>(<b>$uri</b>, <b>$refresh</b> = false, <b>$canonicalUri</b> = null, <b>$firstOnly</b> = false, <b>$newUuid</b> = null)</code>
+<code>public function <b><a href="RDFStore">RDFStore</a>::ingestRDF</b>(<b>$uri</b>, <b>$refresh</b> = false, <b>$canonicalUri</b> = null, <b>$firstOnly</b> = false, <b>$newUuid</b> = null)</code>
 
 ## Parameters
 

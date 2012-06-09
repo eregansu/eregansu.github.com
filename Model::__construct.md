@@ -1,16 +1,14 @@
-Construct an instance of `[[Model]]`.
+---
+title: Model::__construct
+---
+
+Construct an instance of `<a href="Model">Model</a>`.
 
 ## Synopsis
 
 <code>uses('model');</code>
 
-<code>public function <b>[[Model]]::__construct</b>(<i>array</i> <i>[in]</i> <b>$args</b>)</code>
-
-## Description
-
-If `$args['db']` is a string of nonzero length, `[[Model::$dbIri]]` will be
-set to its value, and `[[Model::$db]]` will be assigned the result of passing
-it to `[[DBCore::connect]]()` in order to establish a database connection.
+<code>public function <b><a href="Model">Model</a>::__construct</b>(<i>array</i> <i>[in]</i> <b>$args</b>)</code>
 
 ## Parameters
 

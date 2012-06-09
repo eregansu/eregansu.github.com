@@ -1,4 +1,8 @@
+---
+title: ISearchIndexer::begin
+---
+
 ## Synopsis
 
-<code>public function <b>[[ISearchIndexer]]::begin</b>()</code>
+<code>public function <b><a href="ISearchIndexer">ISearchIndexer</a>::begin</b>()</code>
 

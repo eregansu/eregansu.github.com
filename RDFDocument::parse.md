@@ -1,6 +1,10 @@
+---
+title: RDFDocument::parse
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::parse</b>(<b>$type</b>, <b>$content</b>)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::parse</b>(<b>$type</b>, <b>$content</b>)</code>
 
 ## Parameters
 

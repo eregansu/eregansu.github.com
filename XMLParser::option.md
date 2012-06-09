@@ -1,6 +1,10 @@
+---
+title: XMLParser::option
+---
+
 ## Synopsis
 
-<code>public function <b>[[XMLParser]]::option</b>(<b>$option</b>)</code>
+<code>public function <b><a href="XMLParser">XMLParser</a>::option</b>(<b>$option</b>)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: RDFDocument::serialise
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::serialise</b>(<b>$type</b>, <b>$returnBuffer</b> = false, <b>$request</b> = null, <b>$sendHeaders</b> = null)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::serialise</b>(<b>$type</b>, <b>$returnBuffer</b> = false, <b>$request</b> = null, <b>$sendHeaders</b> = null)</code>
 
 ## Parameters
 

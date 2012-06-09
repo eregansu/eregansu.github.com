@@ -1,8 +1,12 @@
+---
+title: IdentityDirectory::refreshUserData
+---
+
 ## Synopsis
 
 <code>uses('id');</code>
 
-<code>public function <b>[[IdentityDirectory]]::refreshUserData</b>(<b>$data</b>)</code>
+<code>public function <b><a href="IdentityDirectory">IdentityDirectory</a>::refreshUserData</b>(<b>$data</b>)</code>
 
 ## Parameters
 

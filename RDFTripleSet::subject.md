@@ -1,6 +1,10 @@
+---
+title: RDFTripleSet::subject
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFTripleSet]]::subject</b>(<b>$uri</b>)</code>
+<code>public function <b><a href="RDFTripleSet">RDFTripleSet</a>::subject</b>(<b>$uri</b>)</code>
 
 ## Parameters
 

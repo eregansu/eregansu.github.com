@@ -1,6 +1,8 @@
+---
+title: LDAP::insertId
+---
+
 ## Synopsis
 
-<code>uses('db');</code>
-
-<code>public function <b>[[LDAP]]::insertId</b>()</code>
+<code>public function <b><a href="LDAP">LDAP</a>::insertId</b>()</code>
 

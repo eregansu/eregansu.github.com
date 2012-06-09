@@ -1,6 +1,10 @@
+---
+title: XMLParser::setOption
+---
+
 ## Synopsis
 
-<code>public function <b>[[XMLParser]]::setOption</b>(<b>$option</b>, <b>$value</b>)</code>
+<code>public function <b><a href="XMLParser">XMLParser</a>::setOption</b>(<b>$option</b>, <b>$value</b>)</code>
 
 ## Parameters
 

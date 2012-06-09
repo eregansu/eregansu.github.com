@@ -1,4 +1,8 @@
+---
+title: RDFSet::uris
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFSet]]::uris</b>()</code>
+<code>public function <b><a href="RDFSet">RDFSet</a>::uris</b>()</code>
 

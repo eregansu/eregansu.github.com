@@ -1,6 +1,12 @@
+---
+title: Routable::process
+---
+
 ## Synopsis
 
-<code>public function <b>[[Routable]]::process</b>(<b>$req</b>)</code>
+<code>uses('routable');</code>
+
+<code>public function <b><a href="Routable">Routable</a>::process</b>(<b>$req</b>)</code>
 
 ## Parameters
 

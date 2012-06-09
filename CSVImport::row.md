@@ -1,10 +1,14 @@
+---
+title: CSVImport::row
+---
+
 Read a row from the CSV file.
 
 ## Synopsis
 
 <code>uses('csv-import');</code>
 
-<code>public function <i>array</i> <b>[[CSVImport]]::row</b>()</code>
+<code>public function <i>array</i> <b><a href="CSVImport">CSVImport</a>::row</b>()</code>
 
 ## Description
 

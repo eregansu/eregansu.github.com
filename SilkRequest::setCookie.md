@@ -1,6 +1,10 @@
+---
+title: SilkRequest::setCookie
+---
+
 ## Synopsis
 
-<code>public function <b>[[SilkRequest]]::setCookie</b>(<b>$name</b>, <b>$value</b> = null, <b>$path</b> = null, <b>$domain</b> = null, <b>$secure</b> = false, <b>$httponly</b> = false)</code>
+<code>public function <b><a href="SilkRequest">SilkRequest</a>::setCookie</b>(<b>$name</b>, <b>$value</b> = null, <b>$path</b> = null, <b>$domain</b> = null, <b>$secure</b> = false, <b>$httponly</b> = false)</code>
 
 ## Parameters
 

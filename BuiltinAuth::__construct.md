@@ -1,6 +1,8 @@
+---
+title: BuiltinAuth::__construct
+---
+
 ## Synopsis
 
-<code>uses('auth');</code>
-
-<code>public function <b>[[BuiltinAuth]]::__construct</b>()</code>
+<code>public function <b><a href="BuiltinAuth">BuiltinAuth</a>::__construct</b>()</code>
 

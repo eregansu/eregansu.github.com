@@ -1,6 +1,12 @@
+---
+title: Redirect::process
+---
+
 ## Synopsis
 
-<code>public function <b>[[Redirect]]::process</b>(<b>$req</b>)</code>
+<code>uses('routable');</code>
+
+<code>public function <b><a href="Redirect">Redirect</a>::process</b>(<b>$req</b>)</code>
 
 ## Parameters
 

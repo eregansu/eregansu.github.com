@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::offsetExists
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::offsetExists</b>(<b>$offset</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::offsetExists</b>(<b>$offset</b>)</code>
 
 ## Parameters
 

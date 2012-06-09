@@ -1,4 +1,8 @@
+---
+title: RDFSet::asArray
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFSet]]::asArray</b>()</code>
+<code>public function <b><a href="RDFSet">RDFSet</a>::asArray</b>()</code>
 

@@ -1,8 +1,12 @@
+---
+title: HTTPRequest::pageMatch
+---
+
 ## Synopsis
 
 <code>uses('request');</code>
 
-<code>public function <b>[[HTTPRequest]]::pageMatch</b>(<b>$page</b>)</code>
+<code>public function <b><a href="HTTPRequest">HTTPRequest</a>::pageMatch</b>(<b>$page</b>)</code>
 
 ## Parameters
 

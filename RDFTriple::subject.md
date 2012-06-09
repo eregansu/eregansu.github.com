@@ -1,4 +1,8 @@
+---
+title: RDFTriple::subject
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFTriple]]::subject</b>()</code>
+<code>public function <b><a href="RDFTriple">RDFTriple</a>::subject</b>()</code>
 

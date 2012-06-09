@@ -1,3 +1,7 @@
+---
+title: Storable
+---
+
 Base class for encapsulations of stored objects.
 
 `Storable` is a base class.
@@ -10,14 +14,14 @@ uses('store');
 
 ## Public Static Methods
 
-* `[[Storable::objectForData]]()`
+* `<a href="Storable%3A%3AobjectForData">Storable::objectForData</a>()`
 
 ## Public Methods
 
-* `[[Storable::store]]()`
-* `[[Storable::reload]]()`
-* `[[Storable::offsetExists]]()`
-* `[[Storable::offsetGet]]()`
-* `[[Storable::offsetSet]]()`
-* `[[Storable::offsetUnset]]()`
+* `<a href="Storable%3A%3Astore">Storable::store</a>()`
+* `<a href="Storable%3A%3Areload">Storable::reload</a>()`
+* `<a href="Storable%3A%3AoffsetExists">Storable::offsetExists</a>()`
+* `<a href="Storable%3A%3AoffsetGet">Storable::offsetGet</a>()`
+* `<a href="Storable%3A%3AoffsetSet">Storable::offsetSet</a>()`
+* `<a href="Storable%3A%3AoffsetUnset">Storable::offsetUnset</a>()`
 

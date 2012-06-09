@@ -1,8 +1,12 @@
+---
+title: CLIRequest::redirect
+---
+
 Redirect a request to another location.
 
 ## Synopsis
 
-<code>public function <b>[[CLIRequest]]::redirect</b>()</code>
+<code>public function <b><a href="CLIRequest">CLIRequest</a>::redirect</b>()</code>
 
 ## Description
 

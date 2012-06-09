@@ -1,6 +1,10 @@
+---
+title: RDFSet::valuePerLanguage
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFSet]]::valuePerLanguage</b>(<b>$asSet</b> = false)</code>
+<code>public function <b><a href="RDFSet">RDFSet</a>::valuePerLanguage</b>(<b>$asSet</b> = false)</code>
 
 ## Parameters
 

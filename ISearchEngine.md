@@ -1,7 +1,10 @@
+---
+title: ISearchEngine
+---
+
 `ISearchEngine` is a base interface.
 
 ## Public Methods
 
-* `[[ISearchEngine::__construct]]()`
-* `[[ISearchEngine::query]]()`
+* `<a href="ISearchEngine%3A%3Aquery">ISearchEngine::query</a>()`
 

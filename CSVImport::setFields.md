@@ -1,10 +1,14 @@
+---
+title: CSVImport::setFields
+---
+
 Specify an explicit column-to-field mapping.
 
 ## Synopsis
 
 <code>uses('csv-import');</code>
 
-<code>public function <i>void</i> <b>[[CSVImport]]::setFields</b>(<i>array</i> <i>[in]</i> <b>$list</b>)</code>
+<code>public function <i>void</i> <b><a href="CSVImport">CSVImport</a>::setFields</b>(<i>array</i> <i>[in]</i> <b>$list</b>)</code>
 
 ## Parameters
 

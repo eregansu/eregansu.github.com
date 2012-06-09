@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::offsetUnset
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::offsetUnset</b>(<b>$offset</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::offsetUnset</b>(<b>$offset</b>)</code>
 
 ## Parameters
 

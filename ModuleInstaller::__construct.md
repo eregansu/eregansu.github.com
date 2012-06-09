@@ -1,6 +1,10 @@
+---
+title: ModuleInstaller::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[ModuleInstaller]]::__construct</b>(<b>$installer</b>, <b>$name</b>, <b>$path</b>)</code>
+<code>public function <b><a href="ModuleInstaller">ModuleInstaller</a>::__construct</b>(<b>$installer</b>, <b>$name</b>, <b>$path</b>)</code>
 
 ## Parameters
 

@@ -1,4 +1,8 @@
-`Error` is a base class.
+---
+title: Error
+---
+
+`Error` is a class derived from <a href="TerminalErrorException">TerminalErrorException</a>.
 
 ## Synopsis
 
@@ -8,10 +12,10 @@ uses('error');
 
 ## Public Static Methods
 
-* `[[Error::backtrace]]()`
+* `<a href="Error%3A%3Abacktrace">Error::backtrace</a>()`
 
 ## Public Methods
 
-* `[[Error::__construct]]()`
-* `[[Error::process]]()`
+* `<a href="Error%3A%3A__construct">Error::__construct</a>()`
+* `<a href="Error%3A%3Aprocess">Error::process</a>()`
 

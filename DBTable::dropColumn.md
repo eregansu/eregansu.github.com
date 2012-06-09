@@ -1,6 +1,10 @@
+---
+title: DBTable::dropColumn
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBTable]]::dropColumn</b>(<b>$name</b>)</code>
+<code>public function <b><a href="DBTable">DBTable</a>::dropColumn</b>(<b>$name</b>)</code>
 
 ## Parameters
 

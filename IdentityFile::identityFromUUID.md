@@ -1,8 +1,12 @@
+---
+title: IdentityFile::identityFromUUID
+---
+
 ## Synopsis
 
 <code>uses('id');</code>
 
-<code>public function <b>[[IdentityFile]]::identityFromUUID</b>(<b>$uuid</b>, <b>$data</b> = null)</code>
+<code>public function <b><a href="IdentityFile">IdentityFile</a>::identityFromUUID</b>(<b>$uuid</b>, <b>$data</b> = null)</code>
 
 ## Parameters
 

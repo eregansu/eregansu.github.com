@@ -1,6 +1,10 @@
-`RedlandTurtleSerializer` is a class derived from [[RedlandSerializer]].
+---
+title: RedlandTurtleSerializer
+---
+
+`RedlandTurtleSerializer` is a class derived from <a href="RedlandSerializer">RedlandSerializer</a>.
 
 ## Public Methods
 
-* `[[RedlandTurtleSerializer::__construct]]()`
+* `<a href="RedlandTurtleSerializer%3A%3A__construct">RedlandTurtleSerializer::__construct</a>()`
 

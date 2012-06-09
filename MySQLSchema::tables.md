@@ -1,6 +1,10 @@
+---
+title: MySQLSchema::tables
+---
+
 ## Synopsis
 
-<code>public function <b>[[MySQLSchema]]::tables</b>(<b>$dbName</b>, <b>$schemaName</b>)</code>
+<code>public function <b><a href="MySQLSchema">MySQLSchema</a>::tables</b>(<b>$dbName</b>, <b>$schemaName</b>)</code>
 
 ## Parameters
 

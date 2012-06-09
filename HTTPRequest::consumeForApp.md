@@ -1,6 +1,10 @@
+---
+title: HTTPRequest::consumeForApp
+---
+
 ## Synopsis
 
 <code>uses('request');</code>
 
-<code>public function <b>[[HTTPRequest]]::consumeForApp</b>()</code>
+<code>public function <b><a href="HTTPRequest">HTTPRequest</a>::consumeForApp</b>()</code>
 

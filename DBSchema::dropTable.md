@@ -1,6 +1,10 @@
+---
+title: DBSchema::dropTable
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBSchema]]::dropTable</b>(<b>$name</b>)</code>
+<code>public function <b><a href="DBSchema">DBSchema</a>::dropTable</b>(<b>$name</b>)</code>
 
 ## Parameters
 

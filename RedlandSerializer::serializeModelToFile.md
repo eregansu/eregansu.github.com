@@ -1,6 +1,10 @@
+---
+title: RedlandSerializer::serializeModelToFile
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandSerializer]]::serializeModelToFile</b>(<b>$model</b>, <b>$fileName</b>, <b>$baseURI</b> = null)</code>
+<code>public function <b><a href="RedlandSerializer">RedlandSerializer</a>::serializeModelToFile</b>(<b>$model</b>, <b>$fileName</b>, <b>$baseURI</b> = null)</code>
 
 ## Parameters
 

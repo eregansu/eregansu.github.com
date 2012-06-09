@@ -1,4 +1,10 @@
+---
+title: HostnameRouter::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[HostnameRouter]]::__construct</b>()</code>
+<code>uses('routable');</code>
+
+<code>public function <b><a href="HostnameRouter">HostnameRouter</a>::__construct</b>()</code>
 

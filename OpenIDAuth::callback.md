@@ -1,8 +1,12 @@
+---
+title: OpenIDAuth::callback
+---
+
 ## Synopsis
 
 <code>uses('openid');</code>
 
-<code>public function <b>[[OpenIDAuth]]::callback</b>(<b>$request</b>, <b>$scheme</b>, <b>$remainder</b>)</code>
+<code>public function <b><a href="OpenIDAuth">OpenIDAuth</a>::callback</b>(<b>$request</b>, <b>$scheme</b>, <b>$remainder</b>)</code>
 
 ## Parameters
 

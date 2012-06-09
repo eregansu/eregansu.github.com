@@ -1,6 +1,10 @@
+---
+title: SQLite3Schema::schemata
+---
+
 ## Synopsis
 
-<code>public function <b>[[SQLite3Schema]]::schemata</b>(<b>$dbName</b>)</code>
+<code>public function <b><a href="SQLite3Schema">SQLite3Schema</a>::schemata</b>(<b>$dbName</b>)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: RedlandJSONTriplesSerializer::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandJSONTriplesSerializer]]::__construct</b>(<b>$mime</b> = null, <b>$uri</b> = null, <b>$world</b> = null)</code>
+<code>public function <b><a href="RedlandJSONTriplesSerializer">RedlandJSONTriplesSerializer</a>::__construct</b>(<b>$mime</b> = null, <b>$uri</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

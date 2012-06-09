@@ -1,6 +1,10 @@
+---
+title: SQLite3DB::quoteRef
+---
+
 ## Synopsis
 
-<code>public function <b>[[SQLite3DB]]::quoteRef</b>(<b>$string</b>)</code>
+<code>public function <b><a href="SQLite3DB">SQLite3DB</a>::quoteRef</b>(<b>$string</b>)</code>
 
 ## Parameters
 

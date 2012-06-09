@@ -1,4 +1,8 @@
+---
+title: ISearchIndexer::commit
+---
+
 ## Synopsis
 
-<code>public function <b>[[ISearchIndexer]]::commit</b>()</code>
+<code>public function <b><a href="ISearchIndexer">ISearchIndexer</a>::commit</b>()</code>
 

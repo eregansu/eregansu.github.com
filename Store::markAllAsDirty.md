@@ -1,8 +1,12 @@
+---
+title: Store::markAllAsDirty
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::markAllAsDirty</b>(<b>$isDirty</b> = true)</code>
+<code>public function <b><a href="Store">Store</a>::markAllAsDirty</b>(<b>$isDirty</b> = true)</code>
 
 ## Parameters
 

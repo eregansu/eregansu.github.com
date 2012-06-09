@@ -1,3 +1,7 @@
+---
+title: Model
+---
+
 Base class for data models.
 
 `Model` is a base class.
@@ -15,9 +19,9 @@ provide interfaces to persistent storage, such as relational databases.
 
 ## Public Static Methods
 
-* `[[Model::getInstance]]()`: Obtains an instance of one of `Model`'s descendants.
+* `<a href="Model%3A%3AgetInstance">Model::getInstance</a>()`: Obtains an instance of one of `Model`'s descendants.
 
 ## Public Methods
 
-* `[[Model::__construct]]()`: Construct an instance of `Model`.
+* `<a href="Model%3A%3A__construct">Model::__construct</a>()`: Construct an instance of `Model`.
 

@@ -1,8 +1,12 @@
+---
+title: Module::updateSchema
+---
+
 ## Synopsis
 
 <code>uses('module');</code>
 
-<code>public function <b>[[Module]]::updateSchema</b>(<b>$targetVersion</b>)</code>
+<code>public function <b><a href="Module">Module</a>::updateSchema</b>(<b>$targetVersion</b>)</code>
 
 ## Parameters
 

@@ -1,8 +1,10 @@
+---
+title: LDAP::insert
+---
+
 ## Synopsis
 
-<code>uses('db');</code>
-
-<code>public function <b>[[LDAP]]::insert</b>(<b>$dn</b>, <b>$object</b>)</code>
+<code>public function <b><a href="LDAP">LDAP</a>::insert</b>(<b>$dn</b>, <b>$object</b>)</code>
 
 ## Parameters
 

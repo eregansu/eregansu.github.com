@@ -1,8 +1,12 @@
+---
+title: Store::dataForIri
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::dataForIri</b>(<b>$iri</b>, <b>$owner</b> = null, <b>$kind</b> = null, <b>$firstOnly</b> = false)</code>
+<code>public function <b><a href="Store">Store</a>::dataForIri</b>(<b>$iri</b>, <b>$owner</b> = null, <b>$kind</b> = null, <b>$firstOnly</b> = false)</code>
 
 ## Parameters
 

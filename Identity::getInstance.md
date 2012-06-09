@@ -1,8 +1,12 @@
+---
+title: Identity::getInstance
+---
+
 ## Synopsis
 
 <code>uses('id');</code>
 
-<code>public static function <b>[[Identity]]::getInstance</b>(<b>$args</b> = null)</code>
+<code>public static function <b><a href="Identity">Identity</a>::getInstance</b>(<b>$args</b> = null)</code>
 
 ## Parameters
 

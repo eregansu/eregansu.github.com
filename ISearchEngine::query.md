@@ -1,6 +1,10 @@
+---
+title: ISearchEngine::query
+---
+
 ## Synopsis
 
-<code>public function <b>[[ISearchEngine]]::query</b>(<b>$args</b>)</code>
+<code>public function <b><a href="ISearchEngine">ISearchEngine</a>::query</b>(<b>$args</b>)</code>
 
 ## Parameters
 

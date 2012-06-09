@@ -1,4 +1,8 @@
+---
+title: RDFTriple::predicate
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFTriple]]::predicate</b>()</code>
+<code>public function <b><a href="RDFTriple">RDFTriple</a>::predicate</b>()</code>
 

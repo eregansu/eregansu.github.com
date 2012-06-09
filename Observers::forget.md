@@ -1,6 +1,10 @@
+---
+title: Observers::forget
+---
+
 ## Synopsis
 
-<code>public static function <b>[[Observers]]::forget</b>(<b>$event</b>, <b>$callback</b>)</code>
+<code>public static function <b><a href="Observers">Observers</a>::forget</b>(<b>$event</b>, <b>$callback</b>)</code>
 
 ## Parameters
 

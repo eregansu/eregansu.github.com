@@ -1,6 +1,10 @@
+---
+title: DBTable::column
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBTable]]::column</b>(<b>$name</b>)</code>
+<code>public function <b><a href="DBTable">DBTable</a>::column</b>(<b>$name</b>)</code>
 
 ## Parameters
 

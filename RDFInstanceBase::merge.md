@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::merge
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::merge</b>(<b>$source</b>, <b>$doc</b> = null)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::merge</b>(<b>$source</b>, <b>$doc</b> = null)</code>
 
 ## Parameters
 

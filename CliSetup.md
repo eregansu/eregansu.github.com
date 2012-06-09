@@ -1,7 +1,11 @@
-`CliSetup` is a class derived from [[CommandLine]].
+---
+title: CliSetup
+---
+
+`CliSetup` is a class derived from <a href="CommandLine">CommandLine</a>.
 
 ## Public Methods
 
-* `[[CliSetup::main]]()`
-* `[[CliSetup::depend]]()`
+* `<a href="CliSetup%3A%3Amain">CliSetup::main</a>()`
+* `<a href="CliSetup%3A%3Adepend">CliSetup::depend</a>()`
 

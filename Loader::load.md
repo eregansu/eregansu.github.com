@@ -1,8 +1,14 @@
+---
+title: Loader::load
+---
+
 Attempt to load the module which handles a route.
 
 ## Synopsis
 
-<code>public static function <i>boolean</i> <b>[[Loader]]::load</b>(<i>array</i> <i>[in]</i> <b>$route</b>)</code>
+<code>uses('routable');</code>
+
+<code>public static function <i>boolean</i> <b><a href="Loader">Loader</a>::load</b>(<i>array</i> <i>[in]</i> <b>$route</b>)</code>
 
 ## Parameters
 

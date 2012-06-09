@@ -1,6 +1,10 @@
+---
+title: RDFDocument::replace
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::replace</b>(<b>$graph</b>, <b>$addIfNotFound</b> = true)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::replace</b>(<b>$graph</b>, <b>$addIfNotFound</b> = true)</code>
 
 ## Parameters
 

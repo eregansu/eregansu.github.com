@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::asJSONLD
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::asJSONLD</b>(<b>$doc</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::asJSONLD</b>(<b>$doc</b>)</code>
 
 ## Parameters
 

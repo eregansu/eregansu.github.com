@@ -1,6 +1,12 @@
+---
+title: Proxy::__get
+---
+
 ## Synopsis
 
-<code>public function <b>[[Proxy]]::__get</b>(<b>$name</b>)</code>
+<code>uses('routable');</code>
+
+<code>public function <b><a href="Proxy">Proxy</a>::__get</b>(<b>$name</b>)</code>
 
 ## Parameters
 

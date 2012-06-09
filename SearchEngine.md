@@ -1,10 +1,14 @@
+---
+title: SearchEngine
+---
+
 `SearchEngine` is an abstract base class.
 
 ## Public Static Methods
 
-* `[[SearchEngine::connect]]()`
+* `<a href="SearchEngine%3A%3Aconnect">SearchEngine::connect</a>()`
 
 ## Public Methods
 
-* `[[SearchEngine::__construct]]()`
+* `<a href="SearchEngine%3A%3A__construct">SearchEngine::__construct</a>()`
 

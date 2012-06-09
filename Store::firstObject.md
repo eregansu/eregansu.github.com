@@ -1,8 +1,12 @@
+---
+title: Store::firstObject
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::firstObject</b>(<b>$objects</b>)</code>
+<code>public function <b><a href="Store">Store</a>::firstObject</b>(<b>$objects</b>)</code>
 
 ## Parameters
 

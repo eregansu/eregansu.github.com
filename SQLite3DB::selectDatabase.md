@@ -1,6 +1,10 @@
+---
+title: SQLite3DB::selectDatabase
+---
+
 ## Synopsis
 
-<code>public function <b>[[SQLite3DB]]::selectDatabase</b>(<b>$name</b>)</code>
+<code>public function <b><a href="SQLite3DB">SQLite3DB</a>::selectDatabase</b>(<b>$name</b>)</code>
 
 ## Parameters
 

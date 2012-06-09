@@ -1,6 +1,10 @@
+---
+title: MySQL::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[MySQL]]::__construct</b>(<b>$params</b>)</code>
+<code>public function <b><a href="MySQL">MySQL</a>::__construct</b>(<b>$params</b>)</code>
 
 ## Parameters
 

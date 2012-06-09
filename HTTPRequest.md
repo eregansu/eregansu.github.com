@@ -1,6 +1,10 @@
+---
+title: HTTPRequest
+---
+
 Encapsulation of an HTTP request.
 
-`HTTPRequest` is a class derived from [[Request]].
+`HTTPRequest` is a class derived from <a href="Request">Request</a>.
 
 ## Synopsis
 
@@ -10,8 +14,8 @@ uses('request');
 
 ## Public Methods
 
-* `[[HTTPRequest::consume]]()`
-* `[[HTTPRequest::consumeForApp]]()`
-* `[[HTTPRequest::pageMatch]]()`
-* `[[HTTPRequest::redirect]]()`
+* `<a href="HTTPRequest%3A%3Aconsume">HTTPRequest::consume</a>()`
+* `<a href="HTTPRequest%3A%3AconsumeForApp">HTTPRequest::consumeForApp</a>()`
+* `<a href="HTTPRequest%3A%3ApageMatch">HTTPRequest::pageMatch</a>()`
+* `<a href="HTTPRequest%3A%3Aredirect">HTTPRequest::redirect</a>()`
 

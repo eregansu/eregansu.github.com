@@ -1,6 +1,10 @@
+---
+title: SearchEngine::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[SearchEngine]]::__construct</b>(<b>$uri</b>)</code>
+<code>public function <b><a href="SearchEngine">SearchEngine</a>::__construct</b>(<b>$uri</b>)</code>
 
 ## Parameters
 

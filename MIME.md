@@ -1,3 +1,7 @@
+---
+title: MIME
+---
+
 The `MIME` class provides facilities for mapping file extensions to
 MIME types and vice versa and obtaining human-readable descriptions
 from MIME types.
@@ -16,11 +20,12 @@ uses('mime');
 
 ## Example
 
-* [mimetest.php](http://github.com/nexgenta/eregansu/blob/master/mimetest.php)
+* <a href="http://github.com/nexgenta/eregansu/blob/master/mimetest.php">mimetest.php</a>
 
 ## Public Static Methods
 
-* `[[MIME::extForType]]()`: Return the preferred file extension for a specified MIME type
-* `[[MIME::typeForExt]]()`: Return the MIME type matching a specified file extension
-* `[[MIME::description]]()`: Return a human-readable description of a MIME type
+* `<a href="MIME%3A%3AextForType">MIME::extForType</a>()`: Return the preferred file extension for a specified MIME type
+* `<a href="MIME%3A%3AtypeForExt">MIME::typeForExt</a>()`: Return the MIME type matching a specified file extension
+* `<a href="MIME%3A%3Adescription">MIME::description</a>()`: Return a human-readable description of a MIME type
+* `<a href="MIME%3A%3Aregister">MIME::register</a>()`
 

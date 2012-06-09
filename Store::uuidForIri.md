@@ -1,10 +1,14 @@
+---
+title: Store::uuidForIri
+---
+
 Return the UUID of the object with the specified IRI, $iri.
 
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::uuidForIri</b>(<b>$iri</b>)</code>
+<code>public function <b><a href="Store">Store</a>::uuidForIri</b>(<b>$iri</b>)</code>
 
 ## Parameters
 

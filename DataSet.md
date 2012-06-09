@@ -1,6 +1,10 @@
-`DataSet` is an interface derived from [[Iterator]].
+---
+title: DataSet
+---
 
-[View source](http://github.com/nexgenta/eregansu/blob/master/lib/db.php)
+`DataSet` is an interface derived from <a href="IDataSet">IDataSet</a>.
+
+<a href="http://github.com/nexgenta/eregansu/blob/master/lib/db.php">View source</a>
 
 ## Synopsis
 

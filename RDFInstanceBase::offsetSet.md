@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::offsetSet
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::offsetSet</b>(<b>$offset</b>, <b>$value</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::offsetSet</b>(<b>$offset</b>, <b>$value</b>)</code>
 
 ## Parameters
 

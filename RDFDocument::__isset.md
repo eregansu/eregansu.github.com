@@ -1,6 +1,10 @@
+---
+title: RDFDocument::__isset
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::__isset</b>(<b>$name</b>)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::__isset</b>(<b>$name</b>)</code>
 
 ## Parameters
 

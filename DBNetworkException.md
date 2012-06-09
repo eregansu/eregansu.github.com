@@ -1,6 +1,10 @@
-`DBNetworkException` is a class derived from [[DBSystemException]].
+---
+title: DBNetworkException
+---
 
-[View source](http://github.com/nexgenta/eregansu/blob/master/lib/db.php)
+`DBNetworkException` is a class derived from <a href="DBSystemException">DBSystemException</a>.
+
+<a href="http://github.com/nexgenta/eregansu/blob/master/lib/db.php">View source</a>
 
 ## Synopsis
 

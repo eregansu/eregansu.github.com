@@ -1,6 +1,10 @@
+---
+title: TransientSession::begin
+---
+
 ## Synopsis
 
-<code>public function <b>[[TransientSession]]::begin</b>(<b>$req</b> = null)</code>
+<code>public function <b><a href="TransientSession">TransientSession</a>::begin</b>(<b>$req</b> = null)</code>
 
 ## Parameters
 

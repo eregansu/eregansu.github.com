@@ -1,6 +1,10 @@
+---
+title: RedlandModel::__get
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandModel]]::__get</b>(<b>$name</b>)</code>
+<code>public function <b><a href="RedlandModel">RedlandModel</a>::__get</b>(<b>$name</b>)</code>
 
 ## Parameters
 

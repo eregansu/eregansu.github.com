@@ -1,8 +1,12 @@
+---
+title: DBDataSet::__construct
+---
+
 ## Synopsis
 
 <code>uses('db');</code>
 
-<code>public function <b>[[DBDataSet]]::__construct</b>(<b>$db</b>, <b>$resource</b>, <b>$query</b> = null, <b>$params</b> = null)</code>
+<code>public function <b><a href="DBDataSet">DBDataSet</a>::__construct</b>(<b>$db</b>, <b>$resource</b>, <b>$query</b> = null, <b>$params</b> = null)</code>
 
 ## Parameters
 

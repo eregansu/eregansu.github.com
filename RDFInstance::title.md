@@ -1,8 +1,12 @@
+---
+title: RDFInstance::title
+---
+
 ## Synopsis
 
 <code>uses('rdf');</code>
 
-<code>public function <b>[[RDFInstance]]::title</b>(<b>$langs</b> = null, <b>$fallbackFirst</b> = true)</code>
+<code>public function <b><a href="RDFInstance">RDFInstance</a>::title</b>(<b>$langs</b> = null, <b>$fallbackFirst</b> = true)</code>
 
 ## Parameters
 

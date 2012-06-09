@@ -1,4 +1,8 @@
+---
+title: RedlandWorld::open
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandWorld]]::open</b>()</code>
+<code>public function <b><a href="RedlandWorld">RedlandWorld</a>::open</b>()</code>
 

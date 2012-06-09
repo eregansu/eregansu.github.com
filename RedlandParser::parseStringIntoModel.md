@@ -1,6 +1,10 @@
+---
+title: RedlandParser::parseStringIntoModel
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandParser]]::parseStringIntoModel</b>(<b>$string</b>, <b>$baseURI</b>, <b>$model</b>)</code>
+<code>public function <b><a href="RedlandParser">RedlandParser</a>::parseStringIntoModel</b>(<b>$string</b>, <b>$baseURI</b>, <b>$model</b>)</code>
 
 ## Parameters
 

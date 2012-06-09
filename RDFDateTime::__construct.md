@@ -1,8 +1,12 @@
+---
+title: RDFDateTime::__construct
+---
+
 ## Synopsis
 
 <code>uses('rdf');</code>
 
-<code>public function <b>[[RDFDateTime]]::__construct</b>(<b>$when</b> = null, <b>$world</b> = null)</code>
+<code>public function <b><a href="RDFDateTime">RDFDateTime</a>::__construct</b>(<b>$when</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

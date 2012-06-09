@@ -1,8 +1,12 @@
+---
+title: Store::storedTransaction
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::storedTransaction</b>(<b>$db</b>, <b>$args</b>)</code>
+<code>public function <b><a href="Store">Store</a>::storedTransaction</b>(<b>$db</b>, <b>$args</b>)</code>
 
 ## Parameters
 

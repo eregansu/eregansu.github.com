@@ -1,6 +1,10 @@
+---
+title: XMLParser::parse
+---
+
 ## Synopsis
 
-<code>public function <b>[[XMLParser]]::parse</b>(<b>$data</b>, <b>$isFinal</b> = false)</code>
+<code>public function <b><a href="XMLParser">XMLParser</a>::parse</b>(<b>$data</b>, <b>$isFinal</b> = false)</code>
 
 ## Parameters
 

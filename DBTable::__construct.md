@@ -1,6 +1,10 @@
+---
+title: DBTable::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBTable]]::__construct</b>(<b>$schema</b>, <b>$name</b>, <b>$options</b>)</code>
+<code>public function <b><a href="DBTable">DBTable</a>::__construct</b>(<b>$schema</b>, <b>$name</b>, <b>$options</b>)</code>
 
 ## Parameters
 

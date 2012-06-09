@@ -1,6 +1,10 @@
+---
+title: XapianSearch::query
+---
+
 ## Synopsis
 
-<code>public function <b>[[XapianSearch]]::query</b>(<b>$args</b>)</code>
+<code>public function <b><a href="XapianSearch">XapianSearch</a>::query</b>(<b>$args</b>)</code>
 
 ## Parameters
 

@@ -1,8 +1,12 @@
+---
+title: Auth::callback
+---
+
 ## Synopsis
 
 <code>uses('auth');</code>
 
-<code>public function <b>[[Auth]]::callback</b>(<b>$request</b>, <b>$scheme</b>, <b>$remainder</b>)</code>
+<code>public function <b><a href="Auth">Auth</a>::callback</b>(<b>$request</b>, <b>$scheme</b>, <b>$remainder</b>)</code>
 
 ## Parameters
 

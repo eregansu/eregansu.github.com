@@ -1,8 +1,12 @@
+---
+title: RDF::tripleSetFromXMLString
+---
+
 ## Synopsis
 
 <code>uses('rdf');</code>
 
-<code>public static function <b>[[RDF]]::tripleSetFromXMLString</b>(<b>$string</b>, <b>$location</b> = null)</code>
+<code>public static function <b><a href="RDF">RDF</a>::tripleSetFromXMLString</b>(<b>$string</b>, <b>$location</b> = null)</code>
 
 ## Parameters
 

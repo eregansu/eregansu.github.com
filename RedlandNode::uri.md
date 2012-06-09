@@ -1,6 +1,10 @@
+---
+title: RedlandNode::uri
+---
+
 ## Synopsis
 
-<code>public static function <b>[[RedlandNode]]::uri</b>(<b>$uri</b>, <b>$world</b> = null)</code>
+<code>public static function <b><a href="RedlandNode">RedlandNode</a>::uri</b>(<b>$uri</b>, <b>$world</b> = null)</code>
 
 ## Parameters
 

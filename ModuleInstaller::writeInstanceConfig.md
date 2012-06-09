@@ -1,6 +1,10 @@
+---
+title: ModuleInstaller::writeInstanceConfig
+---
+
 ## Synopsis
 
-<code>public function <b>[[ModuleInstaller]]::writeInstanceConfig</b>(<b>$file</b>)</code>
+<code>public function <b><a href="ModuleInstaller">ModuleInstaller</a>::writeInstanceConfig</b>(<b>$file</b>)</code>
 
 ## Parameters
 

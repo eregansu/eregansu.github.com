@@ -1,6 +1,10 @@
+---
+title: DBStorableSet::key
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[DBStorableSet]]::key</b>()</code>
+<code>public function <b><a href="DBStorableSet">DBStorableSet</a>::key</b>()</code>
 

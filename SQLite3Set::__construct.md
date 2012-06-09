@@ -1,6 +1,10 @@
+---
+title: SQLite3Set::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[SQLite3Set]]::__construct</b>(<b>$db</b>, <b>$resource</b>, <b>$query</b> = null, <b>$params</b> = null)</code>
+<code>public function <b><a href="SQLite3Set">SQLite3Set</a>::__construct</b>(<b>$db</b>, <b>$resource</b>, <b>$query</b> = null, <b>$params</b> = null)</code>
 
 ## Parameters
 

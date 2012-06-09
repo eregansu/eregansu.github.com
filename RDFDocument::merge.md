@@ -1,6 +1,10 @@
+---
+title: RDFDocument::merge
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::merge</b>(<b>$inst</b>, <b>$post</b> = null)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::merge</b>(<b>$inst</b>, <b>$post</b> = null)</code>
 
 ## Parameters
 

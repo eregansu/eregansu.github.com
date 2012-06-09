@@ -1,6 +1,10 @@
+---
+title: RedlandModel::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandModel]]::__construct</b>(<b>$storage</b> = null, <b>$options</b> = null, <b>$world</b> = null)</code>
+<code>public function <b><a href="RedlandModel">RedlandModel</a>::__construct</b>(<b>$storage</b> = null, <b>$options</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: MySQLSchema::schemata
+---
+
 ## Synopsis
 
-<code>public function <b>[[MySQLSchema]]::schemata</b>(<b>$dbName</b>)</code>
+<code>public function <b><a href="MySQLSchema">MySQLSchema</a>::schemata</b>(<b>$dbName</b>)</code>
 
 ## Parameters
 

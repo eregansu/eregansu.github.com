@@ -1,8 +1,12 @@
+---
+title: RDF::tripleSetFromURL
+---
+
 ## Synopsis
 
 <code>uses('rdf');</code>
 
-<code>public static function <b>[[RDF]]::tripleSetFromURL</b>(<b>$location</b>, <b>$curl</b> = null)</code>
+<code>public static function <b><a href="RDF">RDF</a>::tripleSetFromURL</b>(<b>$location</b>, <b>$curl</b> = null)</code>
 
 ## Parameters
 

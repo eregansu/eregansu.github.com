@@ -1,6 +1,10 @@
+---
+title: Observers::observe
+---
+
 ## Synopsis
 
-<code>public static function <b>[[Observers]]::observe</b>(<b>$event</b>, <b>$callback</b>, <b>$data</b> = null)</code>
+<code>public static function <b><a href="Observers">Observers</a>::observe</b>(<b>$event</b>, <b>$callback</b>, <b>$data</b> = null)</code>
 
 ## Parameters
 

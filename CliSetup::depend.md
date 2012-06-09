@@ -1,6 +1,10 @@
+---
+title: CliSetup::depend
+---
+
 ## Synopsis
 
-<code>public function <b>[[CliSetup]]::depend</b>(<b>$id</b>, <b>$iri</b>, <b>$info</b> = null)</code>
+<code>public function <b><a href="CliSetup">CliSetup</a>::depend</b>(<b>$id</b>, <b>$iri</b>, <b>$info</b> = null)</code>
 
 ## Parameters
 

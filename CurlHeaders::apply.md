@@ -1,6 +1,10 @@
+---
+title: CurlHeaders::apply
+---
+
 ## Synopsis
 
-<code>public function <b>[[CurlHeaders]]::apply</b>(<b>$handle</b>)</code>
+<code>public function <b><a href="CurlHeaders">CurlHeaders</a>::apply</b>(<b>$handle</b>)</code>
 
 ## Parameters
 

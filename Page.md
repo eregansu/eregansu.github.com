@@ -1,10 +1,14 @@
+---
+title: Page
+---
+
 Templated web page generation.
 
-`Page` is a class derived from [[Proxy]].
+`Page` is a class derived from <a href="Proxy">Proxy</a>.
 
 ## Synopsis
 
 ```php
-uses('auth');
+uses('page');
 ```
 

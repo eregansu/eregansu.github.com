@@ -1,4 +1,8 @@
+---
+title: DBTable::columns
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBTable]]::columns</b>()</code>
+<code>public function <b><a href="DBTable">DBTable</a>::columns</b>()</code>
 

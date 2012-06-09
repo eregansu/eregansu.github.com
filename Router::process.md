@@ -1,6 +1,12 @@
+---
+title: Router::process
+---
+
 ## Synopsis
 
-<code>public function <b>[[Router]]::process</b>(<b>$req</b>)</code>
+<code>uses('routable');</code>
+
+<code>public function <b><a href="Router">Router</a>::process</b>(<b>$req</b>)</code>
 
 ## Parameters
 

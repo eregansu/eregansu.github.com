@@ -1,6 +1,10 @@
+---
+title: RDFDocument::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::__construct</b>(<b>$fileURI</b> = null, <b>$primaryTopic</b> = null, <b>$storage</b> = null, <b>$options</b> = null, <b>$world</b> = null)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::__construct</b>(<b>$fileURI</b> = null, <b>$primaryTopic</b> = null, <b>$storage</b> = null, <b>$options</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

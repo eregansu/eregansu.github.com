@@ -1,8 +1,12 @@
+---
+title: Storable::reload
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Storable]]::reload</b>(<b>$data</b> = null)</code>
+<code>public function <b><a href="Storable">Storable</a>::reload</b>(<b>$data</b> = null)</code>
 
 ## Parameters
 

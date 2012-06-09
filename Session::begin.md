@@ -1,8 +1,12 @@
+---
+title: Session::begin
+---
+
 Open the session data, so that changes can be made to it
 
 ## Synopsis
 
-<code>public function <b>[[Session]]::begin</b>(<b>$req</b> = null)</code>
+<code>public function <b><a href="Session">Session</a>::begin</b>(<b>$req</b> = null)</code>
 
 ## Description
 

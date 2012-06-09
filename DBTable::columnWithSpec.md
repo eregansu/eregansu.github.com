@@ -1,6 +1,10 @@
+---
+title: DBTable::columnWithSpec
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBTable]]::columnWithSpec</b>(<b>$name</b>, <b>$type</b>, <b>$sizeValues</b>, <b>$flags</b> = null, <b>$defaultValue</b> = null, <b>$comment</b> = null)</code>
+<code>public function <b><a href="DBTable">DBTable</a>::columnWithSpec</b>(<b>$name</b>, <b>$type</b>, <b>$sizeValues</b>, <b>$flags</b> = null, <b>$defaultValue</b> = null, <b>$comment</b> = null)</code>
 
 ## Parameters
 

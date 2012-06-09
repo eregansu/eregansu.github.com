@@ -1,4 +1,8 @@
+---
+title: RDFDocument::subjects
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::subjects</b>()</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::subjects</b>()</code>
 

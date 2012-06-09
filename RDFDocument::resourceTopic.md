@@ -1,4 +1,8 @@
+---
+title: RDFDocument::resourceTopic
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::resourceTopic</b>()</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::resourceTopic</b>()</code>
 

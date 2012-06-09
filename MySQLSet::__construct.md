@@ -1,6 +1,10 @@
+---
+title: MySQLSet::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[MySQLSet]]::__construct</b>(<b>$db</b>, <b>$resource</b>, <b>$query</b> = null, <b>$params</b> = null)</code>
+<code>public function <b><a href="MySQLSet">MySQLSet</a>::__construct</b>(<b>$db</b>, <b>$resource</b>, <b>$query</b> = null, <b>$params</b> = null)</code>
 
 ## Parameters
 

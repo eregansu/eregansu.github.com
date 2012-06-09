@@ -1,8 +1,12 @@
+---
+title: RDFInstance::shortDesc
+---
+
 ## Synopsis
 
 <code>uses('rdf');</code>
 
-<code>public function <b>[[RDFInstance]]::shortDesc</b>(<b>$langs</b> = null, <b>$fallbackFirst</b> = true)</code>
+<code>public function <b><a href="RDFInstance">RDFInstance</a>::shortDesc</b>(<b>$langs</b> = null, <b>$fallbackFirst</b> = true)</code>
 
 ## Parameters
 

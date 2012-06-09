@@ -1,6 +1,10 @@
+---
+title: CliSetup::main
+---
+
 ## Synopsis
 
-<code>public function <b>[[CliSetup]]::main</b>(<b>$args</b>)</code>
+<code>public function <b><a href="CliSetup">CliSetup</a>::main</b>(<b>$args</b>)</code>
 
 ## Parameters
 

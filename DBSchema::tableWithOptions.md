@@ -1,6 +1,10 @@
+---
+title: DBSchema::tableWithOptions
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBSchema]]::tableWithOptions</b>(<b>$name</b>, <b>$options</b>)</code>
+<code>public function <b><a href="DBSchema">DBSchema</a>::tableWithOptions</b>(<b>$name</b>, <b>$options</b>)</code>
 
 ## Parameters
 

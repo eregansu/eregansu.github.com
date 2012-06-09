@@ -1,4 +1,8 @@
+---
+title: SQLite3DB::rollback
+---
+
 ## Synopsis
 
-<code>public function <b>[[SQLite3DB]]::rollback</b>()</code>
+<code>public function <b><a href="SQLite3DB">SQLite3DB</a>::rollback</b>()</code>
 

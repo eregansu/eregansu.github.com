@@ -1,6 +1,10 @@
+---
+title: SearchIndexer::connect
+---
+
 ## Synopsis
 
-<code>public static function <b>[[SearchIndexer]]::connect</b>(<b>$uri</b>)</code>
+<code>public static function <b><a href="SearchIndexer">SearchIndexer</a>::connect</b>(<b>$uri</b>)</code>
 
 ## Parameters
 

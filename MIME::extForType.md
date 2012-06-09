@@ -1,23 +1,27 @@
+---
+title: MIME::extForType
+---
+
 Return the preferred file extension for a specified MIME type
 
 ## Synopsis
 
 <code>uses('mime');</code>
 
-<code>public static function <b>[[MIME]]::extForType</b>(<i>string</i> <i>[in]</i> <b>$type</b>)</code>
+<code>public static function <b><a href="MIME">MIME</a>::extForType</b>(<i>string</i> <i>[in]</i> <b>$type</b>)</code>
 
 ## Description
 
 `MIME::extForType()` returns the preferred file extension, if any, for a
 given MIME type. For example, the preferred extension string for the
-text/plain type is .txt.
+<a href="text/plain">text/plain</a> type is <a href=".txt">.txt</a>.
 If a file extension mapping exists, it will be returned with a leading
 dot. If no file extension mapping exists, an empty string will be
 returned.
 
 ## Example
 
-* [mimetest.php](http://github.com/nexgenta/eregansu/blob/master/mimetest.php)
+* <a href="http://github.com/nexgenta/eregansu/blob/master/mimetest.php">mimetest.php</a>
 
 ## Parameters
 

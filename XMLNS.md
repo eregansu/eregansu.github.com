@@ -1,8 +1,6 @@
-Placeholder class for XML namespace constants.
+---
+title: XMLNS
+---
 
-`XMLNS` is an abstract base class.
-
-## Public Static Methods
-
-* `[[XMLNS::fqname]]()`: Generate a fully-qualified URI for a namespace URI and local name.
+`XMLNS` is an abstract class derived from <a href="URI">URI</a>.
 

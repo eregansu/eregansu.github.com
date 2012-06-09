@@ -1,6 +1,10 @@
+---
+title: Store
+---
+
 Base class for complex object stores.
 
-`Store` is a class derived from [[Model]].
+`Store` is a class derived from <a href="Model">Model</a>.
 
 ## Synopsis
 
@@ -10,28 +14,33 @@ uses('store');
 
 ## Public Static Methods
 
-* `[[Store::getInstance]]()`
+* `<a href="Store%3A%3AgetInstance">Store::getInstance</a>()`
 
 ## Public Methods
 
-* `[[Store::__construct]]()`
-* `[[Store::uuidOfObject]]()`
-* `[[Store::kindOfObject]]()`
-* `[[Store::objectAsArray]]()`
-* `[[Store::firstObject]]()`
-* `[[Store::dataForEntry]]()`
-* `[[Store::dataForUUID]]()`
-* `[[Store::objectForUUID]]()`
-* `[[Store::uuidForIri]]()`: Return the UUID of the object with the specified IRI, $iri.
-* `[[Store::dataForIri]]()`
-* `[[Store::objectForIri]]()`
-* `[[Store::setData]]()`
-* `[[Store::query]]()`
-* `[[Store::object]]()`
-* `[[Store::updateObjectWithUUID]]()`
-* `[[Store::deleteObjectWithUUID]]()`
-* `[[Store::storedTransaction]]()`
-* `[[Store::pendingObjectsSet]]()`
-* `[[Store::dirty]]()`
-* `[[Store::markAllAsDirty]]()`
+* `<a href="Store%3A%3A__construct">Store::__construct</a>()`
+* `<a href="Store%3A%3AuuidOfObject">Store::uuidOfObject</a>()`
+* `<a href="Store%3A%3AkindOfObject">Store::kindOfObject</a>()`
+* `<a href="Store%3A%3AobjectAsArray">Store::objectAsArray</a>()`
+* `<a href="Store%3A%3AfirstObject">Store::firstObject</a>()`
+* `<a href="Store%3A%3AdataForEntry">Store::dataForEntry</a>()`
+* `<a href="Store%3A%3AdataForUUID">Store::dataForUUID</a>()`
+* `<a href="Store%3A%3AobjectForUUID">Store::objectForUUID</a>()`
+* `<a href="Store%3A%3AuuidForIri">Store::uuidForIri</a>()`: Return the UUID of the object with the specified IRI, $iri.
+* `<a href="Store%3A%3AdataForIri">Store::dataForIri</a>()`
+* `<a href="Store%3A%3AobjectForIri">Store::objectForIri</a>()`
+* `<a href="Store%3A%3Ainsert">Store::insert</a>()`
+* `<a href="Store%3A%3Aupdate">Store::update</a>()`
+* `<a href="Store%3A%3AinsertId">Store::insertId</a>()`
+* `<a href="Store%3A%3Afetch">Store::fetch</a>()`
+* `<a href="Store%3A%3Adelete">Store::delete</a>()`
+* `<a href="Store%3A%3AsetData">Store::setData</a>()`
+* `<a href="Store%3A%3Aquery">Store::query</a>()`
+* `<a href="Store%3A%3Aobject">Store::object</a>()`
+* `<a href="Store%3A%3AupdateObjectWithUUID">Store::updateObjectWithUUID</a>()`
+* `<a href="Store%3A%3AdeleteObjectWithUUID">Store::deleteObjectWithUUID</a>()`
+* `<a href="Store%3A%3AstoredTransaction">Store::storedTransaction</a>()`
+* `<a href="Store%3A%3ApendingObjectsSet">Store::pendingObjectsSet</a>()`
+* `<a href="Store%3A%3Adirty">Store::dirty</a>()`
+* `<a href="Store%3A%3AmarkAllAsDirty">Store::markAllAsDirty</a>()`
 

@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::fetchSameAs
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::fetchSameAs</b>(<b>$doc</b> = null, <b>$useDoc</b> = true)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::fetchSameAs</b>(<b>$doc</b> = null, <b>$useDoc</b> = true)</code>
 
 ## Parameters
 

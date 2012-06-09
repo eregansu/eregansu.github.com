@@ -1,6 +1,10 @@
+---
+title: Auth::__construct
+---
+
 ## Synopsis
 
 <code>uses('auth');</code>
 
-<code>public function <b>[[Auth]]::__construct</b>()</code>
+<code>public function <b><a href="Auth">Auth</a>::__construct</b>()</code>
 

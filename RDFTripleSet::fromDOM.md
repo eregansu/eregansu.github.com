@@ -1,6 +1,10 @@
+---
+title: RDFTripleSet::fromDOM
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFTripleSet]]::fromDOM</b>(<b>$root</b>)</code>
+<code>public function <b><a href="RDFTripleSet">RDFTripleSet</a>::fromDOM</b>(<b>$root</b>)</code>
 
 ## Parameters
 

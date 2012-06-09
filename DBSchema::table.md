@@ -1,6 +1,10 @@
+---
+title: DBSchema::table
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBSchema]]::table</b>(<b>$name</b>)</code>
+<code>public function <b><a href="DBSchema">DBSchema</a>::table</b>(<b>$name</b>)</code>
 
 ## Parameters
 

@@ -1,8 +1,12 @@
+---
+title: AuthError::__construct
+---
+
 ## Synopsis
 
 <code>uses('auth');</code>
 
-<code>public function <b>[[AuthError]]::__construct</b>(<b>$engine</b>, <b>$message</b> = null, <b>$reason</b> = null)</code>
+<code>public function <b><a href="AuthError">AuthError</a>::__construct</b>(<b>$engine</b>, <b>$message</b> = null, <b>$reason</b> = null)</code>
 
 ## Parameters
 

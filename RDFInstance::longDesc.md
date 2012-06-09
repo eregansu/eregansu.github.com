@@ -1,8 +1,12 @@
+---
+title: RDFInstance::longDesc
+---
+
 ## Synopsis
 
 <code>uses('rdf');</code>
 
-<code>public function <b>[[RDFInstance]]::longDesc</b>(<b>$langs</b> = null, <b>$fallbackFirst</b> = true)</code>
+<code>public function <b><a href="RDFInstance">RDFInstance</a>::longDesc</b>(<b>$langs</b> = null, <b>$fallbackFirst</b> = true)</code>
 
 ## Parameters
 

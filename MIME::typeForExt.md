@@ -1,10 +1,14 @@
+---
+title: MIME::typeForExt
+---
+
 Return the MIME type matching a specified file extension
 
 ## Synopsis
 
 <code>uses('mime');</code>
 
-<code>public static function <b>[[MIME]]::typeForExt</b>(<i>string</i> <i>[in]</i> <b>$ext</b>)</code>
+<code>public static function <b><a href="MIME">MIME</a>::typeForExt</b>(<i>string</i> <i>[in]</i> <b>$ext</b>)</code>
 
 ## Description
 
@@ -17,7 +21,7 @@ is returned.
 
 ## Example
 
-* [mimetest.php](http://github.com/nexgenta/eregansu/blob/master/mimetest.php)
+* <a href="http://github.com/nexgenta/eregansu/blob/master/mimetest.php">mimetest.php</a>
 
 ## Parameters
 

@@ -1,4 +1,8 @@
+---
+title: RedlandNode::asArray
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandNode]]::asArray</b>()</code>
+<code>public function <b><a href="RedlandNode">RedlandNode</a>::asArray</b>()</code>
 

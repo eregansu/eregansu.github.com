@@ -1,4 +1,8 @@
+---
+title: MySQL::commit
+---
+
 ## Synopsis
 
-<code>public function <b>[[MySQL]]::commit</b>()</code>
+<code>public function <b><a href="MySQL">MySQL</a>::commit</b>()</code>
 

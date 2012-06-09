@@ -1,6 +1,10 @@
+---
+title: Template::process
+---
+
 ## Synopsis
 
 <code>uses('template');</code>
 
-<code>public function <b>[[Template]]::process</b>()</code>
+<code>public function <b><a href="Template">Template</a>::process</b>()</code>
 

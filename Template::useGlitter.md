@@ -1,8 +1,12 @@
+---
+title: Template::useGlitter
+---
+
 ## Synopsis
 
 <code>uses('template');</code>
 
-<code>public function <b>[[Template]]::useGlitter</b>(<b>$module</b>)</code>
+<code>public function <b><a href="Template">Template</a>::useGlitter</b>(<b>$module</b>)</code>
 
 ## Parameters
 

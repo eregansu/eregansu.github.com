@@ -1,6 +1,12 @@
+---
+title: IRequestProcessor::process
+---
+
 ## Synopsis
 
-<code>public function <b>[[IRequestProcessor]]::process</b>(<b>$req</b>)</code>
+<code>uses('routable');</code>
+
+<code>public function <b><a href="IRequestProcessor">IRequestProcessor</a>::process</b>(<b>$req</b>)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: DBTable::dropIndex
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBTable]]::dropIndex</b>(<b>$name</b>)</code>
+<code>public function <b><a href="DBTable">DBTable</a>::dropIndex</b>(<b>$name</b>)</code>
 
 ## Parameters
 

@@ -1,8 +1,12 @@
+---
+title: Store::deleteObjectWithUUID
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::deleteObjectWithUUID</b>(<b>$uuid</b>)</code>
+<code>public function <b><a href="Store">Store</a>::deleteObjectWithUUID</b>(<b>$uuid</b>)</code>
 
 ## Parameters
 

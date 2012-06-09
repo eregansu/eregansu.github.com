@@ -1,6 +1,10 @@
+---
+title: RedlandJSONSerializer::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandJSONSerializer]]::__construct</b>(<b>$mime</b> = null, <b>$uri</b> = null, <b>$world</b> = null)</code>
+<code>public function <b><a href="RedlandJSONSerializer">RedlandJSONSerializer</a>::__construct</b>(<b>$mime</b> = null, <b>$uri</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

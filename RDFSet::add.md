@@ -1,6 +1,10 @@
+---
+title: RDFSet::add
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFSet]]::add</b>(<b>$property</b>)</code>
+<code>public function <b><a href="RDFSet">RDFSet</a>::add</b>(<b>$property</b>)</code>
 
 ## Parameters
 

@@ -1,6 +1,12 @@
+---
+title: ICommandLine::main
+---
+
 ## Synopsis
 
-<code> function <b>[[ICommandLine]]::main</b>(<b>$args</b>)</code>
+<code>uses('routable');</code>
+
+<code> function <b><a href="ICommandLine">ICommandLine</a>::main</b>(<b>$args</b>)</code>
 
 ## Parameters
 

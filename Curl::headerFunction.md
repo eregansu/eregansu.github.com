@@ -1,6 +1,10 @@
+---
+title: Curl::headerFunction
+---
+
 ## Synopsis
 
-<code>public function <b>[[Curl]]::headerFunction</b>(<b>$curl</b>, <b>$data</b>)</code>
+<code>public function <b><a href="Curl">Curl</a>::headerFunction</b>(<b>$curl</b>, <b>$data</b>)</code>
 
 ## Parameters
 

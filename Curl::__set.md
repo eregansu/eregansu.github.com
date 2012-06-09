@@ -1,6 +1,10 @@
+---
+title: Curl::__set
+---
+
 ## Synopsis
 
-<code>public function <b>[[Curl]]::__set</b>(<b>$name</b>, <b>$value</b>)</code>
+<code>public function <b><a href="Curl">Curl</a>::__set</b>(<b>$name</b>, <b>$value</b>)</code>
 
 ## Parameters
 

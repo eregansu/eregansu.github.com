@@ -1,8 +1,12 @@
+---
+title: StaticStorableSet::__construct
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[StaticStorableSet]]::__construct</b>(<b>$model</b>, <b>$args</b>)</code>
+<code>public function <b><a href="StaticStorableSet">StaticStorableSet</a>::__construct</b>(<b>$model</b>, <b>$args</b>)</code>
 
 ## Parameters
 

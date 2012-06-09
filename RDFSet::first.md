@@ -1,4 +1,8 @@
+---
+title: RDFSet::first
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFSet]]::first</b>()</code>
+<code>public function <b><a href="RDFSet">RDFSet</a>::first</b>()</code>
 

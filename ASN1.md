@@ -1,3 +1,7 @@
+---
+title: ASN1
+---
+
 ASN.1 decoding support.
 
 `ASN1` is an abstract base class.
@@ -17,5 +21,5 @@ conform to the Basic Encoding Rules (BER).
 
 ## Public Static Methods
 
-* `[[ASN1::decodeBER]]()`: Decode a BER-encoded ASN.1 structure.
+* `<a href="ASN1%3A%3AdecodeBER">ASN1::decodeBER</a>()`: Decode a BER-encoded ASN.1 structure.
 

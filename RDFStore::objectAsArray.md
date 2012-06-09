@@ -1,8 +1,12 @@
+---
+title: RDFStore::objectAsArray
+---
+
 ## Synopsis
 
 <code>uses('rdfstore');</code>
 
-<code>public function <b>[[RDFStore]]::objectAsArray</b>(<b>$object</b>)</code>
+<code>public function <b><a href="RDFStore">RDFStore</a>::objectAsArray</b>(<b>$object</b>)</code>
 
 ## Parameters
 

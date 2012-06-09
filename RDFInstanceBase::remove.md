@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::remove
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::remove</b>(<b>$predicate</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::remove</b>(<b>$predicate</b>)</code>
 
 ## Parameters
 

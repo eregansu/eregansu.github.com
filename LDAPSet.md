@@ -1,12 +1,10 @@
-`LDAPSet` is a class derived from [[DBDataSet]].
+---
+title: LDAPSet
+---
 
-## Synopsis
-
-```php
-uses('db');
-```
+`LDAPSet` is a class derived from <a href="DBDataSet">DBDataSet</a>.
 
 ## Public Methods
 
-* `[[LDAPSet::__construct]]()`
+* `<a href="LDAPSet%3A%3A__construct">LDAPSet::__construct</a>()`
 

@@ -1,10 +1,14 @@
-Initialise a `[[CSVImport]]` instance.
+---
+title: CSVImport::__construct
+---
+
+Initialise a `<a href="CSVImport">CSVImport</a>` instance.
 
 ## Synopsis
 
 <code>uses('csv-import');</code>
 
-<code>public function <b>[[CSVImport]]::__construct</b>(<i>string</i> <i>[in]</i> <b>$filename</b>)</code>
+<code>public function <b><a href="CSVImport">CSVImport</a>::__construct</b>(<i>string</i> <i>[in]</i> <b>$filename</b>)</code>
 
 ## Parameters
 

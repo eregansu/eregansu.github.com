@@ -1,6 +1,10 @@
+---
+title: RedlandBase::__call
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandBase]]::__call</b>(<b>$name</b>, <b>$args</b>)</code>
+<code>public function <b><a href="RedlandBase">RedlandBase</a>::__call</b>(<b>$name</b>, <b>$args</b>)</code>
 
 ## Parameters
 

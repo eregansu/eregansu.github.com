@@ -1,6 +1,10 @@
+---
+title: SQLite3Schema::moduleVersion
+---
+
 ## Synopsis
 
-<code>public function <b>[[SQLite3Schema]]::moduleVersion</b>(<b>$moduleId</b>)</code>
+<code>public function <b><a href="SQLite3Schema">SQLite3Schema</a>::moduleVersion</b>(<b>$moduleId</b>)</code>
 
 ## Parameters
 

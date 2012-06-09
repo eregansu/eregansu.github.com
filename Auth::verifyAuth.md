@@ -1,8 +1,12 @@
+---
+title: Auth::verifyAuth
+---
+
 ## Synopsis
 
 <code>uses('auth');</code>
 
-<code>public function <b>[[Auth]]::verifyAuth</b>(<b>$request</b>, <b>$scheme</b>, <b>$remainder</b>, <b>$authData</b>, <b>$callbackIRI</b>)</code>
+<code>public function <b><a href="Auth">Auth</a>::verifyAuth</b>(<b>$request</b>, <b>$scheme</b>, <b>$remainder</b>, <b>$authData</b>, <b>$callbackIRI</b>)</code>
 
 ## Parameters
 

@@ -1,6 +1,10 @@
+---
+title: RDFTriple::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFTriple]]::__construct</b>(<b>$subject</b>, <b>$predicate</b>, <b>$object</b>)</code>
+<code>public function <b><a href="RDFTriple">RDFTriple</a>::__construct</b>(<b>$subject</b>, <b>$predicate</b>, <b>$object</b>)</code>
 
 ## Parameters
 

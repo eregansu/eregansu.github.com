@@ -1,4 +1,8 @@
+---
+title: CurlHeaders::__toString
+---
+
 ## Synopsis
 
-<code>public function <b>[[CurlHeaders]]::__toString</b>()</code>
+<code>public function <b><a href="CurlHeaders">CurlHeaders</a>::__toString</b>()</code>
 

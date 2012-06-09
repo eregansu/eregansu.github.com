@@ -1,10 +1,14 @@
-`SQLite3Schema` is a class derived from [[DBSchema]].
+---
+title: SQLite3Schema
+---
+
+`SQLite3Schema` is a class derived from <a href="DBSchema">DBSchema</a>.
 
 ## Public Methods
 
-* `[[SQLite3Schema::moduleVersion]]()`
-* `[[SQLite3Schema::databases]]()`
-* `[[SQLite3Schema::schemata]]()`
-* `[[SQLite3Schema::tables]]()`
-* `[[SQLite3Schema::views]]()`
+* `<a href="SQLite3Schema%3A%3AmoduleVersion">SQLite3Schema::moduleVersion</a>()`
+* `<a href="SQLite3Schema%3A%3Adatabases">SQLite3Schema::databases</a>()`
+* `<a href="SQLite3Schema%3A%3Aschemata">SQLite3Schema::schemata</a>()`
+* `<a href="SQLite3Schema%3A%3Atables">SQLite3Schema::tables</a>()`
+* `<a href="SQLite3Schema%3A%3Aviews">SQLite3Schema::views</a>()`
 

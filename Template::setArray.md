@@ -1,8 +1,12 @@
+---
+title: Template::setArray
+---
+
 ## Synopsis
 
 <code>uses('template');</code>
 
-<code>public function <b>[[Template]]::setArray</b>(<b>$vars</b>)</code>
+<code>public function <b><a href="Template">Template</a>::setArray</b>(<b>$vars</b>)</code>
 
 ## Parameters
 

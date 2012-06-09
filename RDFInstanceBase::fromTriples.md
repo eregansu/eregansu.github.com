@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::fromTriples
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::fromTriples</b>(<b>$set</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::fromTriples</b>(<b>$set</b>)</code>
 
 ## Parameters
 

@@ -1,8 +1,12 @@
+---
+title: Store::objectAsArray
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::objectAsArray</b>(<b>$object</b>)</code>
+<code>public function <b><a href="Store">Store</a>::objectAsArray</b>(<b>$object</b>)</code>
 
 ## Parameters
 

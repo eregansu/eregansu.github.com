@@ -1,4 +1,8 @@
+---
+title: RDFComplexLiteral::type
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFComplexLiteral]]::type</b>()</code>
+<code>public function <b><a href="RDFComplexLiteral">RDFComplexLiteral</a>::type</b>()</code>
 

@@ -1,7 +1,11 @@
-Object store implementation with facilities for storage of instances of
-`[[RDFInstance]]`.
+---
+title: RDFStore
+---
 
-`RDFStore` is a class derived from [[Store]].
+Object store implementation with facilities for storage of instances of
+`<a href="RDFInstance">RDFInstance</a>`.
+
+`RDFStore` is a class derived from <a href="Store">Store</a>.
 
 ## Synopsis
 
@@ -16,7 +20,7 @@ described at http://n2.talis.com/wiki/RDF_JSON_Specification
 
 ## Public Methods
 
-* `[[RDFStore::ingestRDF]]()`
-* `[[RDFStore::subjectOfObject]]()`
-* `[[RDFStore::objectAsArray]]()`
+* `<a href="RDFStore%3A%3AingestRDF">RDFStore::ingestRDF</a>()`
+* `<a href="RDFStore%3A%3AsubjectOfObject">RDFStore::subjectOfObject</a>()`
+* `<a href="RDFStore%3A%3AobjectAsArray">RDFStore::objectAsArray</a>()`
 

@@ -1,6 +1,10 @@
+---
+title: RedlandParser::parseFileIntoModel
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandParser]]::parseFileIntoModel</b>(<b>$filename</b>, <b>$baseURI</b>, <b>$model</b>)</code>
+<code>public function <b><a href="RedlandParser">RedlandParser</a>::parseFileIntoModel</b>(<b>$filename</b>, <b>$baseURI</b>, <b>$model</b>)</code>
 
 ## Parameters
 

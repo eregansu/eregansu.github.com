@@ -1,4 +1,8 @@
+---
+title: SQLite3DB::insertId
+---
+
 ## Synopsis
 
-<code>public function <b>[[SQLite3DB]]::insertId</b>()</code>
+<code>public function <b><a href="SQLite3DB">SQLite3DB</a>::insertId</b>()</code>
 

@@ -1,6 +1,10 @@
+---
+title: RedlandWorld::getFeature
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandWorld]]::getFeature</b>(<b>$feature</b>)</code>
+<code>public function <b><a href="RedlandWorld">RedlandWorld</a>::getFeature</b>(<b>$feature</b>)</code>
 
 ## Parameters
 

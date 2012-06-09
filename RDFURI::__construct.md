@@ -1,6 +1,10 @@
+---
+title: RDFURI::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFURI]]::__construct</b>(<b>$uri</b>, <b>$world</b> = null)</code>
+<code>public function <b><a href="RDFURI">RDFURI</a>::__construct</b>(<b>$uri</b>, <b>$world</b> = null)</code>
 
 ## Parameters
 

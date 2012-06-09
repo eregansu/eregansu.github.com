@@ -1,14 +1,18 @@
+---
+title: Request::requestForSAPI
+---
+
 Return an instance of a Request class for a specified SAPI.
 
 ## Synopsis
 
 <code>uses('request');</code>
 
-<code>public static function <i>Request</i> <b>[[Request]]::requestForSAPI</b>(<i>string</i> <i>[in,optional]</i> <b>$sapi</b> = null)</code>
+<code>public static function <i>Request</i> <b><a href="Request">Request</a>::requestForSAPI</b>(<i>string</i> <i>[in,optional]</i> <b>$sapi</b> = null)</code>
 
 ## Description
 
-Requests are encapsulated as one of several descendants of the `[[Request]]`
+Requests are encapsulated as one of several descendants of the `<a href="Request">Request</a>`
 class, depending upon the SAPI in use.
 If no SAPI name is specified when calling `Request::requestForSAPI()`, the current
 SAPI name as identified by PHP (using php_sapi_name) will be used.

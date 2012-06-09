@@ -1,4 +1,8 @@
+---
+title: RDFDocument::asN3
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::asN3</b>()</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::asN3</b>()</code>
 

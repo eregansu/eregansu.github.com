@@ -1,4 +1,8 @@
+---
+title: RDFDocument::subjectUris
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::subjectUris</b>()</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::subjectUris</b>()</code>
 

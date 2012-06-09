@@ -1,6 +1,10 @@
+---
+title: StoreModule::getInstance
+---
+
 ## Synopsis
 
-<code>public static function <b>[[StoreModule]]::getInstance</b>(<b>$args</b> = null)</code>
+<code>public static function <b><a href="StoreModule">StoreModule</a>::getInstance</b>(<b>$args</b> = null)</code>
 
 ## Parameters
 

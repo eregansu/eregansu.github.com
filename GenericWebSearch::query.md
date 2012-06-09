@@ -1,6 +1,10 @@
+---
+title: GenericWebSearch::query
+---
+
 ## Synopsis
 
-<code>public function <b>[[GenericWebSearch]]::query</b>(<b>$args</b>)</code>
+<code>public function <b><a href="GenericWebSearch">GenericWebSearch</a>::query</b>(<b>$args</b>)</code>
 
 ## Parameters
 

@@ -1,4 +1,8 @@
+---
+title: SQLite3Schema::databases
+---
+
 ## Synopsis
 
-<code>public function <b>[[SQLite3Schema]]::databases</b>()</code>
+<code>public function <b><a href="SQLite3Schema">SQLite3Schema</a>::databases</b>()</code>
 

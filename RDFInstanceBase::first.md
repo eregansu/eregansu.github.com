@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::first
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::first</b>(<b>$key</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::first</b>(<b>$key</b>)</code>
 
 ## Parameters
 

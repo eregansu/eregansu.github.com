@@ -1,6 +1,10 @@
+---
+title: RDFDocument::offsetUnset
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::offsetUnset</b>(<b>$key</b>)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::offsetUnset</b>(<b>$key</b>)</code>
 
 ## Parameters
 

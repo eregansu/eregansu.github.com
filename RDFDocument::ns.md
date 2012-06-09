@@ -1,6 +1,10 @@
+---
+title: RDFDocument::ns
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::ns</b>(<b>$uri</b>, <b>$suggestedPrefix</b>)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::ns</b>(<b>$uri</b>, <b>$suggestedPrefix</b>)</code>
 
 ## Parameters
 

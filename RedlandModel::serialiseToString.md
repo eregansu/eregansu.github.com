@@ -1,6 +1,10 @@
+---
+title: RedlandModel::serialiseToString
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandModel]]::serialiseToString</b>(<b>$serialiser</b>, <b>$baseUri</b> = null)</code>
+<code>public function <b><a href="RedlandModel">RedlandModel</a>::serialiseToString</b>(<b>$serialiser</b>, <b>$baseUri</b> = null)</code>
 
 ## Parameters
 

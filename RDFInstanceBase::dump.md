@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::dump
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::dump</b>(<b>$doc</b> = null)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::dump</b>(<b>$doc</b> = null)</code>
 
 ## Parameters
 

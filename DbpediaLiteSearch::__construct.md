@@ -1,6 +1,10 @@
+---
+title: DbpediaLiteSearch::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[DbpediaLiteSearch]]::__construct</b>(<b>$uri</b>)</code>
+<code>public function <b><a href="DbpediaLiteSearch">DbpediaLiteSearch</a>::__construct</b>(<b>$uri</b>)</code>
 
 ## Parameters
 

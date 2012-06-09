@@ -1,6 +1,10 @@
+---
+title: CurlCache::__get
+---
+
 ## Synopsis
 
-<code>public function <b>[[CurlCache]]::__get</b>(<b>$name</b>)</code>
+<code>public function <b><a href="CurlCache">CurlCache</a>::__get</b>(<b>$name</b>)</code>
 
 ## Parameters
 

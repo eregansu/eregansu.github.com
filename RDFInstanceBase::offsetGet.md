@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::offsetGet
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::offsetGet</b>(<b>$offset</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::offsetGet</b>(<b>$offset</b>)</code>
 
 ## Parameters
 

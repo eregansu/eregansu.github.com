@@ -1,6 +1,10 @@
+---
+title: CurlHeaders::offsetGet
+---
+
 ## Synopsis
 
-<code>public function <b>[[CurlHeaders]]::offsetGet</b>(<b>$name</b>)</code>
+<code>public function <b><a href="CurlHeaders">CurlHeaders</a>::offsetGet</b>(<b>$name</b>)</code>
 
 ## Parameters
 

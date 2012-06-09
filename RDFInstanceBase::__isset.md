@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::__isset
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::__isset</b>(<b>$predicate</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::__isset</b>(<b>$predicate</b>)</code>
 
 ## Parameters
 

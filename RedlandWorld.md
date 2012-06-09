@@ -1,8 +1,12 @@
-`RedlandWorld` is a class derived from [[RedlandBase]].
+---
+title: RedlandWorld
+---
+
+`RedlandWorld` is a class derived from <a href="RedlandBase">RedlandBase</a>.
 
 ## Public Methods
 
-* `[[RedlandWorld::__construct]]()`
-* `[[RedlandWorld::open]]()`
-* `[[RedlandWorld::getFeature]]()`
+* `<a href="RedlandWorld%3A%3A__construct">RedlandWorld::__construct</a>()`
+* `<a href="RedlandWorld%3A%3Aopen">RedlandWorld::open</a>()`
+* `<a href="RedlandWorld%3A%3AgetFeature">RedlandWorld::getFeature</a>()`
 

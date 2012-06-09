@@ -1,6 +1,10 @@
-`RedlandJSONTriplesSerializer` is a class derived from [[RedlandSerializer]].
+---
+title: RedlandJSONTriplesSerializer
+---
+
+`RedlandJSONTriplesSerializer` is a class derived from <a href="RedlandSerializer">RedlandSerializer</a>.
 
 ## Public Methods
 
-* `[[RedlandJSONTriplesSerializer::__construct]]()`
+* `<a href="RedlandJSONTriplesSerializer%3A%3A__construct">RedlandJSONTriplesSerializer::__construct</a>()`
 

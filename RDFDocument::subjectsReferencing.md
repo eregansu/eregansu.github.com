@@ -1,6 +1,10 @@
+---
+title: RDFDocument::subjectsReferencing
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::subjectsReferencing</b>(<b>$target</b>)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::subjectsReferencing</b>(<b>$target</b>)</code>
 
 ## Parameters
 

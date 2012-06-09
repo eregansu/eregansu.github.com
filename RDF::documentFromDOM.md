@@ -1,14 +1,18 @@
-Create a new `[[RDFDocument]]` given an RDF/XML `[[DOMElement]]`.
+---
+title: RDF::documentFromDOM
+---
+
+Create a new `<a href="RDFDocument">RDFDocument</a>` given an RDF/XML `<a href="DOMElement">DOMElement</a>`.
 
 ## Synopsis
 
 <code>uses('rdf');</code>
 
-<code>public static function <i>RDFDocument</i> <b>[[RDF]]::documentFromDOM</b>(<i>DOMElement</i> <i>[in]</i> <b>$dom</b>, <i>string</i> <i>[in,optional]</i> <b>$location</b> = null)</code>
+<code>public static function <i>RDFDocument</i> <b><a href="RDF">RDF</a>::documentFromDOM</b>(<i>DOMElement</i> <i>[in]</i> <b>$dom</b>, <i>string</i> <i>[in,optional]</i> <b>$location</b> = null)</code>
 
 ## Description
 
-Construct a new `[[RDFDocument]]` given the root element of an RDF/XML
+Construct a new `<a href="RDFDocument">RDFDocument</a>` given the root element of an RDF/XML
 document, such as that returned by dom_import_simplexml().
 
 ## Parameters
@@ -45,5 +49,5 @@ document.
 
 ## Return Value
 
-On success, returns a new `[[RDFDocument]]` instance.
+On success, returns a new `<a href="RDFDocument">RDFDocument</a>` instance.
 

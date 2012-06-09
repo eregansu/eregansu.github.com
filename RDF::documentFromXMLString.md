@@ -1,17 +1,21 @@
-Create a new `[[RDFDocument]]` given a string containin an RDF/XML
+---
+title: RDF::documentFromXMLString
+---
+
+Create a new `<a href="RDFDocument">RDFDocument</a>` given a string containin an RDF/XML
 document.
 
 ## Synopsis
 
 <code>uses('rdf');</code>
 
-<code>public static function <i>RDFDocument</i> <b>[[RDF]]::documentFromXMLString</b>(<i>string</i> <i>[in]</i> <b>$document</b>, <i>string</i> <i>[in,optional]</i> <b>$location</b> = null, <b>$curl</b> = null)</code>
+<code>public static function <i>RDFDocument</i> <b><a href="RDF">RDF</a>::documentFromXMLString</b>(<i>string</i> <i>[in]</i> <b>$document</b>, <i>string</i> <i>[in,optional]</i> <b>$location</b> = null, <b>$curl</b> = null)</code>
 
 ## Description
 
 Parses the RDF/XML contained within `$document` and passes the
-resulting DOM tree to `[[RDF::documentFromDOM]]()`, returning the resulting
-`[[RDFDocument]]`.
+resulting DOM tree to `<a href="RDF%3A%3AdocumentFromDOM">RDF::documentFromDOM</a>()`, returning the resulting
+`<a href="RDFDocument">RDFDocument</a>`.
 
 ## Parameters
 
@@ -55,5 +59,5 @@ document.
 
 ## Return Value
 
-On success, returns a new `[[RDFDocument]]` instance.
+On success, returns a new `<a href="RDFDocument">RDFDocument</a>` instance.
 

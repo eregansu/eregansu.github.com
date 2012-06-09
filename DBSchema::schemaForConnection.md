@@ -1,6 +1,10 @@
+---
+title: DBSchema::schemaForConnection
+---
+
 ## Synopsis
 
-<code>public static function <b>[[DBSchema]]::schemaForConnection</b>(<b>$connection</b>)</code>
+<code>public static function <b><a href="DBSchema">DBSchema</a>::schemaForConnection</b>(<b>$connection</b>)</code>
 
 ## Parameters
 

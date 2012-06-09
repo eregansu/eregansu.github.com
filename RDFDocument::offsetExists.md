@@ -1,6 +1,10 @@
+---
+title: RDFDocument::offsetExists
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::offsetExists</b>(<b>$key</b>)</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::offsetExists</b>(<b>$key</b>)</code>
 
 ## Parameters
 

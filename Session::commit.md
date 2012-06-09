@@ -1,8 +1,12 @@
+---
+title: Session::commit
+---
+
 Commit changes to the session data
 
 ## Synopsis
 
-<code>public function <b>[[Session]]::commit</b>(<b>$req</b> = null)</code>
+<code>public function <b><a href="Session">Session</a>::commit</b>(<b>$req</b> = null)</code>
 
 ## Description
 

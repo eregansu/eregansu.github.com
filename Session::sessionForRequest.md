@@ -1,8 +1,12 @@
+---
+title: Session::sessionForRequest
+---
+
 Return a Session instance associated with a a given request
 
 ## Synopsis
 
-<code>public static function <b>[[Session]]::sessionForRequest</b>(<i>Request</i> <i>[in]</i> <b>$request</b>)</code>
+<code>public static function <b><a href="Session">Session</a>::sessionForRequest</b>(<i>Request</i> <i>[in]</i> <b>$request</b>)</code>
 
 ## Parameters
 

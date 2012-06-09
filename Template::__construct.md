@@ -1,8 +1,12 @@
+---
+title: Template::__construct
+---
+
 ## Synopsis
 
 <code>uses('template');</code>
 
-<code>public function <b>[[Template]]::__construct</b>(<b>$req</b>, <b>$filename</b>, <b>$skin</b> = null, <b>$fallbackSkin</b> = null)</code>
+<code>public function <b><a href="Template">Template</a>::__construct</b>(<b>$req</b>, <b>$filename</b>, <b>$skin</b> = null, <b>$fallbackSkin</b> = null, <b>$theme</b> = null, <b>$fallbackTheme</b> = null)</code>
 
 ## Parameters
 
@@ -42,6 +46,22 @@
     </tr>
     <tr>
       <td><code>$fallbackSkin</code>
+      <td><i></i></td>
+      <td></td>
+      <td>
+
+      </td>
+    </tr>
+    <tr>
+      <td><code>$theme</code>
+      <td><i></i></td>
+      <td></td>
+      <td>
+
+      </td>
+    </tr>
+    <tr>
+      <td><code>$fallbackTheme</code>
       <td><i></i></td>
       <td></td>
       <td>

@@ -1,6 +1,10 @@
+---
+title: RedlandRDFXMLSerializer::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[RedlandRDFXMLSerializer]]::__construct</b>(<b>$mime</b> = null, <b>$uri</b> = null, <b>$world</b> = null)</code>
+<code>public function <b><a href="RedlandRDFXMLSerializer">RedlandRDFXMLSerializer</a>::__construct</b>(<b>$mime</b> = null, <b>$uri</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

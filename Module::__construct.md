@@ -1,8 +1,12 @@
+---
+title: Module::__construct
+---
+
 ## Synopsis
 
 <code>uses('module');</code>
 
-<code>public function <b>[[Module]]::__construct</b>(<b>$args</b>)</code>
+<code>public function <b><a href="Module">Module</a>::__construct</b>(<b>$args</b>)</code>
 
 ## Parameters
 

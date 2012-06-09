@@ -1,6 +1,10 @@
+---
+title: DBSchema::setModuleVersion
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBSchema]]::setModuleVersion</b>(<b>$moduleId</b>, <b>$newVersion</b>, <b>$comment</b> = null)</code>
+<code>public function <b><a href="DBSchema">DBSchema</a>::setModuleVersion</b>(<b>$moduleId</b>, <b>$newVersion</b>, <b>$comment</b> = null)</code>
 
 ## Parameters
 

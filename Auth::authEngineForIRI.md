@@ -1,14 +1,18 @@
+---
+title: Auth::authEngineForIRI
+---
+
 Create an instance of an authentication system given an IRI.
 
 ## Synopsis
 
 <code>uses('auth');</code>
 
-<code>public static function <b>[[Auth]]::authEngineForIRI</b>(<i>string</i> <i>[in,out]</i> <b>$iri</b>, <i>string</i> <i>[out]</i> <b>$scheme</b>, <i>string</i> <i>[in]</i> <b>$defaultScheme</b> = null)</code>
+<code>public static function <b><a href="Auth">Auth</a>::authEngineForIRI</b>(<i>string</i> <i>[in,out]</i> <b>$iri</b>, <i>string</i> <i>[out]</i> <b>$scheme</b>, <i>string</i> <i>[in]</i> <b>$defaultScheme</b> = null)</code>
 
 ## Description
 
-The instance is returned by the call to `[[Auth::authEngineForScheme]]()`.
+The instance is returned by the call to `<a href="Auth%3A%3AauthEngineForScheme">Auth::authEngineForScheme</a>()`.
 `$iri` will be modified to strip the scheme (if supplied), which will
 be stored in `$scheme`. Thus, upon successful return, a fully-qualified
 IRI can be constructed from `$scheme . ':' . $iri`

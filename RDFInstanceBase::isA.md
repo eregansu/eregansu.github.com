@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::isA
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::isA</b>(<b>$type</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::isA</b>(<b>$type</b> = null)</code>
 
 ## Parameters
 

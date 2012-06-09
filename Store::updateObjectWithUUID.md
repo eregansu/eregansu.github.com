@@ -1,8 +1,12 @@
+---
+title: Store::updateObjectWithUUID
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::updateObjectWithUUID</b>(<b>$uuid</b>)</code>
+<code>public function <b><a href="Store">Store</a>::updateObjectWithUUID</b>(<b>$uuid</b>)</code>
 
 ## Parameters
 

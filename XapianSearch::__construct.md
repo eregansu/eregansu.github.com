@@ -1,6 +1,10 @@
+---
+title: XapianSearch::__construct
+---
+
 ## Synopsis
 
-<code>public function <b>[[XapianSearch]]::__construct</b>(<b>$uri</b>)</code>
+<code>public function <b><a href="XapianSearch">XapianSearch</a>::__construct</b>(<b>$uri</b>)</code>
 
 ## Parameters
 

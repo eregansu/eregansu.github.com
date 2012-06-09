@@ -1,6 +1,10 @@
+---
+title: XMLParser::errorString
+---
+
 ## Synopsis
 
-<code>public static function <b>[[XMLParser]]::errorString</b>(<b>$code</b>)</code>
+<code>public static function <b><a href="XMLParser">XMLParser</a>::errorString</b>(<b>$code</b>)</code>
 
 ## Parameters
 

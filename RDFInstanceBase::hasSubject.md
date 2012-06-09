@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::hasSubject
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::hasSubject</b>(<b>$uri</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::hasSubject</b>(<b>$subject</b>)</code>
 
 ## Parameters
 
@@ -15,7 +19,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><code>$uri</code>
+      <td><code>$subject</code>
       <td><i></i></td>
       <td></td>
       <td>

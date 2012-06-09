@@ -1,6 +1,10 @@
+---
+title: IdentityDirectory
+---
+
 Identity/authorisation database using an LDAP directory server.
 
-`IdentityDirectory` is a class derived from [[Identity]].
+`IdentityDirectory` is a class derived from <a href="Identity">Identity</a>.
 
 ## Synopsis
 
@@ -10,8 +14,8 @@ uses('id');
 
 ## Public Methods
 
-* `[[IdentityDirectory::uuidFromIRI]]()`
-* `[[IdentityDirectory::identityFromUUID]]()`
-* `[[IdentityDirectory::createIdentity]]()`
-* `[[IdentityDirectory::refreshUserData]]()`
+* `<a href="IdentityDirectory%3A%3AuuidFromIRI">IdentityDirectory::uuidFromIRI</a>()`
+* `<a href="IdentityDirectory%3A%3AidentityFromUUID">IdentityDirectory::identityFromUUID</a>()`
+* `<a href="IdentityDirectory%3A%3AcreateIdentity">IdentityDirectory::createIdentity</a>()`
+* `<a href="IdentityDirectory%3A%3ArefreshUserData">IdentityDirectory::refreshUserData</a>()`
 

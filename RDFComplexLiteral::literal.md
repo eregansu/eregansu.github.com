@@ -1,6 +1,10 @@
+---
+title: RDFComplexLiteral::literal
+---
+
 ## Synopsis
 
-<code>public static function <b>[[RDFComplexLiteral]]::literal</b>(<b>$type</b> = null, <b>$value</b> = null, <b>$lang</b> = null, <b>$world</b> = null)</code>
+<code>public static function <b><a href="RDFComplexLiteral">RDFComplexLiteral</a>::literal</b>(<b>$type</b> = null, <b>$value</b> = null, <b>$lang</b> = null, <b>$world</b> = null)</code>
 
 ## Parameters
 

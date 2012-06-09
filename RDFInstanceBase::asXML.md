@@ -1,6 +1,10 @@
+---
+title: RDFInstanceBase::asXML
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFInstanceBase]]::asXML</b>(<b>$doc</b>)</code>
+<code>public function <b><a href="RDFInstanceBase">RDFInstanceBase</a>::asXML</b>(<b>$doc</b>)</code>
 
 ## Parameters
 

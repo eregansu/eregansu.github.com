@@ -1,8 +1,12 @@
+---
+title: Store::dirty
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[Store]]::dirty</b>(<b>$uuid</b>, <b>$isDirty</b> = true)</code>
+<code>public function <b><a href="Store">Store</a>::dirty</b>(<b>$uuid</b>, <b>$isDirty</b> = true)</code>
 
 ## Parameters
 

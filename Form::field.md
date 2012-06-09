@@ -1,8 +1,12 @@
+---
+title: Form::field
+---
+
 ## Synopsis
 
 <code>uses('form');</code>
 
-<code>public function <b>[[Form]]::field</b>(<b>$info</b>)</code>
+<code>public function <b><a href="Form">Form</a>::field</b>(<b>$info</b>)</code>
 
 ## Parameters
 

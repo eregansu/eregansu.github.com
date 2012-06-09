@@ -1,8 +1,12 @@
+---
+title: IdentityFile::createIdentity
+---
+
 ## Synopsis
 
 <code>uses('id');</code>
 
-<code>public function <b>[[IdentityFile]]::createIdentity</b>(<b>$iri</b>, <b>$data</b> = null, <b>$automatic</b> = false)</code>
+<code>public function <b><a href="IdentityFile">IdentityFile</a>::createIdentity</b>(<b>$iri</b>, <b>$data</b> = null, <b>$automatic</b> = false)</code>
 
 ## Parameters
 

@@ -1,4 +1,8 @@
+---
+title: RDFDocument::primaryTopic
+---
+
 ## Synopsis
 
-<code>public function <b>[[RDFDocument]]::primaryTopic</b>()</code>
+<code>public function <b><a href="RDFDocument">RDFDocument</a>::primaryTopic</b>()</code>
 

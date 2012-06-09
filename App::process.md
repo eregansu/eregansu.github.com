@@ -1,6 +1,12 @@
+---
+title: App::process
+---
+
 ## Synopsis
 
-<code>public function <b>[[App]]::process</b>(<b>$req</b>)</code>
+<code>uses('routable');</code>
+
+<code>public function <b><a href="App">App</a>::process</b>(<b>$req</b>)</code>
 
 ## Parameters
 

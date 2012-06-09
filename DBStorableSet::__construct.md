@@ -1,8 +1,12 @@
+---
+title: DBStorableSet::__construct
+---
+
 ## Synopsis
 
 <code>uses('store');</code>
 
-<code>public function <b>[[DBStorableSet]]::__construct</b>(<b>$model</b>, <b>$args</b>)</code>
+<code>public function <b><a href="DBStorableSet">DBStorableSet</a>::__construct</b>(<b>$model</b>, <b>$args</b>)</code>
 
 ## Parameters
 

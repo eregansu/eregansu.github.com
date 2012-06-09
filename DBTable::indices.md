@@ -1,4 +1,8 @@
+---
+title: DBTable::indices
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBTable]]::indices</b>()</code>
+<code>public function <b><a href="DBTable">DBTable</a>::indices</b>()</code>
 

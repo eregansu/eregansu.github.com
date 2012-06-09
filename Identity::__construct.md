@@ -1,8 +1,12 @@
+---
+title: Identity::__construct
+---
+
 ## Synopsis
 
 <code>uses('id');</code>
 
-<code>public function <b>[[Identity]]::__construct</b>(<b>$args</b>)</code>
+<code>public function <b><a href="Identity">Identity</a>::__construct</b>(<b>$args</b>)</code>
 
 ## Parameters
 

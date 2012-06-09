@@ -1,4 +1,8 @@
-`Module` is an abstract class derived from [[Model]].
+---
+title: Module
+---
+
+`Module` is an abstract class derived from <a href="Model">Model</a>.
 
 ## Synopsis
 
@@ -8,11 +12,11 @@ uses('module');
 
 ## Public Static Methods
 
-* `[[Module::getInstance]]()`
+* `<a href="Module%3A%3AgetInstance">Module::getInstance</a>()`
 
 ## Public Methods
 
-* `[[Module::__construct]]()`
-* `[[Module::setup]]()`
-* `[[Module::updateSchema]]()`
+* `<a href="Module%3A%3A__construct">Module::__construct</a>()`
+* `<a href="Module%3A%3Asetup">Module::setup</a>()`
+* `<a href="Module%3A%3AupdateSchema">Module::updateSchema</a>()`
 

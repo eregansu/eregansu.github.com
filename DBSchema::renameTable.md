@@ -1,6 +1,10 @@
+---
+title: DBSchema::renameTable
+---
+
 ## Synopsis
 
-<code>public function <b>[[DBSchema]]::renameTable</b>(<b>$oldName</b>, <b>$newName</b>)</code>
+<code>public function <b><a href="DBSchema">DBSchema</a>::renameTable</b>(<b>$oldName</b>, <b>$newName</b>)</code>
 
 ## Parameters
 

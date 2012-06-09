@@ -1,8 +1,12 @@
+---
+title: Auth::authEngineForToken
+---
+
 ## Synopsis
 
 <code>uses('auth');</code>
 
-<code>public static function <b>[[Auth]]::authEngineForToken</b>(<b>$tokenName</b>, <b>$scheme</b>)</code>
+<code>public static function <b><a href="Auth">Auth</a>::authEngineForToken</b>(<b>$tokenName</b>, <b>$scheme</b>)</code>
 
 ## Parameters
 

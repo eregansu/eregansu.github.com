@@ -1,12 +1,16 @@
-`EregansuDateTime` is a class derived from [[DateTime]].
+---
+title: EregansuDateTime
+---
+
+`EregansuDateTime` is a class derived from <a href="DateTime">DateTime</a>.
 
 ## Public Static Methods
 
-* `[[EregansuDateTime::parse]]()`
+* `<a href="EregansuDateTime%3A%3Aparse">EregansuDateTime::parse</a>()`
 
 ## Public Methods
 
-* `[[EregansuDateTime::__toString]]()`
-* `[[EregansuDateTime::date]]()`
-* `[[EregansuDateTime::time]]()`
+* `<a href="EregansuDateTime%3A%3A__toString">EregansuDateTime::__toString</a>()`
+* `<a href="EregansuDateTime%3A%3Adate">EregansuDateTime::date</a>()`
+* `<a href="EregansuDateTime%3A%3Atime">EregansuDateTime::time</a>()`
 
