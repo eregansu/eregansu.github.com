@@ -5,7 +5,7 @@ layout: default
 
 # XapianIndexer
 
-<code>XapianIndexer</code> is a class derived from <a href="SearchIndexer">SearchIndexer</a>.
+<code>XapianIndexer</code> is a class derived from <code><a href="SearchIndexer">SearchIndexer</a></code>.
 
 ## Public Methods
 

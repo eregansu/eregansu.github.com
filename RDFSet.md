@@ -5,7 +5,7 @@ layout: default
 
 # RDFSet
 
-<code>RDFSet</code> is a class derived from <a href="RedlandModel">RedlandModel</a>.
+<code>RDFSet</code> is a class derived from <code><a href="RedlandModel">RedlandModel</a></code>.
 
 ## Public Static Methods
 

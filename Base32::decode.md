@@ -15,7 +15,7 @@ Decode a base-32 string and return the value as an integer
 
 ## Description
 
-Accepts a base-32-encoded string as encoded by `<a href="Base32%3A%3Aencode">Base32::encode</a>()` and
+Accepts a base-32-encoded string as encoded by <code><a href="Base32%3A%3Aencode">Base32::encode</a>()</code> and
 returns its integer value.
 
 ## Parameters

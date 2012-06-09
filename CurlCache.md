@@ -5,7 +5,7 @@ layout: default
 
 # CurlCache
 
-<code>CurlCache</code> is a class derived from <a href="Curl">Curl</a>.
+<code>CurlCache</code> is a class derived from <code><a href="Curl">Curl</a></code>.
 
 ## Public Methods
 

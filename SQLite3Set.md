@@ -5,7 +5,7 @@ layout: default
 
 # SQLite3Set
 
-<code>SQLite3Set</code> is a class derived from <a href="DBDataSet">DBDataSet</a>.
+<code>SQLite3Set</code> is a class derived from <code><a href="DBDataSet">DBDataSet</a></code>.
 
 ## Public Methods
 

@@ -5,7 +5,7 @@ layout: default
 
 # RDFDateTime
 
-<code>RDFDateTime</code> is a class derived from <a href="RDFComplexLiteral">RDFComplexLiteral</a>.
+<code>RDFDateTime</code> is a class derived from <code><a href="RDFComplexLiteral">RDFComplexLiteral</a></code>.
 
 ## Synopsis
 

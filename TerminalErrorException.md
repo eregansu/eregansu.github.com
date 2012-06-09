@@ -5,7 +5,7 @@ layout: default
 
 # TerminalErrorException
 
-<code>TerminalErrorException</code> is a class derived from <a href="Exception">Exception</a>.
+<code>TerminalErrorException</code> is a class derived from <code><a href="Exception">Exception</a></code>.
 
 ## Synopsis
 

@@ -15,7 +15,7 @@ Create an instance of an authentication system given an IRI.
 
 ## Description
 
-The instance is returned by the call to `<a href="Auth%3A%3AauthEngineForScheme">Auth::authEngineForScheme</a>()`.
+The instance is returned by the call to <code><a href="Auth%3A%3AauthEngineForScheme">Auth::authEngineForScheme</a>()</code>.
 <code class="keyword">$iri</code> will be modified to strip the scheme (if supplied), which will
 be stored in <code class="keyword">$scheme</code>. Thus, upon successful return, a fully-qualified
 IRI can be constructed from <code>$scheme . ':' . $iri</code>

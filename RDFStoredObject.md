@@ -5,7 +5,7 @@ layout: default
 
 # RDFStoredObject
 
-<code>RDFStoredObject</code> is a class derived from <a href="RDFInstance">RDFInstance</a>.
+<code>RDFStoredObject</code> is a class derived from <code><a href="RDFInstance">RDFInstance</a></code>.
 
 ## Synopsis
 

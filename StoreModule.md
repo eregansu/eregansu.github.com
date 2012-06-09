@@ -5,7 +5,7 @@ layout: default
 
 # StoreModule
 
-<code>StoreModule</code> is a class derived from <a href="Module">Module</a>.
+<code>StoreModule</code> is a class derived from <code><a href="Module">Module</a></code>.
 
 ## Public Static Methods
 

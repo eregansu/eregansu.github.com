@@ -7,7 +7,7 @@ layout: default
 
 Implements the default 'help' command-line route
 
-<code>CliHelp</code> is a class derived from <a href="CommandLine">CommandLine</a>.
+<code>CliHelp</code> is a class derived from <code><a href="CommandLine">CommandLine</a></code>.
 
 ## Public Methods
 

@@ -7,7 +7,7 @@ layout: default
 
 LDAP directory service support.
 
-<code>LDAP</code> is a class derived from <a href="DirectoryService">DirectoryService</a>.
+<code>LDAP</code> is a class derived from <code><a href="DirectoryService">DirectoryService</a></code>.
 
 ## Public Methods
 

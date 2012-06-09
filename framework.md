@@ -36,7 +36,7 @@ occurs.
 * <code><a href="Module">Module</a></code>
 * <code><a href="Page">Page</a></code>: Templated web page generation.
 * <code><a href="RDFStore">RDFStore</a></code>: Object store implementation with facilities for storage of instances of
-`<a href="RDFInstance">RDFInstance</a>`.
+<code><a href="RDFInstance">RDFInstance</a></code>.
 * <code><a href="RDFStoredObject">RDFStoredObject</a></code>
 * <code><a href="Loader">Loader</a></code>: Route module loader.
 * <code><a href="Routable">Routable</a></code>: Base class for all Eregansu-provided routable instances.
@@ -49,9 +49,9 @@ occurs.
 * <code><a href="CommandLine">CommandLine</a></code>: Encapsulation of a command-line interface handler.
 * <code><a href="StoreModule">StoreModule</a></code>
 * <code><a href="Storable">Storable</a></code>: Base class for encapsulations of stored objects.
-* <code><a href="StorableSet">StorableSet</a></code>: Base class for datasets whose rows are instances of `<a href="Storable">Storable</a>`
-* <code><a href="StaticStorableSet">StaticStorableSet</a></code>: Implementation of a `<a href="StorableSet">StorableSet</a>` which uses a static list of objects.
-* <code><a href="DBStorableSet">DBStorableSet</a></code>: Implementation of a `<a href="StorableSet">StorableSet</a>` which is driven by the results of a
+* <code><a href="StorableSet">StorableSet</a></code>: Base class for datasets whose rows are instances of <code><a href="Storable">Storable</a></code>
+* <code><a href="StaticStorableSet">StaticStorableSet</a></code>: Implementation of a <code><a href="StorableSet">StorableSet</a></code> which uses a static list of objects.
+* <code><a href="DBStorableSet">DBStorableSet</a></code>: Implementation of a <code><a href="StorableSet">StorableSet</a></code> which is driven by the results of a
 database query.
 * <code><a href="Store">Store</a></code>: Base class for complex object stores.
 * <code><a href="Template">Template</a></code>: Eregansu web page templating.

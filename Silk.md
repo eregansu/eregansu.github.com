@@ -5,7 +5,7 @@ layout: default
 
 # Silk
 
-<code>Silk</code> is a class derived from <a href="CommandLine">CommandLine</a>.
+<code>Silk</code> is a class derived from <code><a href="CommandLine">CommandLine</a></code>.
 
 ## Public Methods
 

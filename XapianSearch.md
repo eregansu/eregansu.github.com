@@ -5,7 +5,7 @@ layout: default
 
 # XapianSearch
 
-<code>XapianSearch</code> is a class derived from <a href="SearchEngine">SearchEngine</a>.
+<code>XapianSearch</code> is a class derived from <code><a href="SearchEngine">SearchEngine</a></code>.
 
 ## Public Methods
 

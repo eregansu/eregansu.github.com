@@ -5,7 +5,7 @@ layout: default
 
 # CliSetup
 
-<code>CliSetup</code> is a class derived from <a href="CommandLine">CommandLine</a>.
+<code>CliSetup</code> is a class derived from <code><a href="CommandLine">CommandLine</a></code>.
 
 ## Public Methods
 

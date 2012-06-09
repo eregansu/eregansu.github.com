@@ -5,7 +5,7 @@ layout: default
 
 # Model::getInstance
 
-Obtains an instance of one of `<a href="Model">Model</a>`'s descendants.
+Obtains an instance of one of <code><a href="Model">Model</a></code>'s descendants.
 
 ## Synopsis
 
@@ -22,7 +22,7 @@ Otherwise, an instance of the named class will be obtained, and its
 Descendants should override `Model::getInstance()` to set <code class="keyword">$args['class']</code> to
 the name of the class if it's not set.
 Descendants should, if possible, ensure that <code class="keyword">$args['db']</code> is set to
-a database connection URI which can be passed to `<a href="DBCore%3A%3Aconnect">DBCore::connect</a>()`.
+a database connection URI which can be passed to <code><a href="DBCore%3A%3Aconnect">DBCore::connect</a>()</code>.
 The combination of <code class="keyword">$args['class']</code> and <code class="keyword">$args['db']</code> are used to
 construct a key into the shared instance list. When a new instance is
 constructed, it is stored with this key in the list. If an entry with
@@ -54,5 +54,5 @@ Initialisation parameter array.
 
 ## Return Value
 
-On success, returns an instance of a descendant of `<a href="Model">Model</a>`.
+On success, returns an instance of a descendant of <code><a href="Model">Model</a></code>.
 

@@ -7,7 +7,7 @@ layout: default
 
 Class encapsulating database-related exceptions.
 
-<code>DBException</code> is a class derived from <a href="Exception">Exception</a>.
+<code>DBException</code> is a class derived from <code><a href="Exception">Exception</a></code>.
 
 <a href="http://github.com/nexgenta/eregansu/blob/master/lib/db.php">View source</a>
 

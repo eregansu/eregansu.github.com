@@ -5,7 +5,7 @@ layout: default
 
 # RDF::documentFromXMLString
 
-Create a new `<a href="RDFDocument">RDFDocument</a>` given a string containin an RDF/XML
+Create a new <code><a href="RDFDocument">RDFDocument</a></code> given a string containin an RDF/XML
 document.
 
 ## Synopsis
@@ -17,8 +17,8 @@ document.
 ## Description
 
 Parses the RDF/XML contained within <code class="keyword">$document</code> and passes the
-resulting DOM tree to `<a href="RDF%3A%3AdocumentFromDOM">RDF::documentFromDOM</a>()`, returning the resulting
-`<a href="RDFDocument">RDFDocument</a>`.
+resulting DOM tree to <code><a href="RDF%3A%3AdocumentFromDOM">RDF::documentFromDOM</a>()</code>, returning the resulting
+<code><a href="RDFDocument">RDFDocument</a></code>.
 
 ## Parameters
 
@@ -62,5 +62,5 @@ document.
 
 ## Return Value
 
-On success, returns a new `<a href="RDFDocument">RDFDocument</a>` instance.
+On success, returns a new <code><a href="RDFDocument">RDFDocument</a></code> instance.
 

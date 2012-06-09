@@ -5,7 +5,7 @@ layout: default
 
 # DumbUI
 
-<code>DumbUI</code> is a class derived from <a href="InstallerUI">InstallerUI</a>.
+<code>DumbUI</code> is a class derived from <code><a href="InstallerUI">InstallerUI</a></code>.
 
 ## Public Static Methods
 

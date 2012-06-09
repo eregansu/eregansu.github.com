@@ -7,7 +7,7 @@ layout: default
 
 Perform a redirect when a route is requested.
 
-<code>Redirect</code> is a class derived from <a href="Routable">Routable</a>.
+<code>Redirect</code> is a class derived from <code><a href="Routable">Routable</a></code>.
 
 ## Synopsis
 

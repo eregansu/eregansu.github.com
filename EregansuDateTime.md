@@ -5,7 +5,7 @@ layout: default
 
 # EregansuDateTime
 
-<code>EregansuDateTime</code> is a class derived from <a href="DateTime">DateTime</a>.
+<code>EregansuDateTime</code> is a class derived from <code><a href="DateTime">DateTime</a></code>.
 
 ## Public Static Methods
 

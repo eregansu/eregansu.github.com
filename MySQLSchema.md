@@ -5,7 +5,7 @@ layout: default
 
 # MySQLSchema
 
-<code>MySQLSchema</code> is a class derived from <a href="DBSchema">DBSchema</a>.
+<code>MySQLSchema</code> is a class derived from <code><a href="DBSchema">DBSchema</a></code>.
 
 ## Public Methods
 

@@ -5,7 +5,7 @@ layout: default
 
 # MySQLSet
 
-<code>MySQLSet</code> is a class derived from <a href="DBDataSet">DBDataSet</a>.
+<code>MySQLSet</code> is a class derived from <code><a href="DBDataSet">DBDataSet</a></code>.
 
 ## Public Methods
 

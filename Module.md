@@ -5,7 +5,7 @@ layout: default
 
 # Module
 
-<code>Module</code> is an abstract class derived from <a href="Model">Model</a>.
+<code>Module</code> is an abstract class derived from <code><a href="Model">Model</a></code>.
 
 ## Synopsis
 

@@ -5,7 +5,7 @@ layout: default
 
 # RDFComplexLiteral
 
-<code>RDFComplexLiteral</code> is a class derived from <a href="RedlandNode">RedlandNode</a>.
+<code>RDFComplexLiteral</code> is a class derived from <code><a href="RedlandNode">RedlandNode</a></code>.
 
 ## Public Static Methods
 

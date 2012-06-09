@@ -5,7 +5,7 @@ layout: default
 
 # RDFInstance
 
-<code>RDFInstance</code> is a class derived from <a href="RDFInstanceBase">RDFInstanceBase</a>.
+<code>RDFInstance</code> is a class derived from <code><a href="RDFInstanceBase">RDFInstanceBase</a></code>.
 
 ## Synopsis
 

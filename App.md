@@ -7,7 +7,7 @@ layout: default
 
 A routable class which encapsulates an application.
 
-<code>App</code> is a class derived from <a href="Router">Router</a>.
+<code>App</code> is a class derived from <code><a href="Router">Router</a></code>.
 
 ## Synopsis
 

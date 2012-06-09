@@ -6,9 +6,9 @@ layout: default
 # RDFStore
 
 Object store implementation with facilities for storage of instances of
-`<a href="RDFInstance">RDFInstance</a>`.
+<code><a href="RDFInstance">RDFInstance</a></code>.
 
-<code>RDFStore</code> is a class derived from <a href="Store">Store</a>.
+<code>RDFStore</code> is a class derived from <code><a href="Store">Store</a></code>.
 
 ## Synopsis
 

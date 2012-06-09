@@ -5,7 +5,7 @@ layout: default
 
 # RDFXMLLiteral
 
-<code>RDFXMLLiteral</code> is a class derived from <a href="RDFComplexLiteral">RDFComplexLiteral</a>.
+<code>RDFXMLLiteral</code> is a class derived from <code><a href="RDFComplexLiteral">RDFComplexLiteral</a></code>.
 
 ## Public Methods
 

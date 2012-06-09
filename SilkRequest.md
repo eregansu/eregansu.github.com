@@ -5,7 +5,7 @@ layout: default
 
 # SilkRequest
 
-<code>SilkRequest</code> is a class derived from <a href="HTTPRequest">HTTPRequest</a>.
+<code>SilkRequest</code> is a class derived from <code><a href="HTTPRequest">HTTPRequest</a></code>.
 
 ## Public Methods
 

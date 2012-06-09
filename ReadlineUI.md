@@ -5,7 +5,7 @@ layout: default
 
 # ReadlineUI
 
-<code>ReadlineUI</code> is a class derived from <a href="DumbUI">DumbUI</a>.
+<code>ReadlineUI</code> is a class derived from <code><a href="DumbUI">DumbUI</a></code>.
 
 ## Public Static Methods
 

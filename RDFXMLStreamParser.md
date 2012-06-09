@@ -5,7 +5,7 @@ layout: default
 
 # RDFXMLStreamParser
 
-<code>RDFXMLStreamParser</code> is a class derived from <a href="XMLParser">XMLParser</a>.
+<code>RDFXMLStreamParser</code> is a class derived from <code><a href="XMLParser">XMLParser</a></code>.
 
 ## Public Methods
 

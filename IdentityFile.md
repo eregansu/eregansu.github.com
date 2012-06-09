@@ -7,7 +7,7 @@ layout: default
 
 Support for static identity data in an XML file.
 
-<code>IdentityFile</code> is a class derived from <a href="Identity">Identity</a>.
+<code>IdentityFile</code> is a class derived from <code><a href="Identity">Identity</a></code>.
 
 ## Synopsis
 

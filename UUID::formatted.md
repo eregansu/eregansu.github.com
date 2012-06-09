@@ -13,7 +13,7 @@ Format a UUID in the traditional aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee form
 
 ## Description
 
-`<a href="UUID%3A%3Airi">UUID::iri</a>()` converts a string representation of a UUID in the
+<code><a href="UUID%3A%3Airi">UUID::iri</a>()</code> converts a string representation of a UUID in the
 traditional form.
 For example, the null UUID converted to an IRI would be <code>00000000-0000-0000-0000-000000000000</code>.
 

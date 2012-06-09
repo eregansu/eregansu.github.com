@@ -5,7 +5,7 @@ layout: default
 
 # RDFURI
 
-<code>RDFURI</code> is a class derived from <a href="RedlandBase">RedlandBase</a>.
+<code>RDFURI</code> is a class derived from <code><a href="RedlandBase">RedlandBase</a></code>.
 
 ## Public Static Methods
 

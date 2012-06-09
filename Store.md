@@ -7,7 +7,7 @@ layout: default
 
 Base class for complex object stores.
 
-<code>Store</code> is a class derived from <a href="Model">Model</a>.
+<code>Store</code> is a class derived from <code><a href="Model">Model</a></code>.
 
 ## Synopsis
 

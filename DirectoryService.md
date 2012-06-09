@@ -5,7 +5,7 @@ layout: default
 
 # DirectoryService
 
-<code>DirectoryService</code> is an abstract class derived from <a href="Database">Database</a>.
+<code>DirectoryService</code> is an abstract class derived from <code><a href="Database">Database</a></code>.
 
 <a href="http://github.com/nexgenta/eregansu/blob/master/lib/db.php">View source</a>
 

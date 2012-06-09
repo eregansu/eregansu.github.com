@@ -5,7 +5,7 @@ layout: default
 
 # RDFDocument
 
-<code>RDFDocument</code> is a class derived from <a href="RedlandModel">RedlandModel</a>.
+<code>RDFDocument</code> is a class derived from <code><a href="RedlandModel">RedlandModel</a></code>.
 
 ## Public Methods
 

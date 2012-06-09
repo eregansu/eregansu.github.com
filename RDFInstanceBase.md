@@ -5,7 +5,7 @@ layout: default
 
 # RDFInstanceBase
 
-<code>RDFInstanceBase</code> is an abstract class derived from <a href="RedlandBase">RedlandBase</a>.
+<code>RDFInstanceBase</code> is an abstract class derived from <code><a href="RedlandBase">RedlandBase</a></code>.
 
 ## Public Methods
 

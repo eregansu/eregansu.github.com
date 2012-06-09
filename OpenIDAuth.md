@@ -5,7 +5,7 @@ layout: default
 
 # OpenIDAuth
 
-<code>OpenIDAuth</code> is a class derived from <a href="Auth">Auth</a>.
+<code>OpenIDAuth</code> is a class derived from <code><a href="Auth">Auth</a></code>.
 
 ## Synopsis
 

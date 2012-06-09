@@ -5,7 +5,7 @@ layout: default
 
 # DbpediaLiteSearch
 
-<code>DbpediaLiteSearch</code> is a class derived from <a href="GenericWebSearch">GenericWebSearch</a>.
+<code>DbpediaLiteSearch</code> is a class derived from <code><a href="GenericWebSearch">GenericWebSearch</a></code>.
 
 ## Public Methods
 

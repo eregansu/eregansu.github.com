@@ -5,7 +5,7 @@ layout: default
 
 # TemplateFilter
 
-<code>TemplateFilter</code> is a class derived from <a href="php_user_filter">php_user_filter</a>.
+<code>TemplateFilter</code> is a class derived from <code><a href="php_user_filter">php_user_filter</a></code>.
 
 ## Synopsis
 

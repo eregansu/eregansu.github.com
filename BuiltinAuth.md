@@ -5,7 +5,7 @@ layout: default
 
 # BuiltinAuth
 
-<code>BuiltinAuth</code> is a class derived from <a href="Auth">Auth</a>.
+<code>BuiltinAuth</code> is a class derived from <code><a href="Auth">Auth</a></code>.
 
 ## Public Methods
 

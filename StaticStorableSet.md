@@ -5,9 +5,9 @@ layout: default
 
 # StaticStorableSet
 
-Implementation of a `<a href="StorableSet">StorableSet</a>` which uses a static list of objects.
+Implementation of a <code><a href="StorableSet">StorableSet</a></code> which uses a static list of objects.
 
-<code>StaticStorableSet</code> is a class derived from <a href="StorableSet">StorableSet</a>.
+<code>StaticStorableSet</code> is a class derived from <code><a href="StorableSet">StorableSet</a></code>.
 
 ## Synopsis
 

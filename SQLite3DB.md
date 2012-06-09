@@ -5,7 +5,7 @@ layout: default
 
 # SQLite3DB
 
-<code>SQLite3DB</code> is a class derived from <a href="DBCore">DBCore</a>.
+<code>SQLite3DB</code> is a class derived from <code><a href="DBCore">DBCore</a></code>.
 
 ## Public Methods
 

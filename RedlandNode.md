@@ -5,7 +5,7 @@ layout: default
 
 # RedlandNode
 
-<code>RedlandNode</code> is a class derived from <a href="RedlandBase">RedlandBase</a>.
+<code>RedlandNode</code> is a class derived from <code><a href="RedlandBase">RedlandBase</a></code>.
 
 ## Public Static Methods
 

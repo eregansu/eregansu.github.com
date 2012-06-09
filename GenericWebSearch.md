@@ -5,7 +5,7 @@ layout: default
 
 # GenericWebSearch
 
-<code>GenericWebSearch</code> is a class derived from <a href="SearchEngine">SearchEngine</a>.
+<code>GenericWebSearch</code> is a class derived from <code><a href="SearchEngine">SearchEngine</a></code>.
 
 ## Public Methods
 

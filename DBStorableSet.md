@@ -5,10 +5,10 @@ layout: default
 
 # DBStorableSet
 
-Implementation of a `<a href="StorableSet">StorableSet</a>` which is driven by the results of a
+Implementation of a <code><a href="StorableSet">StorableSet</a></code> which is driven by the results of a
 database query.
 
-<code>DBStorableSet</code> is a class derived from <a href="StorableSet">StorableSet</a>.
+<code>DBStorableSet</code> is a class derived from <code><a href="StorableSet">StorableSet</a></code>.
 
 ## Synopsis
 

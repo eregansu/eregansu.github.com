@@ -7,7 +7,7 @@ layout: default
 
 Routable class designed to support presenting views of data objects.
 
-<code>Proxy</code> is a class derived from <a href="Router">Router</a>.
+<code>Proxy</code> is a class derived from <code><a href="Router">Router</a></code>.
 
 ## Synopsis
 
@@ -15,11 +15,11 @@ Routable class designed to support presenting views of data objects.
 </code></pre>
 ## Description
 
-The `Proxy` class is a descendant of `<a href="Router">Router</a>` intended to be
-used in situations where objects are retrieved via a `<a href="Model">Model</a>` and
-presented according to the `<a href="Request">Request</a>`. That is, conceptually,
+The `Proxy` class is a descendant of <code><a href="Router">Router</a></code> intended to be
+used in situations where objects are retrieved via a <code><a href="Model">Model</a></code> and
+presented according to the <code><a href="Request">Request</a></code>. That is, conceptually,
 descendants of this class are responsible for proxying objects from storage
-to presentation. `<a href="Page">Page</a>` and `<a href="CommandLine">CommandLine</a>` are notable
+to presentation. <code><a href="Page">Page</a></code> and <code><a href="CommandLine">CommandLine</a></code> are notable
 descendants of `Proxy`.
 
 ## Public Methods

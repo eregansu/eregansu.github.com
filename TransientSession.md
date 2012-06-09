@@ -7,7 +7,7 @@ layout: default
 
 Descendant of the Session class which has no persistent storage capabilities.
 
-<code>TransientSession</code> is a class derived from <a href="Session">Session</a>.
+<code>TransientSession</code> is a class derived from <code><a href="Session">Session</a></code>.
 
 ## Public Methods
 

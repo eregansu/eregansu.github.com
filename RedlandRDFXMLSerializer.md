@@ -5,7 +5,7 @@ layout: default
 
 # RedlandRDFXMLSerializer
 
-<code>RedlandRDFXMLSerializer</code> is a class derived from <a href="RedlandSerializer">RedlandSerializer</a>.
+<code>RedlandRDFXMLSerializer</code> is a class derived from <code><a href="RedlandSerializer">RedlandSerializer</a></code>.
 
 ## Public Methods
 

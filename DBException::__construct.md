@@ -5,7 +5,7 @@ layout: default
 
 # DBException::__construct
 
-The `<a href="DBException">DBException</a>` constructor is responsible for initialising a new
+The <code><a href="DBException">DBException</a></code> constructor is responsible for initialising a new
 database exception object.
 
 ## Synopsis
@@ -16,7 +16,7 @@ database exception object.
 
 ## Description
 
-The constructor will automatically populate the `<a href="DBException">DBException</a>`
+The constructor will automatically populate the <code><a href="DBException">DBException</a></code>
 instance's properties and generate a complete exception message which is
 passed along with <code class="keyword">$errCode</code> to <a href="http://www.php.net/manual/en/exception.construct.php">Exception::__construct</a>.
 

@@ -5,7 +5,7 @@ layout: default
 
 # RDF::documentFromDOM
 
-Create a new `<a href="RDFDocument">RDFDocument</a>` given an RDF/XML `<a href="DOMElement">DOMElement</a>`.
+Create a new <code><a href="RDFDocument">RDFDocument</a></code> given an RDF/XML <code><a href="DOMElement">DOMElement</a></code>.
 
 ## Synopsis
 
@@ -15,7 +15,7 @@ Create a new `<a href="RDFDocument">RDFDocument</a>` given an RDF/XML `<a href="
 
 ## Description
 
-Construct a new `<a href="RDFDocument">RDFDocument</a>` given the root element of an RDF/XML
+Construct a new <code><a href="RDFDocument">RDFDocument</a></code> given the root element of an RDF/XML
 document, such as that returned by dom_import_simplexml().
 
 ## Parameters
@@ -52,5 +52,5 @@ document.
 
 ## Return Value
 
-On success, returns a new `<a href="RDFDocument">RDFDocument</a>` instance.
+On success, returns a new <code><a href="RDFDocument">RDFDocument</a></code> instance.
 

@@ -5,7 +5,7 @@ layout: default
 
 # IDirectoryService
 
-<code>IDirectoryService</code> is an interface derived from <a href="IDatabase">IDatabase</a>.
+<code>IDirectoryService</code> is an interface derived from <code><a href="IDatabase">IDatabase</a></code>.
 
 <a href="http://github.com/nexgenta/eregansu/blob/master/lib/db.php">View source</a>
 

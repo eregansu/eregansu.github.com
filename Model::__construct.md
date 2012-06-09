@@ -5,7 +5,7 @@ layout: default
 
 # Model::__construct
 
-Construct an instance of `<a href="Model">Model</a>`.
+Construct an instance of <code><a href="Model">Model</a></code>.
 
 ## Synopsis
 

@@ -7,7 +7,7 @@ layout: default
 
 Encapsulation of an HTTP request.
 
-<code>HTTPRequest</code> is a class derived from <a href="Request">Request</a>.
+<code>HTTPRequest</code> is a class derived from <code><a href="Request">Request</a></code>.
 
 ## Synopsis
 

@@ -5,7 +5,7 @@ layout: default
 
 # StorableSet
 
-Base class for datasets whose rows are instances of `<a href="Storable">Storable</a>`
+Base class for datasets whose rows are instances of <code><a href="Storable">Storable</a></code>
 
 <code>StorableSet</code> is an abstract base class.
 

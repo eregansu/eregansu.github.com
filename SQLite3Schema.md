@@ -5,7 +5,7 @@ layout: default
 
 # SQLite3Schema
 
-<code>SQLite3Schema</code> is a class derived from <a href="DBSchema">DBSchema</a>.
+<code>SQLite3Schema</code> is a class derived from <code><a href="DBSchema">DBSchema</a></code>.
 
 ## Public Methods
 

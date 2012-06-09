@@ -7,7 +7,7 @@ layout: default
 
 The default application class.
 
-<code>DefaultApp</code> is a class derived from <a href="App">App</a>.
+<code>DefaultApp</code> is a class derived from <code><a href="App">App</a></code>.
 
 ## Synopsis
 

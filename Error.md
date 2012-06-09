@@ -5,7 +5,7 @@ layout: default
 
 # Error
 
-<code>Error</code> is a class derived from <a href="TerminalErrorException">TerminalErrorException</a>.
+<code>Error</code> is a class derived from <code><a href="TerminalErrorException">TerminalErrorException</a></code>.
 
 ## Synopsis
 

@@ -8,7 +8,7 @@ layout: default
 Exception class whose instances are thrown when an authentication exception
 occurs.
 
-<code>AuthError</code> is a class derived from <a href="Exception">Exception</a>.
+<code>AuthError</code> is a class derived from <code><a href="Exception">Exception</a></code>.
 
 ## Synopsis
 

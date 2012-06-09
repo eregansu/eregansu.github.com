@@ -7,7 +7,7 @@ layout: default
 
 Encapsulation of a command-line interface handler.
 
-<code>CommandLine</code> is an abstract class derived from <a href="Proxy">Proxy</a>.
+<code>CommandLine</code> is an abstract class derived from <code><a href="Proxy">Proxy</a></code>.
 
 ## Synopsis
 

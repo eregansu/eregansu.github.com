@@ -7,7 +7,7 @@ layout: default
 
 Identity management.
 
-<code>Identity</code> is a class derived from <a href="Model">Model</a>.
+<code>Identity</code> is a class derived from <code><a href="Model">Model</a></code>.
 
 ## Synopsis
 

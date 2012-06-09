@@ -5,7 +5,7 @@ layout: default
 
 # RDFString
 
-<code>RDFString</code> is a class derived from <a href="RDFComplexLiteral">RDFComplexLiteral</a>.
+<code>RDFString</code> is a class derived from <code><a href="RDFComplexLiteral">RDFComplexLiteral</a></code>.
 
 ## Synopsis
 

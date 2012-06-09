@@ -15,7 +15,7 @@ Return an instance of a Request class for a specified SAPI.
 
 ## Description
 
-Requests are encapsulated as one of several descendants of the `<a href="Request">Request</a>`
+Requests are encapsulated as one of several descendants of the <code><a href="Request">Request</a></code>
 class, depending upon the SAPI in use.
 If no SAPI name is specified when calling `Request::requestForSAPI()`, the current
 SAPI name as identified by PHP (using php_sapi_name) will be used.

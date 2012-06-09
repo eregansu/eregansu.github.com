@@ -7,7 +7,7 @@ layout: default
 
 A routable class capable of passing a request to child routes.
 
-<code>Router</code> is a class derived from <a href="Routable">Routable</a>.
+<code>Router</code> is a class derived from <code><a href="Routable">Routable</a></code>.
 
 ## Synopsis
 

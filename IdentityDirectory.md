@@ -7,7 +7,7 @@ layout: default
 
 Identity/authorisation database using an LDAP directory server.
 
-<code>IdentityDirectory</code> is a class derived from <a href="Identity">Identity</a>.
+<code>IdentityDirectory</code> is a class derived from <code><a href="Identity">Identity</a></code>.
 
 ## Synopsis
 

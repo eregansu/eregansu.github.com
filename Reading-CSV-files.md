@@ -5,7 +5,7 @@ layout: default
 
 # Reading CSV files
 
-* <code><a href="CSVImport%3A%3A__construct">CSVImport::__construct</a>()</code>: Initialise a `<a href="CSVImport">CSVImport</a>` instance.
+* <code><a href="CSVImport%3A%3A__construct">CSVImport::__construct</a>()</code>: Initialise a <code><a href="CSVImport">CSVImport</a></code> instance.
 * <code><a href="CSVImport%3A%3AreadFields">CSVImport::readFields</a>()</code>: Read the list of field names from a CSV file.
 * <code><a href="CSVImport%3A%3AsetFields">CSVImport::setFields</a>()</code>: Specify an explicit column-to-field mapping.
 * <code><a href="CSVImport%3A%3Arewind">CSVImport::rewind</a>()</code>: Move the file pointer back to the beginning of the file.

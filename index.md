@@ -14,4 +14,4 @@ $ git submodule update --init --recursive</code></pre>
 * <a href="lib">Core Library</a>
 * <a href="framework">Framework</a>
 * <a href="testsuite">Testsuite</a>
-* <a href="install">Autoconfiguration/installation</a>
+* <a href="install">Autoconfiguration/installation support</a>

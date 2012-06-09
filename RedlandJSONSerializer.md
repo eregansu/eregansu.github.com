@@ -5,7 +5,7 @@ layout: default
 
 # RedlandJSONSerializer
 
-<code>RedlandJSONSerializer</code> is a class derived from <a href="RedlandSerializer">RedlandSerializer</a>.
+<code>RedlandJSONSerializer</code> is a class derived from <code><a href="RedlandSerializer">RedlandSerializer</a></code>.
 
 ## Public Methods
 

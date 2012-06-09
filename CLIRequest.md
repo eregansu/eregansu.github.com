@@ -7,7 +7,7 @@ layout: default
 
 Implementation of the Request class for command-line (<code>cli</code>) requests.
 
-<code>CLIRequest</code> is a class derived from <a href="Request">Request</a>.
+<code>CLIRequest</code> is a class derived from <code><a href="Request">Request</a></code>.
 
 ## Synopsis
 
@@ -15,7 +15,7 @@ Implementation of the Request class for command-line (<code>cli</code>) requests
 </code></pre>
 ## Description
 
-An instance of `CLIRequest` is returned by `<a href="Request%3A%3ArequestForSAPI">Request::requestForSAPI</a>()`
+An instance of `CLIRequest` is returned by <code><a href="Request%3A%3ArequestForSAPI">Request::requestForSAPI</a>()</code>
 if the current (or explicitly specified) SAPI is <code>cli</code>.
 
 ## Public Methods

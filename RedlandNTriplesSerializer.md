@@ -5,7 +5,7 @@ layout: default
 
 # RedlandNTriplesSerializer
 
-<code>RedlandNTriplesSerializer</code> is a class derived from <a href="RedlandSerializer">RedlandSerializer</a>.
+<code>RedlandNTriplesSerializer</code> is a class derived from <code><a href="RedlandSerializer">RedlandSerializer</a></code>.
 
 ## Public Methods
 

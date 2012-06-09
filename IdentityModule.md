@@ -5,7 +5,7 @@ layout: default
 
 # IdentityModule
 
-<code>IdentityModule</code> is a class derived from <a href="Module">Module</a>.
+<code>IdentityModule</code> is a class derived from <code><a href="Module">Module</a></code>.
 
 ## Public Static Methods
 

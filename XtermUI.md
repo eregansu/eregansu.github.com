@@ -5,7 +5,7 @@ layout: default
 
 # XtermUI
 
-<code>XtermUI</code> is a class derived from <a href="InstallerUI">InstallerUI</a>.
+<code>XtermUI</code> is a class derived from <code><a href="InstallerUI">InstallerUI</a></code>.
 
 ## Public Static Methods
 

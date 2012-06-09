@@ -14,7 +14,7 @@ Constructs a UUID string given an array as returned by UUID::parse()
 ## Description
 
 `UUID::unparse()` accepts an array representation of a UUID as returned by
-`<a href="UUID%3A%3Aparse">UUID::parse</a>()` and returns a string representation of the same UUID.
+<code><a href="UUID%3A%3Aparse">UUID::parse</a>()</code> and returns a string representation of the same UUID.
 
 ## Parameters
 

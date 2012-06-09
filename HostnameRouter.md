@@ -7,7 +7,7 @@ layout: default
 
 Route requests to a particular app based upon a domain name.
 
-<code>HostnameRouter</code> is a class derived from <a href="DefaultApp">DefaultApp</a>.
+<code>HostnameRouter</code> is a class derived from <code><a href="DefaultApp">DefaultApp</a></code>.
 
 ## Synopsis
 

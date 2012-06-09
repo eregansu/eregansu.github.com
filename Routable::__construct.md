@@ -5,7 +5,7 @@ layout: default
 
 # Routable::__construct
 
-Initialise a `<a href="Routable">Routable</a>` instance.
+Initialise a <code><a href="Routable">Routable</a></code> instance.
 
 ## Synopsis
 

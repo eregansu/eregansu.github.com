@@ -5,7 +5,7 @@ layout: default
 
 # MySQL
 
-<code>MySQL</code> is a class derived from <a href="DBCore">DBCore</a>.
+<code>MySQL</code> is a class derived from <code><a href="DBCore">DBCore</a></code>.
 
 ## Public Methods
 

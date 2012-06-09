@@ -16,7 +16,7 @@ Base class for all Eregansu-provided routable instances.
 ## Description
 
 The `Routable` class is the ultimate ancestor of all classes which
-process `<a href="Request">Request</a>` instances and perform actions based upon their
+process <code><a href="Request">Request</a></code> instances and perform actions based upon their
 properties (typically producing some kind of output). The `Routable`
 class implements the [[IRequestProcessor]] interface.
 
