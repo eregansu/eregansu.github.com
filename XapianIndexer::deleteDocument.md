@@ -1,6 +1,9 @@
 ---
 title: XapianIndexer::deleteDocument
+layout: default
 ---
+
+# XapianIndexer::deleteDocument
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Installer::checkConfig
+layout: default
 ---
+
+# Installer::checkConfig
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: CurlHeaders::offsetExists
+layout: default
 ---
+
+# CurlHeaders::offsetExists
 
 ## Synopsis
 

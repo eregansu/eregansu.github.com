@@ -1,22 +1,23 @@
 ---
 title: Identity
+layout: default
 ---
+
+# Identity
 
 Identity management.
 
-`Identity` is a class derived from <a href="Model">Model</a>.
+<code>Identity</code> is a class derived from <a href="Model">Model</a>.
 
 ## Synopsis
 
-```php
-uses('id');
-```
-
+<pre><code>uses('id');
+</code></pre>
 ## Public Static Methods
 
-* `<a href="Identity%3A%3AgetInstance">Identity::getInstance</a>()`
+* <code><a href="Identity%3A%3AgetInstance">Identity::getInstance</a>()</code>
 
 ## Public Methods
 
-* `<a href="Identity%3A%3A__construct">Identity::__construct</a>()`
+* <code><a href="Identity%3A%3A__construct">Identity::__construct</a>()</code>
 

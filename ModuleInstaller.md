@@ -1,15 +1,18 @@
 ---
 title: ModuleInstaller
+layout: default
 ---
 
-`ModuleInstaller` is an abstract base class.
+# ModuleInstaller
+
+<code>ModuleInstaller</code> is an abstract base class.
 
 ## Public Methods
 
-* `<a href="ModuleInstaller%3A%3A__construct">ModuleInstaller::__construct</a>()`
-* `<a href="ModuleInstaller%3A%3AwriteAppConfig">ModuleInstaller::writeAppConfig</a>()`
-* `<a href="ModuleInstaller%3A%3AwriteInstanceConfig">ModuleInstaller::writeInstanceConfig</a>()`
-* `<a href="ModuleInstaller%3A%3AcanBeSoleWebModule">ModuleInstaller::canBeSoleWebModule</a>()`
-* `<a href="ModuleInstaller%3A%3AcanCoexistWithSoleWebModule">ModuleInstaller::canCoexistWithSoleWebModule</a>()`
-* `<a href="ModuleInstaller%3A%3AcreateLinks">ModuleInstaller::createLinks</a>()`
+* <code><a href="ModuleInstaller%3A%3A__construct">ModuleInstaller::__construct</a>()</code>
+* <code><a href="ModuleInstaller%3A%3AwriteAppConfig">ModuleInstaller::writeAppConfig</a>()</code>
+* <code><a href="ModuleInstaller%3A%3AwriteInstanceConfig">ModuleInstaller::writeInstanceConfig</a>()</code>
+* <code><a href="ModuleInstaller%3A%3AcanBeSoleWebModule">ModuleInstaller::canBeSoleWebModule</a>()</code>
+* <code><a href="ModuleInstaller%3A%3AcanCoexistWithSoleWebModule">ModuleInstaller::canCoexistWithSoleWebModule</a>()</code>
+* <code><a href="ModuleInstaller%3A%3AcreateLinks">ModuleInstaller::createLinks</a>()</code>
 

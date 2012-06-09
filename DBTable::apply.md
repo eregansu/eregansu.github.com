@@ -1,6 +1,9 @@
 ---
 title: DBTable::apply
+layout: default
 ---
+
+# DBTable::apply
 
 ## Synopsis
 

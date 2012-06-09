@@ -1,6 +1,9 @@
 ---
 title: DBIndex
+layout: default
 ---
 
-`DBIndex` is an abstract base class.
+# DBIndex
+
+<code>DBIndex</code> is an abstract base class.
 

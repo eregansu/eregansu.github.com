@@ -1,6 +1,9 @@
 ---
 title: TestUuidNil::main
+layout: default
 ---
+
+# TestUuidNil::main
 
 ## Synopsis
 

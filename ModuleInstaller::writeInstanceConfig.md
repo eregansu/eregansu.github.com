@@ -1,6 +1,9 @@
 ---
 title: ModuleInstaller::writeInstanceConfig
+layout: default
 ---
+
+# ModuleInstaller::writeInstanceConfig
 
 ## Synopsis
 

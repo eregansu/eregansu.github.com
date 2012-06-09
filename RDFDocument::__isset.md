@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::__isset
+layout: default
 ---
+
+# RDFDocument::__isset
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Store::kindOfObject
+layout: default
 ---
+
+# Store::kindOfObject
 
 ## Synopsis
 

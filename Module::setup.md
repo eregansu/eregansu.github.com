@@ -1,6 +1,9 @@
 ---
 title: Module::setup
+layout: default
 ---
+
+# Module::setup
 
 ## Synopsis
 

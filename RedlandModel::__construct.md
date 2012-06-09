@@ -1,6 +1,9 @@
 ---
 title: RedlandModel::__construct
+layout: default
 ---
+
+# RedlandModel::__construct
 
 ## Synopsis
 

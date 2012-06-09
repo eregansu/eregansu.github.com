@@ -1,6 +1,9 @@
 ---
 title: TransientSession::__construct
+layout: default
 ---
+
+# TransientSession::__construct
 
 ## Synopsis
 

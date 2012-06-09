@@ -1,6 +1,9 @@
 ---
 title: DBStorableSet::valid
+layout: default
 ---
+
+# DBStorableSet::valid
 
 ## Synopsis
 

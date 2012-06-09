@@ -1,6 +1,9 @@
 ---
 title: URI::registerPrefix
+layout: default
 ---
+
+# URI::registerPrefix
 
 ## Synopsis
 

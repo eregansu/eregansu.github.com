@@ -1,6 +1,9 @@
 ---
 title: CLIRequest::header
+layout: default
 ---
+
+# CLIRequest::header
 
 ## Synopsis
 

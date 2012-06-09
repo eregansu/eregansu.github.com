@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::rows
+layout: default
 ---
+
+# SQLDatabase::rows
 
 ## Synopsis
 

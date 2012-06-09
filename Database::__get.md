@@ -1,6 +1,9 @@
 ---
 title: Database::__get
+layout: default
 ---
+
+# Database::__get
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Loader::load
+layout: default
 ---
+
+# Loader::load
 
 Attempt to load the module which handles a route.
 
@@ -35,5 +38,5 @@ An associative array containing route information.
 
 ## Return Value
 
-`true` if the module was loaded successfully, `false` otherwise.
+<code class="keyword">true</code> if the module was loaded successfully, <code class="keyword">false</code> otherwise.
 

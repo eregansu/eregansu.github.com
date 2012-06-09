@@ -1,6 +1,9 @@
 ---
 title: Error::process
+layout: default
 ---
+
+# Error::process
 
 ## Synopsis
 

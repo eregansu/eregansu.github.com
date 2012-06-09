@@ -1,6 +1,9 @@
 ---
 title: IContentStore::update
+layout: default
 ---
+
+# IContentStore::update
 
 ## Synopsis
 

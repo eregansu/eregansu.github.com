@@ -1,6 +1,9 @@
 ---
 title: Store::insert
+layout: default
 ---
+
+# Store::insert
 
 ## Synopsis
 

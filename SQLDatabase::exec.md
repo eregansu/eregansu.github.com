@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::exec
+layout: default
 ---
+
+# SQLDatabase::exec
 
 ## Synopsis
 

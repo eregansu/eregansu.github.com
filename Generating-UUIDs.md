@@ -1,8 +1,9 @@
 ---
 title: Generating UUIDs
+layout: default
 ---
 
 # Generating UUIDs
 
-* `<a href="UUID%3A%3Agenerate">UUID::generate</a>()`: Generate a new UUID
-* `<a href="UUID%3A%3Anil">UUID::nil</a>()`: Return the null UUID as a string
+* <code><a href="UUID%3A%3Agenerate">UUID::generate</a>()</code>: Generate a new UUID
+* <code><a href="UUID%3A%3Anil">UUID::nil</a>()</code>: Return the null UUID as a string

@@ -1,6 +1,9 @@
 ---
 title: RDFXMLLiteral::__construct
+layout: default
 ---
+
+# RDFXMLLiteral::__construct
 
 ## Synopsis
 

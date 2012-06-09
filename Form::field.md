@@ -1,6 +1,9 @@
 ---
 title: Form::field
+layout: default
 ---
+
+# Form::field
 
 ## Synopsis
 

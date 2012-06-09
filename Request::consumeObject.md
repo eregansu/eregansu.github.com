@@ -1,6 +1,9 @@
 ---
 title: Request::consumeObject
+layout: default
 ---
+
+# Request::consumeObject
 
 ## Synopsis
 

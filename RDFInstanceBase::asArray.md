@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::asArray
+layout: default
 ---
+
+# RDFInstanceBase::asArray
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::fetch
+layout: default
 ---
+
+# SQLDatabase::fetch
 
 ## Synopsis
 

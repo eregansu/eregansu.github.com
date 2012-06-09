@@ -1,6 +1,9 @@
 ---
 title: IContentStore::delete
+layout: default
 ---
+
+# IContentStore::delete
 
 ## Synopsis
 

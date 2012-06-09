@@ -1,6 +1,9 @@
 ---
 title: DBTable::dropColumn
+layout: default
 ---
+
+# DBTable::dropColumn
 
 ## Synopsis
 

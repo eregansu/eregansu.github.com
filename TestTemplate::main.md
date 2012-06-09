@@ -1,6 +1,9 @@
 ---
 title: TestTemplate::main
+layout: default
 ---
+
+# TestTemplate::main
 
 ## Synopsis
 

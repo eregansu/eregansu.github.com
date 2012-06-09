@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::dump
+layout: default
 ---
+
+# RDFInstanceBase::dump
 
 ## Synopsis
 

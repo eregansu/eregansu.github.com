@@ -1,6 +1,9 @@
 ---
 title: MySQL::now
+layout: default
 ---
+
+# MySQL::now
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: RedlandNode::__toString
+layout: default
 ---
+
+# RedlandNode::__toString
 
 ## Synopsis
 

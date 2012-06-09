@@ -1,6 +1,9 @@
 ---
 title: TemplateFileHandler::stream_stat
+layout: default
 ---
+
+# TemplateFileHandler::stream_stat
 
 ## Synopsis
 

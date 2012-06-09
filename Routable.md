@@ -1,17 +1,18 @@
 ---
 title: Routable
+layout: default
 ---
+
+# Routable
 
 Base class for all Eregansu-provided routable instances.
 
-`Routable` is a base class.
+<code>Routable</code> is a base class.
 
 ## Synopsis
 
-```php
-uses('routable');
-```
-
+<pre><code>uses('routable');
+</code></pre>
 ## Description
 
 The `Routable` class is the ultimate ancestor of all classes which
@@ -21,6 +22,6 @@ class implements the [[IRequestProcessor]] interface.
 
 ## Public Methods
 
-* `<a href="Routable%3A%3A__construct">Routable::__construct</a>()`: Initialise a `Routable` instance.
-* `<a href="Routable%3A%3Aprocess">Routable::process</a>()`
+* <code><a href="Routable%3A%3A__construct">Routable::__construct</a>()</code>: Initialise a `Routable` instance.
+* <code><a href="Routable%3A%3Aprocess">Routable::process</a>()</code>
 

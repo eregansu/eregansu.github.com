@@ -1,6 +1,9 @@
 ---
 title: SilkRequest::header
+layout: default
 ---
+
+# SilkRequest::header
 
 ## Synopsis
 

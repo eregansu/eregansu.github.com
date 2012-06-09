@@ -1,6 +1,9 @@
 ---
 title: RDFSet::setFromInstances
+layout: default
 ---
+
+# RDFSet::setFromInstances
 
 ## Synopsis
 

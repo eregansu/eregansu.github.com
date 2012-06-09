@@ -1,6 +1,9 @@
 ---
 title: Auth::verifyAuth
+layout: default
 ---
+
+# Auth::verifyAuth
 
 ## Synopsis
 

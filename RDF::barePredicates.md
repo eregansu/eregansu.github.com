@@ -1,6 +1,9 @@
 ---
 title: RDF::barePredicates
+layout: default
 ---
+
+# RDF::barePredicates
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: DBSchema::__construct
+layout: default
 ---
+
+# DBSchema::__construct
 
 ## Synopsis
 

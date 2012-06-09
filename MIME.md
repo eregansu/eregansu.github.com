@@ -1,22 +1,23 @@
 ---
 title: MIME
+layout: default
 ---
 
-The `MIME` class provides facilities for mapping file extensions to
+# MIME
+
+The <code class="keyword">MIME</code> class provides facilities for mapping file extensions to
 MIME types and vice versa and obtaining human-readable descriptions
 from MIME types.
 
-`MIME` is an abstract base class.
+<code>MIME</code> is an abstract base class.
 
 ## Synopsis
 
-```php
-uses('mime');
-```
-
+<pre><code>uses('mime');
+</code></pre>
 ## Description
 
-<note>Instances of the `MIME` class are never created; all methods are static.</note>
+<note>Instances of the <code class="keyword">MIME</code> class are never created; all methods are static.</note>
 
 ## Example
 
@@ -24,8 +25,8 @@ uses('mime');
 
 ## Public Static Methods
 
-* `<a href="MIME%3A%3AextForType">MIME::extForType</a>()`: Return the preferred file extension for a specified MIME type
-* `<a href="MIME%3A%3AtypeForExt">MIME::typeForExt</a>()`: Return the MIME type matching a specified file extension
-* `<a href="MIME%3A%3Adescription">MIME::description</a>()`: Return a human-readable description of a MIME type
-* `<a href="MIME%3A%3Aregister">MIME::register</a>()`
+* <code><a href="MIME%3A%3AextForType">MIME::extForType</a>()</code>: Return the preferred file extension for a specified MIME type
+* <code><a href="MIME%3A%3AtypeForExt">MIME::typeForExt</a>()</code>: Return the MIME type matching a specified file extension
+* <code><a href="MIME%3A%3Adescription">MIME::description</a>()</code>: Return a human-readable description of a MIME type
+* <code><a href="MIME%3A%3Aregister">MIME::register</a>()</code>
 

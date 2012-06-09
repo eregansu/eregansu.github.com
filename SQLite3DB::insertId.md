@@ -1,6 +1,9 @@
 ---
 title: SQLite3DB::insertId
+layout: default
 ---
+
+# SQLite3DB::insertId
 
 ## Synopsis
 

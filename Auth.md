@@ -1,27 +1,28 @@
 ---
 title: Auth
+layout: default
 ---
 
-`Auth` is an abstract base class.
+# Auth
+
+<code>Auth</code> is an abstract base class.
 
 ## Synopsis
 
-```php
-uses('auth');
-```
-
+<pre><code>uses('auth');
+</code></pre>
 ## Public Static Methods
 
-* `<a href="Auth%3A%3AauthEngineForIRI">Auth::authEngineForIRI</a>()`: Create an instance of an authentication system given an IRI.
-* `<a href="Auth%3A%3AauthEngineForToken">Auth::authEngineForToken</a>()`
-* `<a href="Auth%3A%3AauthEngineForScheme">Auth::authEngineForScheme</a>()`
+* <code><a href="Auth%3A%3AauthEngineForIRI">Auth::authEngineForIRI</a>()</code>: Create an instance of an authentication system given an IRI.
+* <code><a href="Auth%3A%3AauthEngineForToken">Auth::authEngineForToken</a>()</code>
+* <code><a href="Auth%3A%3AauthEngineForScheme">Auth::authEngineForScheme</a>()</code>
 
 ## Public Methods
 
-* `<a href="Auth%3A%3A__construct">Auth::__construct</a>()`
-* `<a href="Auth%3A%3AverifyAuth">Auth::verifyAuth</a>()`
-* `<a href="Auth%3A%3AverifyToken">Auth::verifyToken</a>()`
-* `<a href="Auth%3A%3Acallback">Auth::callback</a>()`
-* `<a href="Auth%3A%3ArefreshUserData">Auth::refreshUserData</a>()`
-* `<a href="Auth%3A%3AretrieveUserData">Auth::retrieveUserData</a>()`
+* <code><a href="Auth%3A%3A__construct">Auth::__construct</a>()</code>
+* <code><a href="Auth%3A%3AverifyAuth">Auth::verifyAuth</a>()</code>
+* <code><a href="Auth%3A%3AverifyToken">Auth::verifyToken</a>()</code>
+* <code><a href="Auth%3A%3Acallback">Auth::callback</a>()</code>
+* <code><a href="Auth%3A%3ArefreshUserData">Auth::refreshUserData</a>()</code>
+* <code><a href="Auth%3A%3AretrieveUserData">Auth::retrieveUserData</a>()</code>
 

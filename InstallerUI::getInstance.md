@@ -1,6 +1,9 @@
 ---
 title: InstallerUI::getInstance
+layout: default
 ---
+
+# InstallerUI::getInstance
 
 ## Synopsis
 

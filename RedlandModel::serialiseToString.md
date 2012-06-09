@@ -1,6 +1,9 @@
 ---
 title: RedlandModel::serialiseToString
+layout: default
 ---
+
+# RedlandModel::serialiseToString
 
 ## Synopsis
 

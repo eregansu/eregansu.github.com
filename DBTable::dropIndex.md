@@ -1,6 +1,9 @@
 ---
 title: DBTable::dropIndex
+layout: default
 ---
+
+# DBTable::dropIndex
 
 ## Synopsis
 

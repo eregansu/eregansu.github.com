@@ -1,14 +1,15 @@
 ---
 title: DBNetworkException
+layout: default
 ---
 
-`DBNetworkException` is a class derived from <a href="DBSystemException">DBSystemException</a>.
+# DBNetworkException
+
+<code>DBNetworkException</code> is a class derived from <a href="DBSystemException">DBSystemException</a>.
 
 <a href="http://github.com/nexgenta/eregansu/blob/master/lib/db.php">View source</a>
 
 ## Synopsis
 
-```php
-uses('db');
-```
-
+<pre><code>uses('db');
+</code></pre>

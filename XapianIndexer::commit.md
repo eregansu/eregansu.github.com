@@ -1,6 +1,9 @@
 ---
 title: XapianIndexer::commit
+layout: default
 ---
+
+# XapianIndexer::commit
 
 ## Synopsis
 

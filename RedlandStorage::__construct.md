@@ -1,6 +1,9 @@
 ---
 title: RedlandStorage::__construct
+layout: default
 ---
+
+# RedlandStorage::__construct
 
 ## Synopsis
 

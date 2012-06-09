@@ -1,6 +1,9 @@
 ---
 title: Curl::__construct
+layout: default
 ---
+
+# Curl::__construct
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: HTTPRequest::consumeForApp
+layout: default
 ---
+
+# HTTPRequest::consumeForApp
 
 ## Synopsis
 

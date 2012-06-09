@@ -1,6 +1,9 @@
 ---
 title: IVFS
+layout: default
 ---
 
-`IVFS` is a base interface.
+# IVFS
+
+<code>IVFS</code> is a base interface.
 

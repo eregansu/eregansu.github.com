@@ -1,6 +1,9 @@
 ---
 title: URI::namespaces
+layout: default
 ---
+
+# URI::namespaces
 
 ## Synopsis
 

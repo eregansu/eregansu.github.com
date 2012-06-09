@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::vquery
+layout: default
 ---
+
+# SQLDatabase::vquery
 
 ## Synopsis
 

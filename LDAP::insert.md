@@ -1,6 +1,9 @@
 ---
 title: LDAP::insert
+layout: default
 ---
+
+# LDAP::insert
 
 ## Synopsis
 

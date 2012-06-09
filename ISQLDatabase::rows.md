@@ -1,6 +1,9 @@
 ---
 title: ISQLDatabase::rows
+layout: default
 ---
+
+# ISQLDatabase::rows
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::asJSON
+layout: default
 ---
+
+# RDFDocument::asJSON
 
 ## Synopsis
 

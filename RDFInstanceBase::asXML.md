@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::asXML
+layout: default
 ---
+
+# RDFInstanceBase::asXML
 
 ## Synopsis
 

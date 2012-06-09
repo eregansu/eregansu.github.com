@@ -1,6 +1,9 @@
 ---
 title: RDFSet::strings
+layout: default
 ---
+
+# RDFSet::strings
 
 ## Synopsis
 

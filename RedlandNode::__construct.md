@@ -1,6 +1,9 @@
 ---
 title: RedlandNode::__construct
+layout: default
 ---
+
+# RedlandNode::__construct
 
 ## Synopsis
 

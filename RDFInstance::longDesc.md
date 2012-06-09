@@ -1,6 +1,9 @@
 ---
 title: RDFInstance::longDesc
+layout: default
 ---
+
+# RDFInstance::longDesc
 
 ## Synopsis
 

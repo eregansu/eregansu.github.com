@@ -1,6 +1,9 @@
 ---
 title: Proxy::__get
+layout: default
 ---
+
+# Proxy::__get
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: DumbUI::notice
+layout: default
 ---
+
+# DumbUI::notice
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: MySQLSchema::databases
+layout: default
 ---
+
+# MySQLSchema::databases
 
 ## Synopsis
 

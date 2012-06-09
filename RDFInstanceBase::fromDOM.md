@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::fromDOM
+layout: default
 ---
+
+# RDFInstanceBase::fromDOM
 
 ## Synopsis
 

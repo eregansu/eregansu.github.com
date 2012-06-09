@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::ns
+layout: default
 ---
+
+# RDFDocument::ns
 
 ## Synopsis
 

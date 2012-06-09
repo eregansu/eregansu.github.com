@@ -1,6 +1,9 @@
 ---
 title: AuthError::__construct
+layout: default
 ---
+
+# AuthError::__construct
 
 ## Synopsis
 

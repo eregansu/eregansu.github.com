@@ -1,6 +1,9 @@
 ---
 title: RDF::tripleSetFromXMLString
+layout: default
 ---
+
+# RDF::tripleSetFromXMLString
 
 ## Synopsis
 

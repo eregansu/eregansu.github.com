@@ -1,6 +1,9 @@
 ---
 title: DBStorableSet::count
+layout: default
 ---
+
+# DBStorableSet::count
 
 ## Synopsis
 

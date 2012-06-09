@@ -1,6 +1,9 @@
 ---
 title: RDFXMLStreamParser::__construct
+layout: default
 ---
+
+# RDFXMLStreamParser::__construct
 
 ## Synopsis
 

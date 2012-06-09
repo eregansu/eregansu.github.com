@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::offsetExists
+layout: default
 ---
+
+# RDFInstanceBase::offsetExists
 
 ## Synopsis
 

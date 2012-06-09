@@ -1,6 +1,9 @@
 ---
 title: TestUuidVersion::main
+layout: default
 ---
+
+# TestUuidVersion::main
 
 ## Synopsis
 

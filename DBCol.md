@@ -1,6 +1,9 @@
 ---
 title: DBCol
+layout: default
 ---
 
-`DBCol` is an abstract base class.
+# DBCol
+
+<code>DBCol</code> is an abstract base class.
 

@@ -1,6 +1,9 @@
 ---
 title: RedlandModel::addStatement
+layout: default
 ---
+
+# RedlandModel::addStatement
 
 ## Synopsis
 

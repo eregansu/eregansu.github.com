@@ -1,6 +1,9 @@
 ---
 title: SearchEngine::__construct
+layout: default
 ---
+
+# SearchEngine::__construct
 
 ## Synopsis
 

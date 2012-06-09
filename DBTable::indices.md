@@ -1,6 +1,9 @@
 ---
 title: DBTable::indices
+layout: default
 ---
+
+# DBTable::indices
 
 ## Synopsis
 

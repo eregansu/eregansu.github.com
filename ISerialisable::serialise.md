@@ -1,6 +1,9 @@
 ---
 title: ISerialisable::serialise
+layout: default
 ---
+
+# ISerialisable::serialise
 
 ## Synopsis
 

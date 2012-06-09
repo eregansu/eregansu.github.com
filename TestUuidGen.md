@@ -1,10 +1,13 @@
 ---
 title: TestUuidGen
+layout: default
 ---
 
-`TestUuidGen` is a class derived from <a href="TestHarness">TestHarness</a>.
+# TestUuidGen
+
+<code>TestUuidGen</code> is a class derived from <a href="TestHarness">TestHarness</a>.
 
 ## Public Methods
 
-* `<a href="TestUuidGen%3A%3Amain">TestUuidGen::main</a>()`
+* <code><a href="TestUuidGen%3A%3Amain">TestUuidGen::main</a>()</code>
 

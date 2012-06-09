@@ -1,6 +1,9 @@
 ---
 title: IdentityFile::__construct
+layout: default
 ---
+
+# IdentityFile::__construct
 
 ## Synopsis
 

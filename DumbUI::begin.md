@@ -1,6 +1,9 @@
 ---
 title: DumbUI::begin
+layout: default
 ---
+
+# DumbUI::begin
 
 ## Synopsis
 

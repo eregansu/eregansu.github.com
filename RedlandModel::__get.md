@@ -1,6 +1,9 @@
 ---
 title: RedlandModel::__get
+layout: default
 ---
+
+# RedlandModel::__get
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: CurlCache::__get
+layout: default
 ---
+
+# CurlCache::__get
 
 ## Synopsis
 

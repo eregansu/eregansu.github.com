@@ -1,6 +1,9 @@
 ---
 title: OpenIDAuth::callback
+layout: default
 ---
+
+# OpenIDAuth::callback
 
 ## Synopsis
 

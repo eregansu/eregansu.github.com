@@ -1,6 +1,9 @@
 ---
 title: MySQL::rowCount
+layout: default
 ---
+
+# MySQL::rowCount
 
 ## Synopsis
 

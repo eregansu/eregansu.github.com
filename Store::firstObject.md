@@ -1,6 +1,9 @@
 ---
 title: Store::firstObject
+layout: default
 ---
+
+# Store::firstObject
 
 ## Synopsis
 

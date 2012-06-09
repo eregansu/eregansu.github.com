@@ -1,6 +1,9 @@
 ---
 title: HTTPRequest::pageMatch
+layout: default
 ---
+
+# HTTPRequest::pageMatch
 
 ## Synopsis
 

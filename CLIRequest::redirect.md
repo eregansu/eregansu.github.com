@@ -1,6 +1,9 @@
 ---
 title: CLIRequest::redirect
+layout: default
 ---
+
+# CLIRequest::redirect
 
 Redirect a request to another location.
 

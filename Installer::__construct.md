@@ -1,6 +1,9 @@
 ---
 title: Installer::__construct
+layout: default
 ---
+
+# Installer::__construct
 
 ## Synopsis
 

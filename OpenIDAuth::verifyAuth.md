@@ -1,6 +1,9 @@
 ---
 title: OpenIDAuth::verifyAuth
+layout: default
 ---
+
+# OpenIDAuth::verifyAuth
 
 ## Synopsis
 

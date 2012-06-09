@@ -1,6 +1,9 @@
 ---
 title: Store::setData
+layout: default
 ---
+
+# Store::setData
 
 ## Synopsis
 

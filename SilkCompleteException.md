@@ -1,6 +1,9 @@
 ---
 title: SilkCompleteException
+layout: default
 ---
 
-`SilkCompleteException` is a class derived from <a href="Exception">Exception</a>.
+# SilkCompleteException
+
+<code>SilkCompleteException</code> is a class derived from <a href="Exception">Exception</a>.
 

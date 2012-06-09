@@ -1,6 +1,9 @@
 ---
 title: URI::merge
+layout: default
 ---
+
+# URI::merge
 
 ## Synopsis
 

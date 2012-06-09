@@ -1,6 +1,9 @@
 ---
 title: IContentStore::insertId
+layout: default
 ---
+
+# IContentStore::insertId
 
 ## Synopsis
 

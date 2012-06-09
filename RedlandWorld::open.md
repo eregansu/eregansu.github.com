@@ -1,6 +1,9 @@
 ---
 title: RedlandWorld::open
+layout: default
 ---
+
+# RedlandWorld::open
 
 ## Synopsis
 

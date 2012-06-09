@@ -1,10 +1,13 @@
 ---
 title: TestUriParsing
+layout: default
 ---
 
-`TestUriParsing` is a class derived from <a href="TestHarness">TestHarness</a>.
+# TestUriParsing
+
+<code>TestUriParsing</code> is a class derived from <a href="TestHarness">TestHarness</a>.
 
 ## Public Methods
 
-* `<a href="TestUriParsing%3A%3Amain">TestUriParsing::main</a>()`
+* <code><a href="TestUriParsing%3A%3Amain">TestUriParsing::main</a>()</code>
 

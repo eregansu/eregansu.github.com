@@ -1,6 +1,9 @@
 ---
 title: InstallerUI::end
+layout: default
 ---
+
+# InstallerUI::end
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: LDAP::query
+layout: default
 ---
+
+# LDAP::query
 
 ## Synopsis
 

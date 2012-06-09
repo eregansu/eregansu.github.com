@@ -1,6 +1,9 @@
 ---
 title: Observers::observe
+layout: default
 ---
+
+# Observers::observe
 
 ## Synopsis
 

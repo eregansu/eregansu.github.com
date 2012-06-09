@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::namespacedName
+layout: default
 ---
+
+# RDFDocument::namespacedName
 
 ## Synopsis
 

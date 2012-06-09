@@ -1,6 +1,9 @@
 ---
 title: LDAPSet::__construct
+layout: default
 ---
+
+# LDAPSet::__construct
 
 ## Synopsis
 

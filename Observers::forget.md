@@ -1,6 +1,9 @@
 ---
 title: Observers::forget
+layout: default
 ---
+
+# Observers::forget
 
 ## Synopsis
 

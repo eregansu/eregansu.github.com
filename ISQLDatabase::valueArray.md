@@ -1,6 +1,9 @@
 ---
 title: ISQLDatabase::valueArray
+layout: default
 ---
+
+# ISQLDatabase::valueArray
 
 ## Synopsis
 

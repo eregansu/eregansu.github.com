@@ -1,6 +1,9 @@
 ---
 title: Observers::invoke
+layout: default
 ---
+
+# Observers::invoke
 
 ## Synopsis
 

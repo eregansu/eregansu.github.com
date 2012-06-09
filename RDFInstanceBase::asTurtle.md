@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::asTurtle
+layout: default
 ---
+
+# RDFInstanceBase::asTurtle
 
 ## Synopsis
 

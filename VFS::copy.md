@@ -1,6 +1,9 @@
 ---
 title: VFS::copy
+layout: default
 ---
+
+# VFS::copy
 
 ## Synopsis
 

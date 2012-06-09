@@ -1,6 +1,9 @@
 ---
 title: MySQL::commit
+layout: default
 ---
+
+# MySQL::commit
 
 ## Synopsis
 

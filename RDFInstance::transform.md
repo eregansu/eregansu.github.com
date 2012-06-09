@@ -1,6 +1,9 @@
 ---
 title: RDFInstance::transform
+layout: default
 ---
+
+# RDFInstance::transform
 
 ## Synopsis
 

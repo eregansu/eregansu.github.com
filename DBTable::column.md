@@ -1,6 +1,9 @@
 ---
 title: DBTable::column
+layout: default
 ---
+
+# DBTable::column
 
 ## Synopsis
 

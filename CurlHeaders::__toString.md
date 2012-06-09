@@ -1,6 +1,9 @@
 ---
 title: CurlHeaders::__toString
+layout: default
 ---
+
+# CurlHeaders::__toString
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Template::useGlow
+layout: default
 ---
+
+# Template::useGlow
 
 ## Synopsis
 

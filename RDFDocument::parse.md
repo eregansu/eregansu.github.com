@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::parse
+layout: default
 ---
+
+# RDFDocument::parse
 
 ## Synopsis
 

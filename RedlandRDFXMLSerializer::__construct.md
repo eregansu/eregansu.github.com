@@ -1,6 +1,9 @@
 ---
 title: RedlandRDFXMLSerializer::__construct
+layout: default
 ---
+
+# RedlandRDFXMLSerializer::__construct
 
 ## Synopsis
 

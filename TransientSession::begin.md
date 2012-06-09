@@ -1,6 +1,9 @@
 ---
 title: TransientSession::begin
+layout: default
 ---
+
+# TransientSession::begin
 
 ## Synopsis
 

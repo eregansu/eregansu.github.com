@@ -1,6 +1,9 @@
 ---
 title: MIME::description
+layout: default
 ---
+
+# MIME::description
 
 Return a human-readable description of a MIME type
 
@@ -53,5 +56,5 @@ The MIME type to obtain a description for
 
 ## Return Value
 
-string A human-readable description for `$type`
+string A human-readable description for <code class="keyword">$type</code>
 

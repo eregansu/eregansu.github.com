@@ -1,6 +1,9 @@
 ---
 title: URI::prefixForUri
+layout: default
 ---
+
+# URI::prefixForUri
 
 ## Synopsis
 

@@ -1,22 +1,23 @@
 ---
 title: RDFInstance
+layout: default
 ---
 
-`RDFInstance` is a class derived from <a href="RDFInstanceBase">RDFInstanceBase</a>.
+# RDFInstance
+
+<code>RDFInstance</code> is a class derived from <a href="RDFInstanceBase">RDFInstanceBase</a>.
 
 ## Synopsis
 
-```php
-uses('rdf');
-```
-
+<pre><code>uses('rdf');
+</code></pre>
 ## Public Methods
 
-* `<a href="RDFInstance%3A%3Alang">RDFInstance::lang</a>()`
-* `<a href="RDFInstance%3A%3Atitle">RDFInstance::title</a>()`
-* `<a href="RDFInstance%3A%3Adescription">RDFInstance::description</a>()`
-* `<a href="RDFInstance%3A%3AshortDesc">RDFInstance::shortDesc</a>()`
-* `<a href="RDFInstance%3A%3AmediumDesc">RDFInstance::mediumDesc</a>()`
-* `<a href="RDFInstance%3A%3AlongDesc">RDFInstance::longDesc</a>()`
-* `<a href="RDFInstance%3A%3Atransform">RDFInstance::transform</a>()`
+* <code><a href="RDFInstance%3A%3Alang">RDFInstance::lang</a>()</code>
+* <code><a href="RDFInstance%3A%3Atitle">RDFInstance::title</a>()</code>
+* <code><a href="RDFInstance%3A%3Adescription">RDFInstance::description</a>()</code>
+* <code><a href="RDFInstance%3A%3AshortDesc">RDFInstance::shortDesc</a>()</code>
+* <code><a href="RDFInstance%3A%3AmediumDesc">RDFInstance::mediumDesc</a>()</code>
+* <code><a href="RDFInstance%3A%3AlongDesc">RDFInstance::longDesc</a>()</code>
+* <code><a href="RDFInstance%3A%3Atransform">RDFInstance::transform</a>()</code>
 

@@ -1,6 +1,9 @@
 ---
 title: BuiltinAuth::refreshUserData
+layout: default
 ---
+
+# BuiltinAuth::refreshUserData
 
 ## Synopsis
 

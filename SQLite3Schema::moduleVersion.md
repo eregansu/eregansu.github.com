@@ -1,6 +1,9 @@
 ---
 title: SQLite3Schema::moduleVersion
+layout: default
 ---
+
+# SQLite3Schema::moduleVersion
 
 ## Synopsis
 

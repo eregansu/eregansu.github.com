@@ -1,6 +1,9 @@
 ---
 title: ITransactional::perform
+layout: default
 ---
+
+# ITransactional::perform
 
 ## Synopsis
 

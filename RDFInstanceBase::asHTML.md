@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::asHTML
+layout: default
 ---
+
+# RDFInstanceBase::asHTML
 
 ## Synopsis
 

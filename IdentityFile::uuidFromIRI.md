@@ -1,6 +1,9 @@
 ---
 title: IdentityFile::uuidFromIRI
+layout: default
 ---
+
+# IdentityFile::uuidFromIRI
 
 ## Synopsis
 

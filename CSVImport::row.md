@@ -1,6 +1,9 @@
 ---
 title: CSVImport::row
+layout: default
 ---
+
+# CSVImport::row
 
 Read a row from the CSV file.
 
@@ -18,6 +21,6 @@ be associative, otherwise it will be numerically-indexed.
 
 ## Return Value
 
-An array of values read from the file, or `null` if
+An array of values read from the file, or <code class="keyword">null</code> if
 the end of file is reached.
 

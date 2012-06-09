@@ -1,6 +1,9 @@
 ---
 title: DBStorableSet::current
+layout: default
 ---
+
+# DBStorableSet::current
 
 ## Synopsis
 

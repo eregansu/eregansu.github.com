@@ -1,6 +1,9 @@
 ---
 title: URI::__construct
+layout: default
 ---
+
+# URI::__construct
 
 ## Synopsis
 

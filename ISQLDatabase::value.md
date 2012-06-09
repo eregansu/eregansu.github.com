@@ -1,6 +1,9 @@
 ---
 title: ISQLDatabase::value
+layout: default
 ---
+
+# ISQLDatabase::value
 
 ## Synopsis
 

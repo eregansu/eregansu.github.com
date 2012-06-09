@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::merge
+layout: default
 ---
+
+# RDFInstanceBase::merge
 
 ## Synopsis
 

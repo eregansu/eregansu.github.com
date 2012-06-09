@@ -1,6 +1,9 @@
 ---
 title: Module::__construct
+layout: default
 ---
+
+# Module::__construct
 
 ## Synopsis
 

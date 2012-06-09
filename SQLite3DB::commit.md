@@ -1,6 +1,9 @@
 ---
 title: SQLite3DB::commit
+layout: default
 ---
+
+# SQLite3DB::commit
 
 ## Synopsis
 

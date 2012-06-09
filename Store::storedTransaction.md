@@ -1,6 +1,9 @@
 ---
 title: Store::storedTransaction
+layout: default
 ---
+
+# Store::storedTransaction
 
 ## Synopsis
 

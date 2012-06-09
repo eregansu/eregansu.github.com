@@ -1,6 +1,9 @@
 ---
 title: Store::objectForUUID
+layout: default
 ---
+
+# Store::objectForUUID
 
 ## Synopsis
 

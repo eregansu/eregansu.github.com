@@ -1,10 +1,13 @@
 ---
 title: ISearchEngine
+layout: default
 ---
 
-`ISearchEngine` is a base interface.
+# ISearchEngine
+
+<code>ISearchEngine</code> is a base interface.
 
 ## Public Methods
 
-* `<a href="ISearchEngine%3A%3Aquery">ISearchEngine::query</a>()`
+* <code><a href="ISearchEngine%3A%3Aquery">ISearchEngine::query</a>()</code>
 

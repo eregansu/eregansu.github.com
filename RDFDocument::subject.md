@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::subject
+layout: default
 ---
+
+# RDFDocument::subject
 
 ## Synopsis
 

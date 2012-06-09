@@ -1,6 +1,9 @@
 ---
 title: RDFInstance::shortDesc
+layout: default
 ---
+
+# RDFInstance::shortDesc
 
 ## Synopsis
 

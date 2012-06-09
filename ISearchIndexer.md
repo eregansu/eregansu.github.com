@@ -1,12 +1,15 @@
 ---
 title: ISearchIndexer
+layout: default
 ---
 
-`ISearchIndexer` is a base interface.
+# ISearchIndexer
+
+<code>ISearchIndexer</code> is a base interface.
 
 ## Public Methods
 
-* `<a href="ISearchIndexer%3A%3Abegin">ISearchIndexer::begin</a>()`
-* `<a href="ISearchIndexer%3A%3AindexDocument">ISearchIndexer::indexDocument</a>()`
-* `<a href="ISearchIndexer%3A%3Acommit">ISearchIndexer::commit</a>()`
+* <code><a href="ISearchIndexer%3A%3Abegin">ISearchIndexer::begin</a>()</code>
+* <code><a href="ISearchIndexer%3A%3AindexDocument">ISearchIndexer::indexDocument</a>()</code>
+* <code><a href="ISearchIndexer%3A%3Acommit">ISearchIndexer::commit</a>()</code>
 

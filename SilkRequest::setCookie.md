@@ -1,6 +1,9 @@
 ---
 title: SilkRequest::setCookie
+layout: default
 ---
+
+# SilkRequest::setCookie
 
 ## Synopsis
 

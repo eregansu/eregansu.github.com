@@ -1,14 +1,17 @@
 ---
 title: SearchIndexer
+layout: default
 ---
 
-`SearchIndexer` is an abstract base class.
+# SearchIndexer
+
+<code>SearchIndexer</code> is an abstract base class.
 
 ## Public Static Methods
 
-* `<a href="SearchIndexer%3A%3Aconnect">SearchIndexer::connect</a>()`
+* <code><a href="SearchIndexer%3A%3Aconnect">SearchIndexer::connect</a>()</code>
 
 ## Public Methods
 
-* `<a href="SearchIndexer%3A%3A__construct">SearchIndexer::__construct</a>()`
+* <code><a href="SearchIndexer%3A%3A__construct">SearchIndexer::__construct</a>()</code>
 

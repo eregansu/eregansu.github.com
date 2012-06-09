@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::asJSONTriples
+layout: default
 ---
+
+# RDFDocument::asJSONTriples
 
 ## Synopsis
 

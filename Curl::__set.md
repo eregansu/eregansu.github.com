@@ -1,6 +1,9 @@
 ---
 title: Curl::__set
+layout: default
 ---
+
+# Curl::__set
 
 ## Synopsis
 

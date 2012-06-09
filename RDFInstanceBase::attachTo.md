@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::attachTo
+layout: default
 ---
+
+# RDFInstanceBase::attachTo
 
 ## Synopsis
 

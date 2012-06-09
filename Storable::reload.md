@@ -1,6 +1,9 @@
 ---
 title: Storable::reload
+layout: default
 ---
+
+# Storable::reload
 
 ## Synopsis
 

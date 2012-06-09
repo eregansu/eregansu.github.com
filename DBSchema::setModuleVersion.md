@@ -1,6 +1,9 @@
 ---
 title: DBSchema::setModuleVersion
+layout: default
 ---
+
+# DBSchema::setModuleVersion
 
 ## Synopsis
 

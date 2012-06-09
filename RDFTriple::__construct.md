@@ -1,6 +1,9 @@
 ---
 title: RDFTriple::__construct
+layout: default
 ---
+
+# RDFTriple::__construct
 
 ## Synopsis
 

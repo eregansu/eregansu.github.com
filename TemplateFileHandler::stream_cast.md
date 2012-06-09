@@ -1,6 +1,9 @@
 ---
 title: TemplateFileHandler::stream_cast
+layout: default
 ---
+
+# TemplateFileHandler::stream_cast
 
 ## Synopsis
 

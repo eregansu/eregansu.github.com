@@ -1,6 +1,9 @@
 ---
 title: Template::reset
+layout: default
 ---
+
+# Template::reset
 
 ## Synopsis
 

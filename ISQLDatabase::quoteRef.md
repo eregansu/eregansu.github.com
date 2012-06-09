@@ -1,6 +1,9 @@
 ---
 title: ISQLDatabase::quoteRef
+layout: default
 ---
+
+# ISQLDatabase::quoteRef
 
 ## Synopsis
 

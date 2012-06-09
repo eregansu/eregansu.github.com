@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::execArray
+layout: default
 ---
+
+# SQLDatabase::execArray
 
 ## Synopsis
 

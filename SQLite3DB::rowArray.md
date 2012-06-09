@@ -1,6 +1,9 @@
 ---
 title: SQLite3DB::rowArray
+layout: default
 ---
+
+# SQLite3DB::rowArray
 
 ## Synopsis
 

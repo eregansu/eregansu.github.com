@@ -1,6 +1,9 @@
 ---
 title: Installer::run
+layout: default
 ---
+
+# Installer::run
 
 ## Synopsis
 

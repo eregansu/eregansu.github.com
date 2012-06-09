@@ -1,6 +1,9 @@
 ---
 title: SQLite3DB::now
+layout: default
 ---
+
+# SQLite3DB::now
 
 ## Synopsis
 

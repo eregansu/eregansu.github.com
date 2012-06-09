@@ -1,6 +1,9 @@
 ---
 title: DbpediaLiteSearch::__construct
+layout: default
 ---
+
+# DbpediaLiteSearch::__construct
 
 ## Synopsis
 

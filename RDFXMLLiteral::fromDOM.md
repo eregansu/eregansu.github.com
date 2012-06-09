@@ -1,6 +1,9 @@
 ---
 title: RDFXMLLiteral::fromDOM
+layout: default
 ---
+
+# RDFXMLLiteral::fromDOM
 
 ## Synopsis
 

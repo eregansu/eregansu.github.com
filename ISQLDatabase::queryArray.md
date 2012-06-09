@@ -1,6 +1,9 @@
 ---
 title: ISQLDatabase::queryArray
+layout: default
 ---
+
+# ISQLDatabase::queryArray
 
 ## Synopsis
 

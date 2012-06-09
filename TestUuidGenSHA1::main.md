@@ -1,6 +1,9 @@
 ---
 title: TestUuidGenSHA1::main
+layout: default
 ---
+
+# TestUuidGenSHA1::main
 
 ## Synopsis
 

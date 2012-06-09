@@ -1,6 +1,9 @@
 ---
 title: TestRDFDocArrayAccessSet::main
+layout: default
 ---
+
+# TestRDFDocArrayAccessSet::main
 
 ## Synopsis
 

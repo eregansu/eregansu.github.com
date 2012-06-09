@@ -1,6 +1,9 @@
 ---
 title: MySQLSet::rewind
+layout: default
 ---
+
+# MySQLSet::rewind
 
 ## Synopsis
 

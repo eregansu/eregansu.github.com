@@ -1,6 +1,9 @@
 ---
 title: RDFURI::__isset
+layout: default
 ---
+
+# RDFURI::__isset
 
 ## Synopsis
 

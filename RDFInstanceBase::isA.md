@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::isA
+layout: default
 ---
+
+# RDFInstanceBase::isA
 
 ## Synopsis
 

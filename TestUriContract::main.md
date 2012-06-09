@@ -1,6 +1,9 @@
 ---
 title: TestUriContract::main
+layout: default
 ---
+
+# TestUriContract::main
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Silk::main
+layout: default
 ---
+
+# Silk::main
 
 ## Synopsis
 

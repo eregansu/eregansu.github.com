@@ -1,6 +1,9 @@
 ---
 title: Routable::process
+layout: default
 ---
+
+# Routable::process
 
 ## Synopsis
 

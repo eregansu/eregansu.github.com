@@ -1,22 +1,23 @@
 ---
 title: Module
+layout: default
 ---
 
-`Module` is an abstract class derived from <a href="Model">Model</a>.
+# Module
+
+<code>Module</code> is an abstract class derived from <a href="Model">Model</a>.
 
 ## Synopsis
 
-```php
-uses('module');
-```
-
+<pre><code>uses('module');
+</code></pre>
 ## Public Static Methods
 
-* `<a href="Module%3A%3AgetInstance">Module::getInstance</a>()`
+* <code><a href="Module%3A%3AgetInstance">Module::getInstance</a>()</code>
 
 ## Public Methods
 
-* `<a href="Module%3A%3A__construct">Module::__construct</a>()`
-* `<a href="Module%3A%3Asetup">Module::setup</a>()`
-* `<a href="Module%3A%3AupdateSchema">Module::updateSchema</a>()`
+* <code><a href="Module%3A%3A__construct">Module::__construct</a>()</code>
+* <code><a href="Module%3A%3Asetup">Module::setup</a>()</code>
+* <code><a href="Module%3A%3AupdateSchema">Module::updateSchema</a>()</code>
 

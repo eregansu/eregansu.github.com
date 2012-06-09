@@ -1,6 +1,9 @@
 ---
 title: IAuthEngine::retrieveUserData
+layout: default
 ---
+
+# IAuthEngine::retrieveUserData
 
 ## Synopsis
 

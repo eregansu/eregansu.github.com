@@ -1,6 +1,9 @@
 ---
 title: Model::__construct
+layout: default
 ---
+
+# Model::__construct
 
 Construct an instance of `<a href="Model">Model</a>`.
 

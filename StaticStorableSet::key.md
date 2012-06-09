@@ -1,6 +1,9 @@
 ---
 title: StaticStorableSet::key
+layout: default
 ---
+
+# StaticStorableSet::key
 
 ## Synopsis
 

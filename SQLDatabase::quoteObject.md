@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::quoteObject
+layout: default
 ---
+
+# SQLDatabase::quoteObject
 
 ## Synopsis
 

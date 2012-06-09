@@ -1,6 +1,9 @@
 ---
 title: IObservable
+layout: default
 ---
 
-`IObservable` is a base interface.
+# IObservable
+
+<code>IObservable</code> is a base interface.
 

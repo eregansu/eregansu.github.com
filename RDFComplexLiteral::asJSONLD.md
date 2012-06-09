@@ -1,6 +1,9 @@
 ---
 title: RDFComplexLiteral::asJSONLD
+layout: default
 ---
+
+# RDFComplexLiteral::asJSONLD
 
 ## Synopsis
 

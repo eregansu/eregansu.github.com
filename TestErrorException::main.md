@@ -1,6 +1,9 @@
 ---
 title: TestErrorException::main
+layout: default
 ---
+
+# TestErrorException::main
 
 ## Synopsis
 

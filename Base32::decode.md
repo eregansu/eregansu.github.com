@@ -1,6 +1,9 @@
 ---
 title: Base32::decode
+layout: default
 ---
+
+# Base32::decode
 
 Decode a base-32 string and return the value as an integer
 
@@ -40,5 +43,5 @@ A base-32 encoded value
 
 ## Return Value
 
-The integer value represented by `$input`
+The integer value represented by <code class="keyword">$input</code>
 

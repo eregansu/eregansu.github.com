@@ -1,6 +1,9 @@
 ---
 title: Auth::callback
+layout: default
 ---
+
+# Auth::callback
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: MySQLSchema::schemata
+layout: default
 ---
+
+# MySQLSchema::schemata
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Request::header
+layout: default
 ---
+
+# Request::header
 
 ## Synopsis
 

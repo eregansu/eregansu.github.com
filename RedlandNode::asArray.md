@@ -1,6 +1,9 @@
 ---
 title: RedlandNode::asArray
+layout: default
 ---
+
+# RedlandNode::asArray
 
 ## Synopsis
 

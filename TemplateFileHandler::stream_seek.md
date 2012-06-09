@@ -1,6 +1,9 @@
 ---
 title: TemplateFileHandler::stream_seek
+layout: default
 ---
+
+# TemplateFileHandler::stream_seek
 
 ## Synopsis
 

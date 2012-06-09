@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::asXML
+layout: default
 ---
+
+# RDFDocument::asXML
 
 ## Synopsis
 

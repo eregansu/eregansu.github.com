@@ -1,6 +1,9 @@
 ---
 title: RDFComplexLiteral::asArray
+layout: default
 ---
+
+# RDFComplexLiteral::asArray
 
 ## Synopsis
 

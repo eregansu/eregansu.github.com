@@ -1,6 +1,9 @@
 ---
 title: Template::useChromaHash
+layout: default
 ---
+
+# Template::useChromaHash
 
 ## Synopsis
 

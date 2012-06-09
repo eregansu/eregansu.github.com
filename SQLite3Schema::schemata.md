@@ -1,6 +1,9 @@
 ---
 title: SQLite3Schema::schemata
+layout: default
 ---
+
+# SQLite3Schema::schemata
 
 ## Synopsis
 

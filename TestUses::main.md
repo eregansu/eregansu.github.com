@@ -1,6 +1,9 @@
 ---
 title: TestUses::main
+layout: default
 ---
+
+# TestUses::main
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Curl::version
+layout: default
 ---
+
+# Curl::version
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Template::setArray
+layout: default
 ---
+
+# Template::setArray
 
 ## Synopsis
 

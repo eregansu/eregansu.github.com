@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::rollback
+layout: default
 ---
+
+# SQLDatabase::rollback
 
 ## Synopsis
 

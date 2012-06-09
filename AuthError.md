@@ -1,21 +1,22 @@
 ---
 title: AuthError
+layout: default
 ---
+
+# AuthError
 
 Exception class whose instances are thrown when an authentication exception
 occurs.
 
-`AuthError` is a class derived from <a href="Exception">Exception</a>.
+<code>AuthError</code> is a class derived from <a href="Exception">Exception</a>.
 
 ## Synopsis
 
-```php
-uses('auth');
+<pre><code>uses('auth');
 
 throw new AuthError($engine, $message, $reason);
-```
-
+</code></pre>
 ## Public Methods
 
-* `<a href="AuthError%3A%3A__construct">AuthError::__construct</a>()`
+* <code><a href="AuthError%3A%3A__construct">AuthError::__construct</a>()</code>
 

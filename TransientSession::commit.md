@@ -1,6 +1,9 @@
 ---
 title: TransientSession::commit
+layout: default
 ---
+
+# TransientSession::commit
 
 ## Synopsis
 

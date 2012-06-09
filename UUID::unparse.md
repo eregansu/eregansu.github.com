@@ -1,6 +1,9 @@
 ---
 title: UUID::unparse
+layout: default
 ---
+
+# UUID::unparse
 
 Constructs a UUID string given an array as returned by UUID::parse()
 

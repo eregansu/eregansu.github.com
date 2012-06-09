@@ -1,6 +1,9 @@
 ---
 title: SQLite3DB::rowCount
+layout: default
 ---
+
+# SQLite3DB::rowCount
 
 ## Synopsis
 

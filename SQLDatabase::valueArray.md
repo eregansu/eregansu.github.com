@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::valueArray
+layout: default
 ---
+
+# SQLDatabase::valueArray
 
 ## Synopsis
 

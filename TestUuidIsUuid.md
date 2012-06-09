@@ -1,10 +1,13 @@
 ---
 title: TestUuidIsUuid
+layout: default
 ---
 
-`TestUuidIsUuid` is a class derived from <a href="TestHarness">TestHarness</a>.
+# TestUuidIsUuid
+
+<code>TestUuidIsUuid</code> is a class derived from <a href="TestHarness">TestHarness</a>.
 
 ## Public Methods
 
-* `<a href="TestUuidIsUuid%3A%3Amain">TestUuidIsUuid::main</a>()`
+* <code><a href="TestUuidIsUuid%3A%3Amain">TestUuidIsUuid::main</a>()</code>
 

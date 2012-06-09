@@ -1,6 +1,9 @@
 ---
 title: RDFSet::slice
+layout: default
 ---
+
+# RDFSet::slice
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: XMLParser::option
+layout: default
 ---
+
+# XMLParser::option
 
 ## Synopsis
 

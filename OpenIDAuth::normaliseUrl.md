@@ -1,6 +1,9 @@
 ---
 title: OpenIDAuth::normaliseUrl
+layout: default
 ---
+
+# OpenIDAuth::normaliseUrl
 
 Taken from the Zend Framework
 Normalizes URL according to RFC 3986 to use it in comparison operations.

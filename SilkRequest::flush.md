@@ -1,6 +1,9 @@
 ---
 title: SilkRequest::flush
+layout: default
 ---
+
+# SilkRequest::flush
 
 ## Synopsis
 

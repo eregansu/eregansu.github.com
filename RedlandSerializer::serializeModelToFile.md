@@ -1,6 +1,9 @@
 ---
 title: RedlandSerializer::serializeModelToFile
+layout: default
 ---
+
+# RedlandSerializer::serializeModelToFile
 
 ## Synopsis
 

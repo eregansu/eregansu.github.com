@@ -1,6 +1,9 @@
 ---
 title: SQLite3Schema::views
+layout: default
 ---
+
+# SQLite3Schema::views
 
 ## Synopsis
 

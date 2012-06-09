@@ -1,6 +1,9 @@
 ---
 title: Request::peek
+layout: default
 ---
+
+# Request::peek
 
 ## Synopsis
 

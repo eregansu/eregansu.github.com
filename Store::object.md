@@ -1,6 +1,9 @@
 ---
 title: Store::object
+layout: default
 ---
+
+# Store::object
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: DBDataSet::next
+layout: default
 ---
+
+# DBDataSet::next
 
 ## Synopsis
 

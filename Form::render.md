@@ -1,6 +1,9 @@
 ---
 title: Form::render
+layout: default
 ---
+
+# Form::render
 
 ## Synopsis
 

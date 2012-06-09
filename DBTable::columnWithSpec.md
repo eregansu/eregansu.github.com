@@ -1,6 +1,9 @@
 ---
 title: DBTable::columnWithSpec
+layout: default
 ---
+
+# DBTable::columnWithSpec
 
 ## Synopsis
 

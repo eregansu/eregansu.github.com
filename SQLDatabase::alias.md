@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::alias
+layout: default
 ---
+
+# SQLDatabase::alias
 
 ## Synopsis
 

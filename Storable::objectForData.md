@@ -1,6 +1,9 @@
 ---
 title: Storable::objectForData
+layout: default
 ---
+
+# Storable::objectForData
 
 ## Synopsis
 

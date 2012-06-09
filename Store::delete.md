@@ -1,6 +1,9 @@
 ---
 title: Store::delete
+layout: default
 ---
+
+# Store::delete
 
 ## Synopsis
 

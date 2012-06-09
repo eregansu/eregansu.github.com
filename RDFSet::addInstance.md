@@ -1,6 +1,9 @@
 ---
 title: RDFSet::addInstance
+layout: default
 ---
+
+# RDFSet::addInstance
 
 ## Synopsis
 

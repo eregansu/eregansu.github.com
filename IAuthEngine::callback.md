@@ -1,6 +1,9 @@
 ---
 title: IAuthEngine::callback
+layout: default
 ---
+
+# IAuthEngine::callback
 
 ## Synopsis
 

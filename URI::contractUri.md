@@ -1,6 +1,9 @@
 ---
 title: URI::contractUri
+layout: default
 ---
+
+# URI::contractUri
 
 ## Synopsis
 

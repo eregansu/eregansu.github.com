@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::fromTriples
+layout: default
 ---
+
+# RDFInstanceBase::fromTriples
 
 ## Synopsis
 

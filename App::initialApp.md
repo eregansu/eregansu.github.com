@@ -1,6 +1,9 @@
 ---
 title: App::initialApp
+layout: default
 ---
+
+# App::initialApp
 
 ## Synopsis
 

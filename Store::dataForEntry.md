@@ -1,6 +1,9 @@
 ---
 title: Store::dataForEntry
+layout: default
 ---
+
+# Store::dataForEntry
 
 ## Synopsis
 

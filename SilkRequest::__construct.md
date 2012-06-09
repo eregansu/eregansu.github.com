@@ -1,6 +1,9 @@
 ---
 title: SilkRequest::__construct
+layout: default
 ---
+
+# SilkRequest::__construct
 
 ## Synopsis
 

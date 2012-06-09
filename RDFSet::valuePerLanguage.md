@@ -1,6 +1,9 @@
 ---
 title: RDFSet::valuePerLanguage
+layout: default
 ---
+
+# RDFSet::valuePerLanguage
 
 ## Synopsis
 

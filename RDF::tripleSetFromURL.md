@@ -1,6 +1,9 @@
 ---
 title: RDF::tripleSetFromURL
+layout: default
 ---
+
+# RDF::tripleSetFromURL
 
 ## Synopsis
 

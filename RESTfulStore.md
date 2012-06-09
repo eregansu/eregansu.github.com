@@ -1,6 +1,9 @@
 ---
 title: RESTfulStore
+layout: default
 ---
 
-`RESTfulStore` is a class derived from <a href="GenericWebSearchEngine">GenericWebSearchEngine</a>.
+# RESTfulStore
+
+<code>RESTfulStore</code> is a class derived from <a href="GenericWebSearchEngine">GenericWebSearchEngine</a>.
 

@@ -1,6 +1,9 @@
 ---
 title: IContentStore::fetch
+layout: default
 ---
+
+# IContentStore::fetch
 
 ## Synopsis
 

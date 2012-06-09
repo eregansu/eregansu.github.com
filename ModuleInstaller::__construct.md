@@ -1,6 +1,9 @@
 ---
 title: ModuleInstaller::__construct
+layout: default
 ---
+
+# ModuleInstaller::__construct
 
 ## Synopsis
 

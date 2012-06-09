@@ -1,6 +1,9 @@
 ---
 title: Request::consumeForApp
+layout: default
 ---
+
+# Request::consumeForApp
 
 Move the first parameter from the request to the base array and return it.
 

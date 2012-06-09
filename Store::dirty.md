@@ -1,6 +1,9 @@
 ---
 title: Store::dirty
+layout: default
 ---
+
+# Store::dirty
 
 ## Synopsis
 

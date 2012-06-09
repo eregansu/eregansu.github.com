@@ -1,6 +1,9 @@
 ---
 title: RDF::ns
+layout: default
 ---
+
+# RDF::ns
 
 ## Synopsis
 

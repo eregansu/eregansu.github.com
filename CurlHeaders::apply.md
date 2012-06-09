@@ -1,6 +1,9 @@
 ---
 title: CurlHeaders::apply
+layout: default
 ---
+
+# CurlHeaders::apply
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: RDFURI::__toString
+layout: default
 ---
+
+# RDFURI::__toString
 
 ## Synopsis
 

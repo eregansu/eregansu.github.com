@@ -1,6 +1,9 @@
 ---
 title: TestUuidCanonical::main
+layout: default
 ---
+
+# TestUuidCanonical::main
 
 ## Synopsis
 

@@ -1,10 +1,13 @@
 ---
 title: TestUuidIri
+layout: default
 ---
 
-`TestUuidIri` is a class derived from <a href="TestHarness">TestHarness</a>.
+# TestUuidIri
+
+<code>TestUuidIri</code> is a class derived from <a href="TestHarness">TestHarness</a>.
 
 ## Public Methods
 
-* `<a href="TestUuidIri%3A%3Amain">TestUuidIri::main</a>()`
+* <code><a href="TestUuidIri%3A%3Amain">TestUuidIri::main</a>()</code>
 

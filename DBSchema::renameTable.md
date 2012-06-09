@@ -1,6 +1,9 @@
 ---
 title: DBSchema::renameTable
+layout: default
 ---
+
+# DBSchema::renameTable
 
 ## Synopsis
 

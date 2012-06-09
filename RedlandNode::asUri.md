@@ -1,6 +1,9 @@
 ---
 title: RedlandNode::asUri
+layout: default
 ---
+
+# RedlandNode::asUri
 
 ## Synopsis
 

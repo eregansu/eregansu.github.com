@@ -1,18 +1,19 @@
 ---
 title: DefaultApp
+layout: default
 ---
+
+# DefaultApp
 
 The default application class.
 
-`DefaultApp` is a class derived from <a href="App">App</a>.
+<code>DefaultApp</code> is a class derived from <a href="App">App</a>.
 
 ## Synopsis
 
-```php
-uses('routable');
-```
-
+<pre><code>uses('routable');
+</code></pre>
 ## Public Methods
 
-* `<a href="DefaultApp%3A%3A__construct">DefaultApp::__construct</a>()`
+* <code><a href="DefaultApp%3A%3A__construct">DefaultApp::__construct</a>()</code>
 

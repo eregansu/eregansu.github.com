@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::query
+layout: default
 ---
+
+# SQLDatabase::query
 
 ## Synopsis
 

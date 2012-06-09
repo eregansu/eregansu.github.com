@@ -1,10 +1,13 @@
 ---
 title: TestConstants
+layout: default
 ---
 
-`TestConstants` is a class derived from <a href="TestHarness">TestHarness</a>.
+# TestConstants
+
+<code>TestConstants</code> is a class derived from <a href="TestHarness">TestHarness</a>.
 
 ## Public Methods
 
-* `<a href="TestConstants%3A%3Amain">TestConstants::main</a>()`
+* <code><a href="TestConstants%3A%3Amain">TestConstants::main</a>()</code>
 

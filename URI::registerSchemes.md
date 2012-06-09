@@ -1,6 +1,9 @@
 ---
 title: URI::registerSchemes
+layout: default
 ---
+
+# URI::registerSchemes
 
 ## Synopsis
 

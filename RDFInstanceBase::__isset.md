@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::__isset
+layout: default
 ---
+
+# RDFInstanceBase::__isset
 
 ## Synopsis
 

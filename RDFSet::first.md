@@ -1,6 +1,9 @@
 ---
 title: RDFSet::first
+layout: default
 ---
+
+# RDFSet::first
 
 ## Synopsis
 

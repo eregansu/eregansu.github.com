@@ -1,6 +1,9 @@
 ---
 title: XMLParser::line
+layout: default
 ---
+
+# XMLParser::line
 
 ## Synopsis
 

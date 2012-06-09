@@ -1,6 +1,9 @@
 ---
 title: URI::uuid
+layout: default
 ---
+
+# URI::uuid
 
 ## Synopsis
 

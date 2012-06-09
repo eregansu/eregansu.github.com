@@ -1,6 +1,9 @@
 ---
 title: TemplateFileHandler::stream_write
+layout: default
 ---
+
+# TemplateFileHandler::stream_write
 
 ## Synopsis
 

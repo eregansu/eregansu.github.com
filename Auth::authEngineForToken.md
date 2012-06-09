@@ -1,6 +1,9 @@
 ---
 title: Auth::authEngineForToken
+layout: default
 ---
+
+# Auth::authEngineForToken
 
 ## Synopsis
 

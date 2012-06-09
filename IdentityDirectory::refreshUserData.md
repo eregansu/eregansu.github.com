@@ -1,6 +1,9 @@
 ---
 title: IdentityDirectory::refreshUserData
+layout: default
 ---
+
+# IdentityDirectory::refreshUserData
 
 ## Synopsis
 

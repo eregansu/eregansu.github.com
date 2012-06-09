@@ -1,6 +1,9 @@
 ---
 title: VFS::readlink
+layout: default
 ---
+
+# VFS::readlink
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: HTTPRequest::consume
+layout: default
 ---
+
+# HTTPRequest::consume
 
 ## Synopsis
 

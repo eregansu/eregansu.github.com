@@ -1,6 +1,9 @@
 ---
 title: Error::backtrace
+layout: default
 ---
+
+# Error::backtrace
 
 ## Synopsis
 

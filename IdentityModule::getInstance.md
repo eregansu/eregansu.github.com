@@ -1,6 +1,9 @@
 ---
 title: IdentityModule::getInstance
+layout: default
 ---
+
+# IdentityModule::getInstance
 
 ## Synopsis
 

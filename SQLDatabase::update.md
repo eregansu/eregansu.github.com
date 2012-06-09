@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::update
+layout: default
 ---
+
+# SQLDatabase::update
 
 ## Synopsis
 

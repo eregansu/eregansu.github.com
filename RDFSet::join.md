@@ -1,6 +1,9 @@
 ---
 title: RDFSet::join
+layout: default
 ---
+
+# RDFSet::join
 
 ## Synopsis
 

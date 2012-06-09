@@ -1,12 +1,15 @@
 ---
 title: IIndexable
+layout: default
 ---
 
-`IIndexable` is a base interface.
+# IIndexable
+
+<code>IIndexable</code> is a base interface.
 
 ## Public Methods
 
-* `<a href="IIndexable%3A%3AindexIdentifier">IIndexable::indexIdentifier</a>()`
-* `<a href="IIndexable%3A%3AindexBody">IIndexable::indexBody</a>()`
-* `<a href="IIndexable%3A%3AindexAttributes">IIndexable::indexAttributes</a>()`
+* <code><a href="IIndexable%3A%3AindexIdentifier">IIndexable::indexIdentifier</a>()</code>
+* <code><a href="IIndexable%3A%3AindexBody">IIndexable::indexBody</a>()</code>
+* <code><a href="IIndexable%3A%3AindexAttributes">IIndexable::indexAttributes</a>()</code>
 

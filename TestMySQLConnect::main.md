@@ -1,6 +1,9 @@
 ---
 title: TestMySQLConnect::main
+layout: default
 ---
+
+# TestMySQLConnect::main
 
 ## Synopsis
 

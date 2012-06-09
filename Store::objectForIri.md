@@ -1,6 +1,9 @@
 ---
 title: Store::objectForIri
+layout: default
 ---
+
+# Store::objectForIri
 
 ## Synopsis
 

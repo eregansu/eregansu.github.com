@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::rowCount
+layout: default
 ---
+
+# SQLDatabase::rowCount
 
 ## Synopsis
 

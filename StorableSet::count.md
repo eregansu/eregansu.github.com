@@ -1,6 +1,9 @@
 ---
 title: StorableSet::count
+layout: default
 ---
+
+# StorableSet::count
 
 ## Synopsis
 

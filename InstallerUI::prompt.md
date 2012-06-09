@@ -1,6 +1,9 @@
 ---
 title: InstallerUI::prompt
+layout: default
 ---
+
+# InstallerUI::prompt
 
 ## Synopsis
 

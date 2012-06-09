@@ -1,6 +1,9 @@
 ---
 title: PosixAuth::retrieveUserData
+layout: default
 ---
+
+# PosixAuth::retrieveUserData
 
 ## Synopsis
 

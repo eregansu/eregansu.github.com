@@ -1,6 +1,9 @@
 ---
 title: Store::__construct
+layout: default
 ---
+
+# Store::__construct
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: VFS::realpath
+layout: default
 ---
+
+# VFS::realpath
 
 ## Synopsis
 

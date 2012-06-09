@@ -1,6 +1,9 @@
 ---
 title: SQLite3DB::selectDatabase
+layout: default
 ---
+
+# SQLite3DB::selectDatabase
 
 ## Synopsis
 

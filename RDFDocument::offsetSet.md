@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::offsetSet
+layout: default
 ---
+
+# RDFDocument::offsetSet
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: SilkRequest::write
+layout: default
 ---
+
+# SilkRequest::write
 
 ## Synopsis
 

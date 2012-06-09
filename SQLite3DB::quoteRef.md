@@ -1,6 +1,9 @@
 ---
 title: SQLite3DB::quoteRef
+layout: default
 ---
+
+# SQLite3DB::quoteRef
 
 ## Synopsis
 

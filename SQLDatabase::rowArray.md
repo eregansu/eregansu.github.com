@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::rowArray
+layout: default
 ---
+
+# SQLDatabase::rowArray
 
 ## Synopsis
 

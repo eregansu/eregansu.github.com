@@ -1,6 +1,9 @@
 ---
 title: TestUriParsing::main
+layout: default
 ---
+
+# TestUriParsing::main
 
 ## Synopsis
 

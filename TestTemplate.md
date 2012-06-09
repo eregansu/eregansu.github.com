@@ -1,10 +1,13 @@
 ---
 title: TestTemplate
+layout: default
 ---
 
-`TestTemplate` is a class derived from <a href="TestHarness">TestHarness</a>.
+# TestTemplate
+
+<code>TestTemplate</code> is a class derived from <a href="TestHarness">TestHarness</a>.
 
 ## Public Methods
 
-* `<a href="TestTemplate%3A%3Amain">TestTemplate::main</a>()`
+* <code><a href="TestTemplate%3A%3Amain">TestTemplate::main</a>()</code>
 

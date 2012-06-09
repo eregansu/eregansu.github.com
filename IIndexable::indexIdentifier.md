@@ -1,6 +1,9 @@
 ---
 title: IIndexable::indexIdentifier
+layout: default
 ---
+
+# IIndexable::indexIdentifier
 
 ## Synopsis
 

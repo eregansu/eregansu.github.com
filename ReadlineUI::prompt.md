@@ -1,6 +1,9 @@
 ---
 title: ReadlineUI::prompt
+layout: default
 ---
+
+# ReadlineUI::prompt
 
 ## Synopsis
 

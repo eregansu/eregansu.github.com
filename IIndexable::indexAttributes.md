@@ -1,6 +1,9 @@
 ---
 title: IIndexable::indexAttributes
+layout: default
 ---
+
+# IIndexable::indexAttributes
 
 ## Synopsis
 

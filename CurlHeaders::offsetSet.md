@@ -1,6 +1,9 @@
 ---
 title: CurlHeaders::offsetSet
+layout: default
 ---
+
+# CurlHeaders::offsetSet
 
 ## Synopsis
 

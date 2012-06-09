@@ -1,6 +1,9 @@
 ---
 title: DefaultApp::__construct
+layout: default
 ---
+
+# DefaultApp::__construct
 
 ## Synopsis
 

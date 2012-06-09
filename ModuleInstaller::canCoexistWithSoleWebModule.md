@@ -1,6 +1,9 @@
 ---
 title: ModuleInstaller::canCoexistWithSoleWebModule
+layout: default
 ---
+
+# ModuleInstaller::canCoexistWithSoleWebModule
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: XMLNS
+layout: default
 ---
 
-`XMLNS` is an abstract class derived from <a href="URI">URI</a>.
+# XMLNS
+
+<code>XMLNS</code> is an abstract class derived from <a href="URI">URI</a>.
 

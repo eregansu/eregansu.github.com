@@ -1,6 +1,9 @@
 ---
 title: MySQL::insertId
+layout: default
 ---
+
+# MySQL::insertId
 
 ## Synopsis
 

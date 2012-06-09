@@ -1,6 +1,9 @@
 ---
 title: RDFURI::__get
+layout: default
 ---
+
+# RDFURI::__get
 
 ## Synopsis
 

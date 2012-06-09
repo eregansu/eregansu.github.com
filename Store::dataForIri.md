@@ -1,6 +1,9 @@
 ---
 title: Store::dataForIri
+layout: default
 ---
+
+# Store::dataForIri
 
 ## Synopsis
 

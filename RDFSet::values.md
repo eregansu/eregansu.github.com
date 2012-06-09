@@ -1,6 +1,9 @@
 ---
 title: RDFSet::values
+layout: default
 ---
+
+# RDFSet::values
 
 ## Synopsis
 

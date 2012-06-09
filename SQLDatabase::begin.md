@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::begin
+layout: default
 ---
+
+# SQLDatabase::begin
 
 ## Synopsis
 

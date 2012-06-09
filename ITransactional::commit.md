@@ -1,6 +1,9 @@
 ---
 title: ITransactional::commit
+layout: default
 ---
+
+# ITransactional::commit
 
 ## Synopsis
 

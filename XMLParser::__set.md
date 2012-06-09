@@ -1,6 +1,9 @@
 ---
 title: XMLParser::__set
+layout: default
 ---
+
+# XMLParser::__set
 
 ## Synopsis
 

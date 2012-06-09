@@ -1,6 +1,9 @@
 ---
 title: Curl::close
+layout: default
 ---
+
+# Curl::close
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: XtermUI::begin
+layout: default
 ---
+
+# XtermUI::begin
 
 ## Synopsis
 

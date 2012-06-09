@@ -1,6 +1,9 @@
 ---
 title: Identity::__construct
+layout: default
 ---
+
+# Identity::__construct
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: SearchIndexer::connect
+layout: default
 ---
+
+# SearchIndexer::connect
 
 ## Synopsis
 

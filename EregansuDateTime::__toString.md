@@ -1,6 +1,9 @@
 ---
 title: EregansuDateTime::__toString
+layout: default
 ---
+
+# EregansuDateTime::__toString
 
 ## Synopsis
 

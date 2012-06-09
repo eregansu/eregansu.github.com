@@ -1,6 +1,9 @@
 ---
 title: URI::expandUri
+layout: default
 ---
+
+# URI::expandUri
 
 ## Synopsis
 

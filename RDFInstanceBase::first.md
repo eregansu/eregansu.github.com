@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::first
+layout: default
 ---
+
+# RDFInstanceBase::first
 
 ## Synopsis
 

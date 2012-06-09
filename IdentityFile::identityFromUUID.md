@@ -1,6 +1,9 @@
 ---
 title: IdentityFile::identityFromUUID
+layout: default
 ---
+
+# IdentityFile::identityFromUUID
 
 ## Synopsis
 

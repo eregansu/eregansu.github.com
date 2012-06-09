@@ -1,6 +1,9 @@
 ---
 title: Form::checkSubmission
+layout: default
 ---
+
+# Form::checkSubmission
 
 ## Synopsis
 

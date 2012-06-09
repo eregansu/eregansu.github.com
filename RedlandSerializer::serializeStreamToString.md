@@ -1,6 +1,9 @@
 ---
 title: RedlandSerializer::serializeStreamToString
+layout: default
 ---
+
+# RedlandSerializer::serializeStreamToString
 
 ## Synopsis
 

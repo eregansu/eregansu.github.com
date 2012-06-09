@@ -1,6 +1,9 @@
 ---
 title: TerminalErrorException::process
+layout: default
 ---
+
+# TerminalErrorException::process
 
 ## Synopsis
 

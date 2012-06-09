@@ -1,6 +1,9 @@
 ---
 title: CSVImport::setFields
+layout: default
 ---
+
+# CSVImport::setFields
 
 Specify an explicit column-to-field mapping.
 

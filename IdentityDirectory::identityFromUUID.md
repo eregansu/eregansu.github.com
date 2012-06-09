@@ -1,6 +1,9 @@
 ---
 title: IdentityDirectory::identityFromUUID
+layout: default
 ---
+
+# IdentityDirectory::identityFromUUID
 
 ## Synopsis
 

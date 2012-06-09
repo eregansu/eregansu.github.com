@@ -1,6 +1,9 @@
 ---
 title: XMLParser::__get
+layout: default
 ---
+
+# XMLParser::__get
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: ISearchEngine::query
+layout: default
 ---
+
+# ISearchEngine::query
 
 ## Synopsis
 

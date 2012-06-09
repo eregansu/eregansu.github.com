@@ -1,6 +1,9 @@
 ---
 title: DBTable::indexWithSpec
+layout: default
 ---
+
+# DBTable::indexWithSpec
 
 ## Synopsis
 

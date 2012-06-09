@@ -1,6 +1,9 @@
 ---
 title: BuiltinAuth::verifyAuth
+layout: default
 ---
+
+# BuiltinAuth::verifyAuth
 
 ## Synopsis
 

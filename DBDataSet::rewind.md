@@ -1,6 +1,9 @@
 ---
 title: DBDataSet::rewind
+layout: default
 ---
+
+# DBDataSet::rewind
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: LDAP::quoteRef
+layout: default
 ---
+
+# LDAP::quoteRef
 
 ## Synopsis
 

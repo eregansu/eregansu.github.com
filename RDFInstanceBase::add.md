@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::add
+layout: default
 ---
+
+# RDFInstanceBase::add
 
 ## Synopsis
 

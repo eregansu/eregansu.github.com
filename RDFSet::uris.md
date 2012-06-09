@@ -1,6 +1,9 @@
 ---
 title: RDFSet::uris
+layout: default
 ---
+
+# RDFSet::uris
 
 ## Synopsis
 

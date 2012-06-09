@@ -1,6 +1,9 @@
 ---
 title: RDFSet::lang
+layout: default
 ---
+
+# RDFSet::lang
 
 ## Synopsis
 

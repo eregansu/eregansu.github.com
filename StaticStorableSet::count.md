@@ -1,6 +1,9 @@
 ---
 title: StaticStorableSet::count
+layout: default
 ---
+
+# StaticStorableSet::count
 
 ## Synopsis
 

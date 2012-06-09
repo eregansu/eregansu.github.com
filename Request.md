@@ -1,19 +1,20 @@
 ---
 title: Request
+layout: default
 ---
+
+# Request
 
 Encapsulation of a request from a client.
 
-`Request` is an abstract base class.
+<code>Request</code> is an abstract base class.
 
 ## Synopsis
 
-```php
-uses('request');
+<pre><code>uses('request');
 
 $request = Request::requestForSAPI();
-```
-
+</code></pre>
 ## Description
 
 The Request class and its descendants represents a single request from a user
@@ -27,21 +28,21 @@ in the `$request` global variable.
 
 ## Public Static Methods
 
-* `<a href="Request%3A%3ArequestForSAPI">Request::requestForSAPI</a>()`: Return an instance of a Request class for a specified SAPI.
+* <code><a href="Request%3A%3ArequestForSAPI">Request::requestForSAPI</a>()</code>: Return an instance of a Request class for a specified SAPI.
 
 ## Public Methods
 
-* `<a href="Request%3A%3Aconsume">Request::consume</a>()`: Consume the first request parameter as the name of a page.
-* `<a href="Request%3A%3Apeek">Request::peek</a>()`
-* `<a href="Request%3A%3AconsumeForApp">Request::consumeForApp</a>()`: Move the first parameter from the request to the base array and return it.
-* `<a href="Request%3A%3AconsumeObject">Request::consumeObject</a>()`
-* `<a href="Request%3A%3AaddCrumb">Request::addCrumb</a>()`: Add an element to the breadcrumb array.
-* `<a href="Request%3A%3Awrite">Request::write</a>()`
-* `<a href="Request%3A%3Aerr">Request::err</a>()`
-* `<a href="Request%3A%3Aflush">Request::flush</a>()`
-* `<a href="Request%3A%3Aheader">Request::header</a>()`
-* `<a href="Request%3A%3AsetCookie">Request::setCookie</a>()`
-* `<a href="Request%3A%3Acomplete">Request::complete</a>()`
-* `<a href="Request%3A%3Aabort">Request::abort</a>()`
-* `<a href="Request%3A%3Anegotiate">Request::negotiate</a>()`: Attempt to perform content negotiation.
+* <code><a href="Request%3A%3Aconsume">Request::consume</a>()</code>: Consume the first request parameter as the name of a page.
+* <code><a href="Request%3A%3Apeek">Request::peek</a>()</code>
+* <code><a href="Request%3A%3AconsumeForApp">Request::consumeForApp</a>()</code>: Move the first parameter from the request to the base array and return it.
+* <code><a href="Request%3A%3AconsumeObject">Request::consumeObject</a>()</code>
+* <code><a href="Request%3A%3AaddCrumb">Request::addCrumb</a>()</code>: Add an element to the breadcrumb array.
+* <code><a href="Request%3A%3Awrite">Request::write</a>()</code>
+* <code><a href="Request%3A%3Aerr">Request::err</a>()</code>
+* <code><a href="Request%3A%3Aflush">Request::flush</a>()</code>
+* <code><a href="Request%3A%3Aheader">Request::header</a>()</code>
+* <code><a href="Request%3A%3AsetCookie">Request::setCookie</a>()</code>
+* <code><a href="Request%3A%3Acomplete">Request::complete</a>()</code>
+* <code><a href="Request%3A%3Aabort">Request::abort</a>()</code>
+* <code><a href="Request%3A%3Anegotiate">Request::negotiate</a>()</code>: Attempt to perform content negotiation.
 

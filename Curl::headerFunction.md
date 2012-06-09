@@ -1,6 +1,9 @@
 ---
 title: Curl::headerFunction
+layout: default
 ---
+
+# Curl::headerFunction
 
 ## Synopsis
 

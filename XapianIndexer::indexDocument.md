@@ -1,6 +1,9 @@
 ---
 title: XapianIndexer::indexDocument
+layout: default
 ---
+
+# XapianIndexer::indexDocument
 
 ## Synopsis
 

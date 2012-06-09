@@ -1,6 +1,9 @@
 ---
 title: RDF::instanceForClass
+layout: default
 ---
+
+# RDF::instanceForClass
 
 ## Synopsis
 

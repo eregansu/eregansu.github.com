@@ -1,12 +1,15 @@
 ---
 title: Observers
+layout: default
 ---
 
-`Observers` is an abstract base class.
+# Observers
+
+<code>Observers</code> is an abstract base class.
 
 ## Public Static Methods
 
-* `<a href="Observers%3A%3Aobserve">Observers::observe</a>()`
-* `<a href="Observers%3A%3Aforget">Observers::forget</a>()`
-* `<a href="Observers%3A%3Ainvoke">Observers::invoke</a>()`
+* <code><a href="Observers%3A%3Aobserve">Observers::observe</a>()</code>
+* <code><a href="Observers%3A%3Aforget">Observers::forget</a>()</code>
+* <code><a href="Observers%3A%3Ainvoke">Observers::invoke</a>()</code>
 

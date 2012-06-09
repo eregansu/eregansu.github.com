@@ -1,6 +1,9 @@
 ---
 title: UUID::iri
+layout: default
 ---
+
+# UUID::iri
 
 Formats a UUID as an IRI
 
@@ -12,7 +15,7 @@ Formats a UUID as an IRI
 
 `UUID::iri()` converts a string representation of a UUID to an IRI
 (Internationalized Resource Identifier), specifically a UUID URN.
-For example, the null UUID converted to an IRI would be `urn:uuid:00000000-0000-0000-0000-000000000000`.
+For example, the null UUID converted to an IRI would be <code>urn:uuid:00000000-0000-0000-0000-000000000000</code>.
 
 ## Parameters
 
@@ -39,5 +42,5 @@ A string representation of a UUID
 
 ## Return Value
 
-The IRI representation of `$uuid`, or `null` if `$uuid` is not a valid UUID string.
+The IRI representation of <code class="keyword">$uuid</code>, or <code class="keyword">null</code> if <code class="keyword">$uuid</code> is not a valid UUID string.
 

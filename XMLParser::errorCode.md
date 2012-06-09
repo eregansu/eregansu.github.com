@@ -1,6 +1,9 @@
 ---
 title: XMLParser::errorCode
+layout: default
 ---
+
+# XMLParser::errorCode
 
 ## Synopsis
 

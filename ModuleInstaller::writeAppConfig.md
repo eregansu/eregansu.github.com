@@ -1,6 +1,9 @@
 ---
 title: ModuleInstaller::writeAppConfig
+layout: default
 ---
+
+# ModuleInstaller::writeAppConfig
 
 ## Synopsis
 

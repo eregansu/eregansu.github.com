@@ -1,6 +1,9 @@
 ---
 title: Request::setCookie
+layout: default
 ---
+
+# Request::setCookie
 
 ## Synopsis
 

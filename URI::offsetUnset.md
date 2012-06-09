@@ -1,6 +1,9 @@
 ---
 title: URI::offsetUnset
+layout: default
 ---
+
+# URI::offsetUnset
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: StaticStorableSet::__construct
+layout: default
 ---
+
+# StaticStorableSet::__construct
 
 ## Synopsis
 

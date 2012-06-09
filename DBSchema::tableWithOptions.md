@@ -1,6 +1,9 @@
 ---
 title: DBSchema::tableWithOptions
+layout: default
 ---
+
+# DBSchema::tableWithOptions
 
 ## Synopsis
 

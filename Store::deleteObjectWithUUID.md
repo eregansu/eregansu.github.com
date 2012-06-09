@@ -1,6 +1,9 @@
 ---
 title: Store::deleteObjectWithUUID
+layout: default
 ---
+
+# Store::deleteObjectWithUUID
 
 ## Synopsis
 

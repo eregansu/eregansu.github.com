@@ -1,6 +1,9 @@
 ---
 title: RDFStore::objectAsArray
+layout: default
 ---
+
+# RDFStore::objectAsArray
 
 ## Synopsis
 

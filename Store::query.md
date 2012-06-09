@@ -1,6 +1,9 @@
 ---
 title: Store::query
+layout: default
 ---
+
+# Store::query
 
 ## Synopsis
 

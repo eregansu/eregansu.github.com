@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::__get
+layout: default
 ---
+
+# RDFDocument::__get
 
 ## Synopsis
 

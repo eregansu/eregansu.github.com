@@ -1,11 +1,14 @@
 ---
 title: GenericWebSearch
+layout: default
 ---
 
-`GenericWebSearch` is a class derived from <a href="SearchEngine">SearchEngine</a>.
+# GenericWebSearch
+
+<code>GenericWebSearch</code> is a class derived from <a href="SearchEngine">SearchEngine</a>.
 
 ## Public Methods
 
-* `<a href="GenericWebSearch%3A%3A__construct">GenericWebSearch::__construct</a>()`
-* `<a href="GenericWebSearch%3A%3Aquery">GenericWebSearch::query</a>()`
+* <code><a href="GenericWebSearch%3A%3A__construct">GenericWebSearch::__construct</a>()</code>
+* <code><a href="GenericWebSearch%3A%3Aquery">GenericWebSearch::query</a>()</code>
 

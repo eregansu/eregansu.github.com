@@ -1,17 +1,18 @@
 ---
 title: Proxy
+layout: default
 ---
+
+# Proxy
 
 Routable class designed to support presenting views of data objects.
 
-`Proxy` is a class derived from <a href="Router">Router</a>.
+<code>Proxy</code> is a class derived from <a href="Router">Router</a>.
 
 ## Synopsis
 
-```php
-uses('routable');
-```
-
+<pre><code>uses('routable');
+</code></pre>
 ## Description
 
 The `Proxy` class is a descendant of `<a href="Router">Router</a>` intended to be
@@ -23,5 +24,5 @@ descendants of `Proxy`.
 
 ## Public Methods
 
-* `<a href="Proxy%3A%3A__get">Proxy::__get</a>()`
+* <code><a href="Proxy%3A%3A__get">Proxy::__get</a>()</code>
 

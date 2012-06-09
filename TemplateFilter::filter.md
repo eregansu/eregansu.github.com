@@ -1,6 +1,9 @@
 ---
 title: TemplateFilter::filter
+layout: default
 ---
+
+# TemplateFilter::filter
 
 ## Synopsis
 

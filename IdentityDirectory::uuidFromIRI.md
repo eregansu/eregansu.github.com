@@ -1,6 +1,9 @@
 ---
 title: IdentityDirectory::uuidFromIRI
+layout: default
 ---
+
+# IdentityDirectory::uuidFromIRI
 
 ## Synopsis
 

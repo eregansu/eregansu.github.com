@@ -1,10 +1,13 @@
 ---
 title: Session
+layout: default
 ---
+
+# Session
 
 Session handling
 
-`Session` is a base class.
+<code>Session</code> is a base class.
 
 ## Description
 
@@ -27,10 +30,10 @@ which affect the behaviour of the Session class:
 
 ## Public Static Methods
 
-* `<a href="Session%3A%3AsessionForRequest">Session::sessionForRequest</a>()`: Return a Session instance associated with a a given request
+* <code><a href="Session%3A%3AsessionForRequest">Session::sessionForRequest</a>()</code>: Return a Session instance associated with a a given request
 
 ## Public Methods
 
-* `<a href="Session%3A%3Acommit">Session::commit</a>()`: Commit changes to the session data
-* `<a href="Session%3A%3Abegin">Session::begin</a>()`: Open the session data, so that changes can be made to it
+* <code><a href="Session%3A%3Acommit">Session::commit</a>()</code>: Commit changes to the session data
+* <code><a href="Session%3A%3Abegin">Session::begin</a>()</code>: Open the session data, so that changes can be made to it
 

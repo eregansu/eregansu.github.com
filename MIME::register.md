@@ -1,6 +1,9 @@
 ---
 title: MIME::register
+layout: default
 ---
+
+# MIME::register
 
 ## Synopsis
 

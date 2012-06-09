@@ -1,6 +1,9 @@
 ---
 title: DBStorableSet::next
+layout: default
 ---
+
+# DBStorableSet::next
 
 ## Synopsis
 

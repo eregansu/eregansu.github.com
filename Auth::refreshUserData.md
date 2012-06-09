@@ -1,6 +1,9 @@
 ---
 title: Auth::refreshUserData
+layout: default
 ---
+
+# Auth::refreshUserData
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: ITransactional::begin
+layout: default
 ---
+
+# ITransactional::begin
 
 ## Synopsis
 

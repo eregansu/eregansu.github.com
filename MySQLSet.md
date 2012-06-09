@@ -1,11 +1,14 @@
 ---
 title: MySQLSet
+layout: default
 ---
 
-`MySQLSet` is a class derived from <a href="DBDataSet">DBDataSet</a>.
+# MySQLSet
+
+<code>MySQLSet</code> is a class derived from <a href="DBDataSet">DBDataSet</a>.
 
 ## Public Methods
 
-* `<a href="MySQLSet%3A%3A__construct">MySQLSet::__construct</a>()`
-* `<a href="MySQLSet%3A%3Arewind">MySQLSet::rewind</a>()`
+* <code><a href="MySQLSet%3A%3A__construct">MySQLSet::__construct</a>()</code>
+* <code><a href="MySQLSet%3A%3Arewind">MySQLSet::rewind</a>()</code>
 

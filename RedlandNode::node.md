@@ -1,6 +1,9 @@
 ---
 title: RedlandNode::node
+layout: default
 ---
+
+# RedlandNode::node
 
 ## Synopsis
 

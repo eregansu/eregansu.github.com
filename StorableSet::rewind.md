@@ -1,6 +1,9 @@
 ---
 title: StorableSet::rewind
+layout: default
 ---
+
+# StorableSet::rewind
 
 ## Synopsis
 

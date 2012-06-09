@@ -1,6 +1,9 @@
 ---
 title: Form::__construct
+layout: default
 ---
+
+# Form::__construct
 
 ## Synopsis
 

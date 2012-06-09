@@ -1,22 +1,23 @@
 ---
 title: IContentStore
+layout: default
 ---
 
-`IContentStore` is an interface derived from <a href="IDatabase">IDatabase</a>.
+# IContentStore
+
+<code>IContentStore</code> is an interface derived from <a href="IDatabase">IDatabase</a>.
 
 <a href="http://github.com/nexgenta/eregansu/blob/master/lib/db.php">View source</a>
 
 ## Synopsis
 
-```php
-uses('db');
-```
-
+<pre><code>uses('db');
+</code></pre>
 ## Public Methods
 
-* `<a href="IContentStore%3A%3Ainsert">IContentStore::insert</a>()`
-* `<a href="IContentStore%3A%3AinsertId">IContentStore::insertId</a>()`
-* `<a href="IContentStore%3A%3Afetch">IContentStore::fetch</a>()`
-* `<a href="IContentStore%3A%3Aupdate">IContentStore::update</a>()`
-* `<a href="IContentStore%3A%3Adelete">IContentStore::delete</a>()`
+* <code><a href="IContentStore%3A%3Ainsert">IContentStore::insert</a>()</code>
+* <code><a href="IContentStore%3A%3AinsertId">IContentStore::insertId</a>()</code>
+* <code><a href="IContentStore%3A%3Afetch">IContentStore::fetch</a>()</code>
+* <code><a href="IContentStore%3A%3Aupdate">IContentStore::update</a>()</code>
+* <code><a href="IContentStore%3A%3Adelete">IContentStore::delete</a>()</code>
 

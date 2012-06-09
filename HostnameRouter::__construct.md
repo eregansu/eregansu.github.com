@@ -1,6 +1,9 @@
 ---
 title: HostnameRouter::__construct
+layout: default
 ---
+
+# HostnameRouter::__construct
 
 ## Synopsis
 

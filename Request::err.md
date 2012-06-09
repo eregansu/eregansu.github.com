@@ -1,6 +1,9 @@
 ---
 title: Request::err
+layout: default
 ---
+
+# Request::err
 
 ## Synopsis
 

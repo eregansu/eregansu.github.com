@@ -1,6 +1,9 @@
 ---
 title: Model::getInstance
+layout: default
 ---
+
+# Model::getInstance
 
 Obtains an instance of one of `<a href="Model">Model</a>`'s descendants.
 
@@ -12,15 +15,15 @@ Obtains an instance of one of `<a href="Model">Model</a>`'s descendants.
 
 ## Description
 
-If `$args['class']` is not set, `Model::getInstance()` will immediately
-return `null`.
+If <code class="keyword">$args['class']</code> is not set, `Model::getInstance()` will immediately
+return <code class="keyword">null</code>.
 Otherwise, an instance of the named class will be obtained, and its
-<a href="Model%3A%3A__construct">constructor</a> will be invoked, passing `$args`.
-Descendants should override `Model::getInstance()` to set `$args['class']` to
+<a href="Model%3A%3A__construct">constructor</a> will be invoked, passing <code class="keyword">$args</code>.
+Descendants should override `Model::getInstance()` to set <code class="keyword">$args['class']</code> to
 the name of the class if it's not set.
-Descendants should, if possible, ensure that `$args['db']` is set to
+Descendants should, if possible, ensure that <code class="keyword">$args['db']</code> is set to
 a database connection URI which can be passed to `<a href="DBCore%3A%3Aconnect">DBCore::connect</a>()`.
-The combination of `$args['class']` and `$args['db']` are used to
+The combination of <code class="keyword">$args['class']</code> and <code class="keyword">$args['db']</code> are used to
 construct a key into the shared instance list. When a new instance is
 constructed, it is stored with this key in the list. If an entry with
 the key is already present, it will be returned and no new instance

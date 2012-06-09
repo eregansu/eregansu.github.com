@@ -1,6 +1,9 @@
 ---
 title: RDF::tripleSetFromDOM
+layout: default
 ---
+
+# RDF::tripleSetFromDOM
 
 Create a new set of triples from an RDF/XML DOMElement
 

@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::resourceTopic
+layout: default
 ---
+
+# RDFDocument::resourceTopic
 
 ## Synopsis
 

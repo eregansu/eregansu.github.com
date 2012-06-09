@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::promote
+layout: default
 ---
+
+# RDFDocument::promote
 
 ## Synopsis
 

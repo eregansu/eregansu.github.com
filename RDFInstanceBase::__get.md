@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::__get
+layout: default
 ---
+
+# RDFInstanceBase::__get
 
 ## Synopsis
 

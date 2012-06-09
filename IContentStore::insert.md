@@ -1,6 +1,9 @@
 ---
 title: IContentStore::insert
+layout: default
 ---
+
+# IContentStore::insert
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: DBType
+layout: default
 ---
 
-`DBType` is an abstract base class.
+# DBType
+
+<code>DBType</code> is an abstract base class.
 

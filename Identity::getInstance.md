@@ -1,6 +1,9 @@
 ---
 title: Identity::getInstance
+layout: default
 ---
+
+# Identity::getInstance
 
 ## Synopsis
 

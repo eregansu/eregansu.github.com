@@ -1,6 +1,9 @@
 ---
 title: UUID::isUUID
+layout: default
 ---
+
+# UUID::isUUID
 
 Determine whether a string is a valid UUID or not
 
@@ -37,6 +40,6 @@ The string that is potentially a UUID.
 
 ## Return Value
 
-If `$str` is a UUID, then the return value is `$str`,
-otherwise `null` is returned.
+If <code class="keyword">$str</code> is a UUID, then the return value is <code class="keyword">$str</code>,
+otherwise <code class="keyword">null</code> is returned.
 

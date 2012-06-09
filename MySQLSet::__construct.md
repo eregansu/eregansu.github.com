@@ -1,6 +1,9 @@
 ---
 title: MySQLSet::__construct
+layout: default
 ---
+
+# MySQLSet::__construct
 
 ## Synopsis
 

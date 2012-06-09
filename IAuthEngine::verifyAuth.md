@@ -1,6 +1,9 @@
 ---
 title: IAuthEngine::verifyAuth
+layout: default
 ---
+
+# IAuthEngine::verifyAuth
 
 ## Synopsis
 

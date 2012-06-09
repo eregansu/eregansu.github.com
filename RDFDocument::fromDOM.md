@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::fromDOM
+layout: default
 ---
+
+# RDFDocument::fromDOM
 
 ## Synopsis
 

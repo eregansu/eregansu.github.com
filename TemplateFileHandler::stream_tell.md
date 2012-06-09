@@ -1,6 +1,9 @@
 ---
 title: TemplateFileHandler::stream_tell
+layout: default
 ---
+
+# TemplateFileHandler::stream_tell
 
 ## Synopsis
 

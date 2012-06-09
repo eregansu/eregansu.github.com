@@ -1,17 +1,18 @@
 ---
 title: IdentityFile
+layout: default
 ---
+
+# IdentityFile
 
 Support for static identity data in an XML file.
 
-`IdentityFile` is a class derived from <a href="Identity">Identity</a>.
+<code>IdentityFile</code> is a class derived from <a href="Identity">Identity</a>.
 
 ## Synopsis
 
-```php
-uses('id');
-```
-
+<pre><code>uses('id');
+</code></pre>
 ## Description
 
 This class implements a read-only identity database read from an XML file.
@@ -23,8 +24,8 @@ IDENTITY_IRI is not defined).
 
 ## Public Methods
 
-* `<a href="IdentityFile%3A%3A__construct">IdentityFile::__construct</a>()`
-* `<a href="IdentityFile%3A%3AuuidFromIRI">IdentityFile::uuidFromIRI</a>()`
-* `<a href="IdentityFile%3A%3AidentityFromUUID">IdentityFile::identityFromUUID</a>()`
-* `<a href="IdentityFile%3A%3AcreateIdentity">IdentityFile::createIdentity</a>()`
+* <code><a href="IdentityFile%3A%3A__construct">IdentityFile::__construct</a>()</code>
+* <code><a href="IdentityFile%3A%3AuuidFromIRI">IdentityFile::uuidFromIRI</a>()</code>
+* <code><a href="IdentityFile%3A%3AidentityFromUUID">IdentityFile::identityFromUUID</a>()</code>
+* <code><a href="IdentityFile%3A%3AcreateIdentity">IdentityFile::createIdentity</a>()</code>
 

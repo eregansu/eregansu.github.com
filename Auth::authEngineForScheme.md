@@ -1,6 +1,9 @@
 ---
 title: Auth::authEngineForScheme
+layout: default
 ---
+
+# Auth::authEngineForScheme
 
 ## Synopsis
 

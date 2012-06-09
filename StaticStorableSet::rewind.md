@@ -1,6 +1,9 @@
 ---
 title: StaticStorableSet::rewind
+layout: default
 ---
+
+# StaticStorableSet::rewind
 
 ## Synopsis
 

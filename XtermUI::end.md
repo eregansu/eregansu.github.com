@@ -1,6 +1,9 @@
 ---
 title: XtermUI::end
+layout: default
 ---
+
+# XtermUI::end
 
 ## Synopsis
 

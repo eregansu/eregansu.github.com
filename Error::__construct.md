@@ -1,6 +1,9 @@
 ---
 title: Error::__construct
+layout: default
 ---
+
+# Error::__construct
 
 ## Synopsis
 

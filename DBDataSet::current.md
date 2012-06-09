@@ -1,6 +1,9 @@
 ---
 title: DBDataSet::current
+layout: default
 ---
+
+# DBDataSet::current
 
 ## Synopsis
 

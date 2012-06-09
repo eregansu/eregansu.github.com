@@ -1,6 +1,9 @@
 ---
 title: IdentityDirectory::createIdentity
+layout: default
 ---
+
+# IdentityDirectory::createIdentity
 
 ## Synopsis
 

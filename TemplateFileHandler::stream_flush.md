@@ -1,6 +1,9 @@
 ---
 title: TemplateFileHandler::stream_flush
+layout: default
 ---
+
+# TemplateFileHandler::stream_flush
 
 ## Synopsis
 

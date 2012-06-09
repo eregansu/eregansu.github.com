@@ -1,6 +1,9 @@
 ---
 title: URI::__toString
+layout: default
 ---
+
+# URI::__toString
 
 ## Synopsis
 

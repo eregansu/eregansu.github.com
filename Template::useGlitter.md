@@ -1,6 +1,9 @@
 ---
 title: Template::useGlitter
+layout: default
 ---
+
+# Template::useGlitter
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Request::flush
+layout: default
 ---
+
+# Request::flush
 
 ## Synopsis
 

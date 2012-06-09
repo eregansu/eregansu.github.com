@@ -1,6 +1,9 @@
 ---
 title: RedlandJSONSerializer::__construct
+layout: default
 ---
+
+# RedlandJSONSerializer::__construct
 
 ## Synopsis
 

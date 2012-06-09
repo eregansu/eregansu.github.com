@@ -1,6 +1,9 @@
 ---
 title: Curl::exec
+layout: default
 ---
+
+# Curl::exec
 
 ## Synopsis
 

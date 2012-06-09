@@ -1,6 +1,9 @@
 ---
 title: IdentityFile::createIdentity
+layout: default
 ---
+
+# IdentityFile::createIdentity
 
 ## Synopsis
 

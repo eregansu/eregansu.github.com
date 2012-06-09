@@ -1,6 +1,9 @@
 ---
 title: Database::connect
+layout: default
 ---
+
+# Database::connect
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: XapianIndexer::__construct
+layout: default
 ---
+
+# XapianIndexer::__construct
 
 ## Synopsis
 

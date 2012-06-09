@@ -1,6 +1,9 @@
 ---
 title: IDirectoryService::insertAt
+layout: default
 ---
+
+# IDirectoryService::insertAt
 
 ## Synopsis
 

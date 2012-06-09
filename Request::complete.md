@@ -1,6 +1,9 @@
 ---
 title: Request::complete
+layout: default
 ---
+
+# Request::complete
 
 ## Synopsis
 

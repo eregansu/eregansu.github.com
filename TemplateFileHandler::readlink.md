@@ -1,6 +1,9 @@
 ---
 title: TemplateFileHandler::readlink
+layout: default
 ---
+
+# TemplateFileHandler::readlink
 
 ## Synopsis
 

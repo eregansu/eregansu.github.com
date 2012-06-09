@@ -1,6 +1,9 @@
 ---
 title: TestUuidFormatted::main
+layout: default
 ---
+
+# TestUuidFormatted::main
 
 ## Synopsis
 

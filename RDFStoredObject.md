@@ -1,16 +1,17 @@
 ---
 title: RDFStoredObject
+layout: default
 ---
 
-`RDFStoredObject` is a class derived from <a href="RDFInstance">RDFInstance</a>.
+# RDFStoredObject
+
+<code>RDFStoredObject</code> is a class derived from <a href="RDFInstance">RDFInstance</a>.
 
 ## Synopsis
 
-```php
-uses('rdfstore');
-```
-
+<pre><code>uses('rdfstore');
+</code></pre>
 ## Public Static Methods
 
-* `<a href="RDFStoredObject%3A%3AobjectForData">RDFStoredObject::objectForData</a>()`
+* <code><a href="RDFStoredObject%3A%3AobjectForData">RDFStoredObject::objectForData</a>()</code>
 

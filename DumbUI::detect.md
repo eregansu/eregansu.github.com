@@ -1,6 +1,9 @@
 ---
 title: DumbUI::detect
+layout: default
 ---
+
+# DumbUI::detect
 
 ## Synopsis
 

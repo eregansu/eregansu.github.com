@@ -1,6 +1,9 @@
 ---
 title: Store::updateObjectWithUUID
+layout: default
 ---
+
+# Store::updateObjectWithUUID
 
 ## Synopsis
 

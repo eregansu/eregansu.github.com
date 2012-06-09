@@ -1,6 +1,9 @@
 ---
 title: CliHelp::main
+layout: default
 ---
+
+# CliHelp::main
 
 ## Synopsis
 

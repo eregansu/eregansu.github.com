@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::predicateObjectList
+layout: default
 ---
+
+# RDFInstanceBase::predicateObjectList
 
 ## Synopsis
 

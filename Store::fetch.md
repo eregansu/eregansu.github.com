@@ -1,6 +1,9 @@
 ---
 title: Store::fetch
+layout: default
 ---
+
+# Store::fetch
 
 ## Synopsis
 

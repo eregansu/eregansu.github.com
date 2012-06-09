@@ -1,14 +1,15 @@
 ---
 title: Page
+layout: default
 ---
+
+# Page
 
 Templated web page generation.
 
-`Page` is a class derived from <a href="Proxy">Proxy</a>.
+<code>Page</code> is a class derived from <a href="Proxy">Proxy</a>.
 
 ## Synopsis
 
-```php
-uses('page');
-```
-
+<pre><code>uses('page');
+</code></pre>

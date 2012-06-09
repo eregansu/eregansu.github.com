@@ -1,6 +1,9 @@
 ---
 title: XtermUI::prompt
+layout: default
 ---
+
+# XtermUI::prompt
 
 ## Synopsis
 

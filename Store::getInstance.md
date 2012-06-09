@@ -1,6 +1,9 @@
 ---
 title: Store::getInstance
+layout: default
 ---
+
+# Store::getInstance
 
 ## Synopsis
 

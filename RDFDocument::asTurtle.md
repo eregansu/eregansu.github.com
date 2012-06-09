@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::asTurtle
+layout: default
 ---
+
+# RDFDocument::asTurtle
 
 ## Synopsis
 

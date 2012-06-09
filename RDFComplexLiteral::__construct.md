@@ -1,6 +1,9 @@
 ---
 title: RDFComplexLiteral::__construct
+layout: default
 ---
+
+# RDFComplexLiteral::__construct
 
 ## Synopsis
 

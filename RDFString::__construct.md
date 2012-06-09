@@ -1,6 +1,9 @@
 ---
 title: RDFString::__construct
+layout: default
 ---
+
+# RDFString::__construct
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Router::process
+layout: default
 ---
+
+# Router::process
 
 ## Synopsis
 

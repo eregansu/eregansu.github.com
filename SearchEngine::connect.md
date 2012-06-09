@@ -1,6 +1,9 @@
 ---
 title: SearchEngine::connect
+layout: default
 ---
+
+# SearchEngine::connect
 
 ## Synopsis
 

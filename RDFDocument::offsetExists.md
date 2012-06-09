@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::offsetExists
+layout: default
 ---
+
+# RDFDocument::offsetExists
 
 ## Synopsis
 

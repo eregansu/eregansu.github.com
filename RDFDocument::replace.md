@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::replace
+layout: default
 ---
+
+# RDFDocument::replace
 
 ## Synopsis
 

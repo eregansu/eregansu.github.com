@@ -1,6 +1,9 @@
 ---
 title: CSVImport::rewind
+layout: default
 ---
+
+# CSVImport::rewind
 
 Move the file pointer back to the beginning of the file.
 

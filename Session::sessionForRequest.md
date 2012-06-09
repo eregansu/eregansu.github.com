@@ -1,6 +1,9 @@
 ---
 title: Session::sessionForRequest
+layout: default
 ---
+
+# Session::sessionForRequest
 
 Return a Session instance associated with a a given request
 

@@ -1,6 +1,9 @@
 ---
 title: Module::getInstance
+layout: default
 ---
+
+# Module::getInstance
 
 ## Synopsis
 

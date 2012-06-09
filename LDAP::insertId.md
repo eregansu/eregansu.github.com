@@ -1,6 +1,9 @@
 ---
 title: LDAP::insertId
+layout: default
 ---
+
+# LDAP::insertId
 
 ## Synopsis
 

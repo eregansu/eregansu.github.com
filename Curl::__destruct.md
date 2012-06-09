@@ -1,6 +1,9 @@
 ---
 title: Curl::__destruct
+layout: default
 ---
+
+# Curl::__destruct
 
 ## Synopsis
 

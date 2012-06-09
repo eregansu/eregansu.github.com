@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::all
+layout: default
 ---
+
+# RDFInstanceBase::all
 
 ## Synopsis
 

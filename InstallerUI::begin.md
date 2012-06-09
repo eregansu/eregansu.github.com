@@ -1,6 +1,9 @@
 ---
 title: InstallerUI::begin
+layout: default
 ---
+
+# InstallerUI::begin
 
 ## Synopsis
 

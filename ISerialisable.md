@@ -1,19 +1,20 @@
 ---
 title: ISerialisable
+layout: default
 ---
+
+# ISerialisable
 
 The ISerialisable interface is implemented by classes which can serialise
 themselves.
 
-`ISerialisable` is a base interface.
+<code>ISerialisable</code> is a base interface.
 
 ## Synopsis
 
-```php
-require_once(dirname(__FILE__) . '/../eregansu/lib/common.php');
-```
-
+<pre><code>require_once(dirname(__FILE__) . '/../eregansu/lib/common.php');
+</code></pre>
 ## Public Methods
 
-* `<a href="ISerialisable%3A%3Aserialise">ISerialisable::serialise</a>()`
+* <code><a href="ISerialisable%3A%3Aserialise">ISerialisable::serialise</a>()</code>
 

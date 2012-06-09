@@ -1,6 +1,9 @@
 ---
 title: Form::cancel
+layout: default
 ---
+
+# Form::cancel
 
 ## Synopsis
 

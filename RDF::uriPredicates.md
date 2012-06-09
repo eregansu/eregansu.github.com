@@ -1,6 +1,9 @@
 ---
 title: RDF::uriPredicates
+layout: default
 ---
+
+# RDF::uriPredicates
 
 ## Synopsis
 

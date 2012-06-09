@@ -1,10 +1,13 @@
 ---
 title: TestMySQLConnect
+layout: default
 ---
 
-`TestMySQLConnect` is a class derived from <a href="TestHarness">TestHarness</a>.
+# TestMySQLConnect
+
+<code>TestMySQLConnect</code> is a class derived from <a href="TestHarness">TestHarness</a>.
 
 ## Public Methods
 
-* `<a href="TestMySQLConnect%3A%3Amain">TestMySQLConnect::main</a>()`
+* <code><a href="TestMySQLConnect%3A%3Amain">TestMySQLConnect::main</a>()</code>
 

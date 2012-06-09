@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::fetchSameAs
+layout: default
 ---
+
+# RDFInstanceBase::fetchSameAs
 
 ## Synopsis
 

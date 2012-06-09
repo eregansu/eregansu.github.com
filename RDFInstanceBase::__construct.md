@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::__construct
+layout: default
 ---
+
+# RDFInstanceBase::__construct
 
 ## Synopsis
 

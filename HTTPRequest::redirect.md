@@ -1,6 +1,9 @@
 ---
 title: HTTPRequest::redirect
+layout: default
 ---
+
+# HTTPRequest::redirect
 
 ## Synopsis
 

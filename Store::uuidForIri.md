@@ -1,6 +1,9 @@
 ---
 title: Store::uuidForIri
+layout: default
 ---
+
+# Store::uuidForIri
 
 Return the UUID of the object with the specified IRI, $iri.
 

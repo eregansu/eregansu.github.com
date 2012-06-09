@@ -1,6 +1,9 @@
 ---
 title: DBStorableSet::rewind
+layout: default
 ---
+
+# DBStorableSet::rewind
 
 ## Synopsis
 

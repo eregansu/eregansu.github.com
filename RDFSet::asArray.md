@@ -1,6 +1,9 @@
 ---
 title: RDFSet::asArray
+layout: default
 ---
+
+# RDFSet::asArray
 
 ## Synopsis
 

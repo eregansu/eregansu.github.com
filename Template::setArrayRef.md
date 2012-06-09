@@ -1,6 +1,9 @@
 ---
 title: Template::setArrayRef
+layout: default
 ---
+
+# Template::setArrayRef
 
 ## Synopsis
 

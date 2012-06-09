@@ -1,6 +1,9 @@
 ---
 title: DBStorableSet::key
+layout: default
 ---
+
+# DBStorableSet::key
 
 ## Synopsis
 

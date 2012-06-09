@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::offsetSet
+layout: default
 ---
+
+# RDFInstanceBase::offsetSet
 
 ## Synopsis
 

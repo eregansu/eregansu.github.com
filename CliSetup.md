@@ -1,11 +1,14 @@
 ---
 title: CliSetup
+layout: default
 ---
 
-`CliSetup` is a class derived from <a href="CommandLine">CommandLine</a>.
+# CliSetup
+
+<code>CliSetup</code> is a class derived from <a href="CommandLine">CommandLine</a>.
 
 ## Public Methods
 
-* `<a href="CliSetup%3A%3Amain">CliSetup::main</a>()`
-* `<a href="CliSetup%3A%3Adepend">CliSetup::depend</a>()`
+* <code><a href="CliSetup%3A%3Amain">CliSetup::main</a>()</code>
+* <code><a href="CliSetup%3A%3Adepend">CliSetup::depend</a>()</code>
 

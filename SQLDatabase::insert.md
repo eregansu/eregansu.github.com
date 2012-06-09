@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::insert
+layout: default
 ---
+
+# SQLDatabase::insert
 
 ## Synopsis
 

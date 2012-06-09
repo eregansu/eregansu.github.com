@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::serialise
+layout: default
 ---
+
+# RDFDocument::serialise
 
 ## Synopsis
 

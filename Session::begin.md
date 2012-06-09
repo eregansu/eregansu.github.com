@@ -1,6 +1,9 @@
 ---
 title: Session::begin
+layout: default
 ---
+
+# Session::begin
 
 Open the session data, so that changes can be made to it
 

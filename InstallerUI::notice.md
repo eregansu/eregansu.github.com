@@ -1,6 +1,9 @@
 ---
 title: InstallerUI::notice
+layout: default
 ---
+
+# InstallerUI::notice
 
 ## Synopsis
 

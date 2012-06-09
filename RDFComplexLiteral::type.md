@@ -1,6 +1,9 @@
 ---
 title: RDFComplexLiteral::type
+layout: default
 ---
+
+# RDFComplexLiteral::type
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: DBStorableSet::__construct
+layout: default
 ---
+
+# DBStorableSet::__construct
 
 ## Synopsis
 

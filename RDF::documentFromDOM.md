@@ -1,6 +1,9 @@
 ---
 title: RDF::documentFromDOM
+layout: default
 ---
+
+# RDF::documentFromDOM
 
 Create a new `<a href="RDFDocument">RDFDocument</a>` given an RDF/XML `<a href="DOMElement">DOMElement</a>`.
 

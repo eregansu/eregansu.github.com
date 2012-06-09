@@ -1,6 +1,9 @@
 ---
 title: DBSchema::dropTable
+layout: default
 ---
+
+# DBSchema::dropTable
 
 ## Synopsis
 

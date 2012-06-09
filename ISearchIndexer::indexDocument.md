@@ -1,6 +1,9 @@
 ---
 title: ISearchIndexer::indexDocument
+layout: default
 ---
+
+# ISearchIndexer::indexDocument
 
 ## Synopsis
 

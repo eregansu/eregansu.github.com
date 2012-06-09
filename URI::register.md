@@ -1,6 +1,9 @@
 ---
 title: URI::register
+layout: default
 ---
+
+# URI::register
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::asJSONLD
+layout: default
 ---
+
+# RDFInstanceBase::asJSONLD
 
 ## Synopsis
 

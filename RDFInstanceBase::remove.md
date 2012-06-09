@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::remove
+layout: default
 ---
+
+# RDFInstanceBase::remove
 
 ## Synopsis
 

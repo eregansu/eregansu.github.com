@@ -1,6 +1,9 @@
 ---
 title: BuiltinAuth::__construct
+layout: default
 ---
+
+# BuiltinAuth::__construct
 
 ## Synopsis
 

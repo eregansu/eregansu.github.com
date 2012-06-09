@@ -1,6 +1,9 @@
 ---
 title: RDF::documentFromURL
+layout: default
 ---
+
+# RDF::documentFromURL
 
 ## Synopsis
 

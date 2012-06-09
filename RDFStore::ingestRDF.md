@@ -1,6 +1,9 @@
 ---
 title: RDFStore::ingestRDF
+layout: default
 ---
+
+# RDFStore::ingestRDF
 
 ## Synopsis
 

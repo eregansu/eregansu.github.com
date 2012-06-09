@@ -1,6 +1,9 @@
 ---
 title: MySQL::selectDatabase
+layout: default
 ---
+
+# MySQL::selectDatabase
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Session::commit
+layout: default
 ---
+
+# Session::commit
 
 Commit changes to the session data
 

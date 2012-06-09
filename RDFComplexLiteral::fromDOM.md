@@ -1,6 +1,9 @@
 ---
 title: RDFComplexLiteral::fromDOM
+layout: default
 ---
+
+# RDFComplexLiteral::fromDOM
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Store::markAllAsDirty
+layout: default
 ---
+
+# Store::markAllAsDirty
 
 ## Synopsis
 

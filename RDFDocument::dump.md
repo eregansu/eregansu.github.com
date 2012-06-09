@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::dump
+layout: default
 ---
+
+# RDFDocument::dump
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: XMLParser::byteIndex
+layout: default
 ---
+
+# XMLParser::byteIndex
 
 ## Synopsis
 

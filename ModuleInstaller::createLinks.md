@@ -1,6 +1,9 @@
 ---
 title: ModuleInstaller::createLinks
+layout: default
 ---
+
+# ModuleInstaller::createLinks
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::asN3
+layout: default
 ---
+
+# RDFDocument::asN3
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: EregansuDateTime::parse
+layout: default
 ---
+
+# EregansuDateTime::parse
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: XapianSearch::query
+layout: default
 ---
+
+# XapianSearch::query
 
 ## Synopsis
 

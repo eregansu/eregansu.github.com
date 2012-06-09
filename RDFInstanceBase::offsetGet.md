@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::offsetGet
+layout: default
 ---
+
+# RDFInstanceBase::offsetGet
 
 ## Synopsis
 

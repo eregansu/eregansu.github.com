@@ -1,6 +1,9 @@
 ---
 title: MySQL::row
+layout: default
 ---
+
+# MySQL::row
 
 ## Synopsis
 

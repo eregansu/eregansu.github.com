@@ -1,6 +1,9 @@
 ---
 title: RDFURI::__set
+layout: default
 ---
+
+# RDFURI::__set
 
 ## Synopsis
 

@@ -1,21 +1,22 @@
 ---
 title: Error
+layout: default
 ---
 
-`Error` is a class derived from <a href="TerminalErrorException">TerminalErrorException</a>.
+# Error
+
+<code>Error</code> is a class derived from <a href="TerminalErrorException">TerminalErrorException</a>.
 
 ## Synopsis
 
-```php
-uses('error');
-```
-
+<pre><code>uses('error');
+</code></pre>
 ## Public Static Methods
 
-* `<a href="Error%3A%3Abacktrace">Error::backtrace</a>()`
+* <code><a href="Error%3A%3Abacktrace">Error::backtrace</a>()</code>
 
 ## Public Methods
 
-* `<a href="Error%3A%3A__construct">Error::__construct</a>()`
-* `<a href="Error%3A%3Aprocess">Error::process</a>()`
+* <code><a href="Error%3A%3A__construct">Error::__construct</a>()</code>
+* <code><a href="Error%3A%3Aprocess">Error::process</a>()</code>
 

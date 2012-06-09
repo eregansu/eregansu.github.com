@@ -1,6 +1,9 @@
 ---
 title: RedlandRDFXMLParser::__construct
+layout: default
 ---
+
+# RedlandRDFXMLParser::__construct
 
 ## Synopsis
 

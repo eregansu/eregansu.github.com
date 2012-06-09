@@ -1,6 +1,9 @@
 ---
 title: Auth::verifyToken
+layout: default
 ---
+
+# Auth::verifyToken
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: RDF::documentFromFile
+layout: default
 ---
+
+# RDF::documentFromFile
 
 ## Synopsis
 

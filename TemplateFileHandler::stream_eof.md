@@ -1,6 +1,9 @@
 ---
 title: TemplateFileHandler::stream_eof
+layout: default
 ---
+
+# TemplateFileHandler::stream_eof
 
 ## Synopsis
 

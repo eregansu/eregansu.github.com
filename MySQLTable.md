@@ -1,6 +1,9 @@
 ---
 title: MySQLTable
+layout: default
 ---
 
-`MySQLTable` is a class derived from <a href="DBTable">DBTable</a>.
+# MySQLTable
+
+<code>MySQLTable</code> is a class derived from <a href="DBTable">DBTable</a>.
 

@@ -1,6 +1,9 @@
 ---
 title: UUID::generate
+layout: default
 ---
+
+# UUID::generate
 
 Generate a new UUID
 
@@ -12,12 +15,12 @@ Generate a new UUID
 
 `UUID::generate()` generates a new UUID according to <a href="http://www.ietf.org/rfc/rfc4122.txt">RFC 4122</a> (equivalent to
 ITU-T Rec. X.667, ISO/IEC 9834-8:2005).
-If the kind of UUID specified by `$kind` cannot be generated
+If the kind of UUID specified by <code class="keyword">$kind</code> cannot be generated
 because it is not supported, a random (v4) UUID will be generated instead (in other
-words, the `$kind` parameter is a hint).
-If the kind of UUID specified by `$kind` cannot be generated
-because one or both of `$namespace` and `$name`
-are not valid, an error occurs and `null` is returned.
+words, the <code class="keyword">$kind</code> parameter is a hint).
+If the kind of UUID specified by <code class="keyword">$kind</code> cannot be generated
+because one or both of <code class="keyword">$namespace</code> and <code class="keyword">$name</code>
+are not valid, an error occurs and <code class="keyword">null</code> is returned.
 
 ## Parameters
 
@@ -60,5 +63,5 @@ For MD5 (v3) and SHA1 (v5) UUIDs, the identifier used to generate the UUID.
 
 ## Return Value
 
-A new UUID, or `null` if an error occurs.
+A new UUID, or <code class="keyword">null</code> if an error occurs.
 

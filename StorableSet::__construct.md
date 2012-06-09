@@ -1,6 +1,9 @@
 ---
 title: StorableSet::__construct
+layout: default
 ---
+
+# StorableSet::__construct
 
 ## Synopsis
 

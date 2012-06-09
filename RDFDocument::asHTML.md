@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::asHTML
+layout: default
 ---
+
+# RDFDocument::asHTML
 
 ## Synopsis
 

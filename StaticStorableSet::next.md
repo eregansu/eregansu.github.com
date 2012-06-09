@@ -1,6 +1,9 @@
 ---
 title: StaticStorableSet::next
+layout: default
 ---
+
+# StaticStorableSet::next
 
 ## Synopsis
 

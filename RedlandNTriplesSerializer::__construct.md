@@ -1,6 +1,9 @@
 ---
 title: RedlandNTriplesSerializer::__construct
+layout: default
 ---
+
+# RedlandNTriplesSerializer::__construct
 
 ## Synopsis
 

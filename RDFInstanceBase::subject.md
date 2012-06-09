@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::subject
+layout: default
 ---
+
+# RDFInstanceBase::subject
 
 ## Synopsis
 

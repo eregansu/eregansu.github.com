@@ -1,6 +1,9 @@
 ---
 title: ISQLDatabase::exec
+layout: default
 ---
+
+# ISQLDatabase::exec
 
 ## Synopsis
 

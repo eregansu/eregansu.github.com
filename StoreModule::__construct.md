@@ -1,6 +1,9 @@
 ---
 title: StoreModule::__construct
+layout: default
 ---
+
+# StoreModule::__construct
 
 ## Synopsis
 

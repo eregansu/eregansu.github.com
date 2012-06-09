@@ -1,6 +1,9 @@
 ---
 title: BuiltinAuth::retrieveUserData
+layout: default
 ---
+
+# BuiltinAuth::retrieveUserData
 
 ## Synopsis
 

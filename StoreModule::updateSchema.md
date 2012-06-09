@@ -1,6 +1,9 @@
 ---
 title: StoreModule::updateSchema
+layout: default
 ---
+
+# StoreModule::updateSchema
 
 ## Synopsis
 

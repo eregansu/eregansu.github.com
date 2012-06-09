@@ -1,6 +1,9 @@
 ---
 title: Request::negotiate
+layout: default
 ---
+
+# Request::negotiate
 
 Attempt to perform content negotiation.
 

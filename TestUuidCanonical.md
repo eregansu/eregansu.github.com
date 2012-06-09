@@ -1,10 +1,13 @@
 ---
 title: TestUuidCanonical
+layout: default
 ---
 
-`TestUuidCanonical` is a class derived from <a href="TestHarness">TestHarness</a>.
+# TestUuidCanonical
+
+<code>TestUuidCanonical</code> is a class derived from <a href="TestHarness">TestHarness</a>.
 
 ## Public Methods
 
-* `<a href="TestUuidCanonical%3A%3Amain">TestUuidCanonical::main</a>()`
+* <code><a href="TestUuidCanonical%3A%3Amain">TestUuidCanonical::main</a>()</code>
 

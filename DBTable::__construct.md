@@ -1,6 +1,9 @@
 ---
 title: DBTable::__construct
+layout: default
 ---
+
+# DBTable::__construct
 
 ## Synopsis
 

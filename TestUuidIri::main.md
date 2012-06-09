@@ -1,6 +1,9 @@
 ---
 title: TestUuidIri::main
+layout: default
 ---
+
+# TestUuidIri::main
 
 ## Synopsis
 

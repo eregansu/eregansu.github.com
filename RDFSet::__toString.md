@@ -1,6 +1,9 @@
 ---
 title: RDFSet::__toString
+layout: default
 ---
+
+# RDFSet::__toString
 
 ## Synopsis
 

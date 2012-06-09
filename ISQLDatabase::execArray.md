@@ -1,6 +1,9 @@
 ---
 title: ISQLDatabase::execArray
+layout: default
 ---
+
+# ISQLDatabase::execArray
 
 ## Synopsis
 

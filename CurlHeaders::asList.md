@@ -1,6 +1,9 @@
 ---
 title: CurlHeaders::asList
+layout: default
 ---
+
+# CurlHeaders::asList
 
 ## Synopsis
 

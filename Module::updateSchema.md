@@ -1,6 +1,9 @@
 ---
 title: Module::updateSchema
+layout: default
 ---
+
+# Module::updateSchema
 
 ## Synopsis
 

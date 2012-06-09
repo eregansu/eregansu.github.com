@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::subjectsReferencing
+layout: default
 ---
+
+# RDFDocument::subjectsReferencing
 
 ## Synopsis
 

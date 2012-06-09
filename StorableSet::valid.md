@@ -1,6 +1,9 @@
 ---
 title: StorableSet::valid
+layout: default
 ---
+
+# StorableSet::valid
 
 ## Synopsis
 

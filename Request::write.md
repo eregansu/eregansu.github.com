@@ -1,6 +1,9 @@
 ---
 title: Request::write
+layout: default
 ---
+
+# Request::write
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: TemplateFileHandler::mkdir
+layout: default
 ---
+
+# TemplateFileHandler::mkdir
 
 ## Synopsis
 

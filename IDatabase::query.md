@@ -1,6 +1,9 @@
 ---
 title: IDatabase::query
+layout: default
 ---
+
+# IDatabase::query
 
 ## Synopsis
 

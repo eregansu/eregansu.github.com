@@ -1,6 +1,9 @@
 ---
 title: CSVImport::rowFlat
+layout: default
 ---
+
+# CSVImport::rowFlat
 
 Read a row from the CSV file without mapping columns to fields.
 
@@ -12,6 +15,6 @@ Read a row from the CSV file without mapping columns to fields.
 
 ## Return Value
 
-An indexed array of values read from the file, or `null` if
+An indexed array of values read from the file, or <code class="keyword">null</code> if
 the end of file is reached.
 

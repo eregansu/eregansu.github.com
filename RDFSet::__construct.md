@@ -1,6 +1,9 @@
 ---
 title: RDFSet::__construct
+layout: default
 ---
+
+# RDFSet::__construct
 
 ## Synopsis
 

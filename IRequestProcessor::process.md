@@ -1,6 +1,9 @@
 ---
 title: IRequestProcessor::process
+layout: default
 ---
+
+# IRequestProcessor::process
 
 ## Synopsis
 

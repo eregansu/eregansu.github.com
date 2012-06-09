@@ -1,6 +1,9 @@
 ---
 title: ISQLDatabase::alias
+layout: default
 ---
+
+# ISQLDatabase::alias
 
 ## Synopsis
 

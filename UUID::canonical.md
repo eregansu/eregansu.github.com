@@ -1,6 +1,9 @@
 ---
 title: UUID::canonical
+layout: default
 ---
+
+# UUID::canonical
 
 Return the canonical form of a UUID string (i.e., no braces, no dashes, all lower-case)
 
@@ -13,8 +16,8 @@ Return the canonical form of a UUID string (i.e., no braces, no dashes, all lowe
 `UUID::canonical()` accepts a string representation of a UUID (for example, as returned by
 `<a href="UUID%3A%3Agenerate">UUID::generate</a>()`) and returns the canonical form of the UUID: that is, all-lowercase, and with
 any braces and dashes removed.
-For example, the canonical form of the UUID string ``}
-would be `'eae58635b82642a99b033a3ac8a2cc29'`.
+For example, the canonical form of the UUID string <code></code>}
+would be <code>'eae58635b82642a99b033a3ac8a2cc29'</code>.
 
 ## Parameters
 
@@ -41,5 +44,5 @@ A string representation of a UUID.
 
 ## Return Value
 
-The canonical form of the UUID, or `null` if `$uuid` is not a valid UUID string.
+The canonical form of the UUID, or <code class="keyword">null</code> if <code class="keyword">$uuid</code> is not a valid UUID string.
 

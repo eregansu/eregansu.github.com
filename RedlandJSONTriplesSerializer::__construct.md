@@ -1,6 +1,9 @@
 ---
 title: RedlandJSONTriplesSerializer::__construct
+layout: default
 ---
+
+# RedlandJSONTriplesSerializer::__construct
 
 ## Synopsis
 

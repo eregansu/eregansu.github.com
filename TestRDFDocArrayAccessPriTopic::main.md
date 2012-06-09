@@ -1,6 +1,9 @@
 ---
 title: TestRDFDocArrayAccessPriTopic::main
+layout: default
 ---
+
+# TestRDFDocArrayAccessPriTopic::main
 
 ## Synopsis
 

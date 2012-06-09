@@ -1,6 +1,9 @@
 ---
 title: Store::pendingObjectsSet
+layout: default
 ---
+
+# Store::pendingObjectsSet
 
 ## Synopsis
 

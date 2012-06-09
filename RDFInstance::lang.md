@@ -1,6 +1,9 @@
 ---
 title: RDFInstance::lang
+layout: default
 ---
+
+# RDFInstance::lang
 
 ## Synopsis
 

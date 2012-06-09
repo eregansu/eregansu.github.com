@@ -1,6 +1,9 @@
 ---
 title: URI::handlerForScheme
+layout: default
 ---
+
+# URI::handlerForScheme
 
 ## Synopsis
 

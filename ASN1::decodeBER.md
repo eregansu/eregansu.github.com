@@ -1,6 +1,9 @@
 ---
 title: ASN1::decodeBER
+layout: default
 ---
+
+# ASN1::decodeBER
 
 Decode a BER-encoded ASN.1 structure.
 
@@ -16,12 +19,12 @@ Decode a BER-encoded ASN.1 structure.
 structure which was encoded using the Basic Encoding Rules (BER), such
 as X.509 certificate data.
 Each member of the returned array is itself an associative array with
-the following fields: `$type`, `$pc`, `$class`, `$len`,
-and `$data` (note that `$data` is base-64 encoded).
-For entries which are sequences, the `$sequence` member is an
+the following fields: <code>$type</code>, <code>$pc</code>, <code>$class</code>, <code>$len</code>,
+and <code>$data</code> (note that <code>$data</code> is base-64 encoded).
+For entries which are sequences, the <code>$sequence</code> member is an
 indexed array of structures.
-For entries which are bit-strings, the `$value` member is set to the
-value of the bit-string, and the `$unused` member is set to the
+For entries which are bit-strings, the <code>$value</code> member is set to the
+value of the bit-string, and the <code>$unused</code> member is set to the
 number of leading unused bits in the string.
 
 ## Parameters

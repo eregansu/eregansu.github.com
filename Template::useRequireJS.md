@@ -1,6 +1,9 @@
 ---
 title: Template::useRequireJS
+layout: default
 ---
+
+# Template::useRequireJS
 
 ## Synopsis
 

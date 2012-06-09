@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::asJSONLD
+layout: default
 ---
+
+# RDFDocument::asJSONLD
 
 ## Synopsis
 

@@ -1,18 +1,21 @@
 ---
 title: RDFComplexLiteral
+layout: default
 ---
 
-`RDFComplexLiteral` is a class derived from <a href="RedlandNode">RedlandNode</a>.
+# RDFComplexLiteral
+
+<code>RDFComplexLiteral</code> is a class derived from <a href="RedlandNode">RedlandNode</a>.
 
 ## Public Static Methods
 
-* `<a href="RDFComplexLiteral%3A%3Aliteral">RDFComplexLiteral::literal</a>()`
+* <code><a href="RDFComplexLiteral%3A%3Aliteral">RDFComplexLiteral::literal</a>()</code>
 
 ## Public Methods
 
-* `<a href="RDFComplexLiteral%3A%3A__construct">RDFComplexLiteral::__construct</a>()`
-* `<a href="RDFComplexLiteral%3A%3Alang">RDFComplexLiteral::lang</a>()`
-* `<a href="RDFComplexLiteral%3A%3Atype">RDFComplexLiteral::type</a>()`
-* `<a href="RDFComplexLiteral%3A%3A__toString">RDFComplexLiteral::__toString</a>()`
-* `<a href="RDFComplexLiteral%3A%3AasJSONLD">RDFComplexLiteral::asJSONLD</a>()`
+* <code><a href="RDFComplexLiteral%3A%3A__construct">RDFComplexLiteral::__construct</a>()</code>
+* <code><a href="RDFComplexLiteral%3A%3Alang">RDFComplexLiteral::lang</a>()</code>
+* <code><a href="RDFComplexLiteral%3A%3Atype">RDFComplexLiteral::type</a>()</code>
+* <code><a href="RDFComplexLiteral%3A%3A__toString">RDFComplexLiteral::__toString</a>()</code>
+* <code><a href="RDFComplexLiteral%3A%3AasJSONLD">RDFComplexLiteral::asJSONLD</a>()</code>
 

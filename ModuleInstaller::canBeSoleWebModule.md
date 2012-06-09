@@ -1,6 +1,9 @@
 ---
 title: ModuleInstaller::canBeSoleWebModule
+layout: default
 ---
+
+# ModuleInstaller::canBeSoleWebModule
 
 ## Synopsis
 

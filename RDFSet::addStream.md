@@ -1,6 +1,9 @@
 ---
 title: RDFSet::addStream
+layout: default
 ---
+
+# RDFSet::addStream
 
 ## Synopsis
 

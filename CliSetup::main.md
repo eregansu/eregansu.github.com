@@ -1,6 +1,9 @@
 ---
 title: CliSetup::main
+layout: default
 ---
+
+# CliSetup::main
 
 ## Synopsis
 

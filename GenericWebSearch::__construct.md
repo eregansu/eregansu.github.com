@@ -1,6 +1,9 @@
 ---
 title: GenericWebSearch::__construct
+layout: default
 ---
+
+# GenericWebSearch::__construct
 
 ## Synopsis
 

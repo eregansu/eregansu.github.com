@@ -1,6 +1,9 @@
 ---
 title: RDFSet::add
+layout: default
 ---
+
+# RDFSet::add
 
 ## Synopsis
 

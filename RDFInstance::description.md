@@ -1,6 +1,9 @@
 ---
 title: RDFInstance::description
+layout: default
 ---
+
+# RDFInstance::description
 
 ## Synopsis
 

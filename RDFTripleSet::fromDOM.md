@@ -1,6 +1,9 @@
 ---
 title: RDFTripleSet::fromDOM
+layout: default
 ---
+
+# RDFTripleSet::fromDOM
 
 ## Synopsis
 

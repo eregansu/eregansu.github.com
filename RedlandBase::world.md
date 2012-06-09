@@ -1,6 +1,9 @@
 ---
 title: RedlandBase::world
+layout: default
 ---
+
+# RedlandBase::world
 
 ## Synopsis
 

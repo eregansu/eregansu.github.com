@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::subjectUris
+layout: default
 ---
+
+# RDFDocument::subjectUris
 
 ## Synopsis
 

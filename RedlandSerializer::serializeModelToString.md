@@ -1,6 +1,9 @@
 ---
 title: RedlandSerializer::serializeModelToString
+layout: default
 ---
+
+# RedlandSerializer::serializeModelToString
 
 ## Synopsis
 

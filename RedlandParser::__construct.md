@@ -1,6 +1,9 @@
 ---
 title: RedlandParser::__construct
+layout: default
 ---
+
+# RedlandParser::__construct
 
 ## Synopsis
 

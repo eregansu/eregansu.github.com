@@ -1,6 +1,9 @@
 ---
 title: DBDataSet::__construct
+layout: default
 ---
+
+# DBDataSet::__construct
 
 ## Synopsis
 

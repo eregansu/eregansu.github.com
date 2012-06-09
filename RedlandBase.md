@@ -1,14 +1,17 @@
 ---
 title: RedlandBase
+layout: default
 ---
 
-`RedlandBase` is an abstract base class.
+# RedlandBase
+
+<code>RedlandBase</code> is an abstract base class.
 
 ## Public Static Methods
 
-* `<a href="RedlandBase%3A%3Aworld">RedlandBase::world</a>()`
+* <code><a href="RedlandBase%3A%3Aworld">RedlandBase::world</a>()</code>
 
 ## Public Methods
 
-* `<a href="RedlandBase%3A%3A__call">RedlandBase::__call</a>()`
+* <code><a href="RedlandBase%3A%3A__call">RedlandBase::__call</a>()</code>
 

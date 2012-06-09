@@ -1,18 +1,19 @@
 ---
 title: Router
+layout: default
 ---
+
+# Router
 
 A routable class capable of passing a request to child routes.
 
-`Router` is a class derived from <a href="Routable">Routable</a>.
+<code>Router</code> is a class derived from <a href="Routable">Routable</a>.
 
 ## Synopsis
 
-```php
-uses('routable');
-```
-
+<pre><code>uses('routable');
+</code></pre>
 ## Public Methods
 
-* `<a href="Router%3A%3Aprocess">Router::process</a>()`
+* <code><a href="Router%3A%3Aprocess">Router::process</a>()</code>
 

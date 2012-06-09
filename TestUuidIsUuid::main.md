@@ -1,6 +1,9 @@
 ---
 title: TestUuidIsUuid::main
+layout: default
 ---
+
+# TestUuidIsUuid::main
 
 ## Synopsis
 

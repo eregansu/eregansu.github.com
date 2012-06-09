@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::merge
+layout: default
 ---
+
+# RDFDocument::merge
 
 ## Synopsis
 

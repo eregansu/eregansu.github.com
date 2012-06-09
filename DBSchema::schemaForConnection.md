@@ -1,6 +1,9 @@
 ---
 title: DBSchema::schemaForConnection
+layout: default
 ---
+
+# DBSchema::schemaForConnection
 
 ## Synopsis
 

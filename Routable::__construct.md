@@ -1,6 +1,9 @@
 ---
 title: Routable::__construct
+layout: default
 ---
+
+# Routable::__construct
 
 Initialise a `<a href="Routable">Routable</a>` instance.
 

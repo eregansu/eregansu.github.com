@@ -1,16 +1,17 @@
 ---
 title: TerminalErrorException
+layout: default
 ---
 
-`TerminalErrorException` is a class derived from <a href="Exception">Exception</a>.
+# TerminalErrorException
+
+<code>TerminalErrorException</code> is a class derived from <a href="Exception">Exception</a>.
 
 ## Synopsis
 
-```php
-uses('error');
-```
-
+<pre><code>uses('error');
+</code></pre>
 ## Public Methods
 
-* `<a href="TerminalErrorException%3A%3Aprocess">TerminalErrorException::process</a>()`
+* <code><a href="TerminalErrorException%3A%3Aprocess">TerminalErrorException::process</a>()</code>
 

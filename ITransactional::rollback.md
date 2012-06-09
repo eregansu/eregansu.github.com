@@ -1,6 +1,9 @@
 ---
 title: ITransactional::rollback
+layout: default
 ---
+
+# ITransactional::rollback
 
 ## Synopsis
 

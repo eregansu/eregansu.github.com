@@ -1,6 +1,9 @@
 ---
 title: RDFStore::subjectOfObject
+layout: default
 ---
+
+# RDFStore::subjectOfObject
 
 ## Synopsis
 

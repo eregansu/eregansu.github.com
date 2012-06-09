@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::node
+layout: default
 ---
+
+# RDFInstanceBase::node
 
 ## Synopsis
 

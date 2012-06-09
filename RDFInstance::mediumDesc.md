@@ -1,6 +1,9 @@
 ---
 title: RDFInstance::mediumDesc
+layout: default
 ---
+
+# RDFInstance::mediumDesc
 
 ## Synopsis
 

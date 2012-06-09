@@ -1,6 +1,9 @@
 ---
 title: RDFURI::__construct
+layout: default
 ---
+
+# RDFURI::__construct
 
 ## Synopsis
 

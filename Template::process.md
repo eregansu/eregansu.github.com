@@ -1,6 +1,9 @@
 ---
 title: Template::process
+layout: default
 ---
+
+# Template::process
 
 ## Synopsis
 

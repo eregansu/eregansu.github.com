@@ -1,6 +1,9 @@
 ---
 title: RedlandBase::__call
+layout: default
 ---
+
+# RedlandBase::__call
 
 ## Synopsis
 

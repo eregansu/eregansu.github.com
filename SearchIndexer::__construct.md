@@ -1,6 +1,9 @@
 ---
 title: SearchIndexer::__construct
+layout: default
 ---
+
+# SearchIndexer::__construct
 
 ## Synopsis
 

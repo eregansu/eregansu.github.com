@@ -1,6 +1,9 @@
 ---
 title: TestUuidGen::main
+layout: default
 ---
+
+# TestUuidGen::main
 
 ## Synopsis
 

@@ -1,10 +1,13 @@
 ---
 title: TestUriContract
+layout: default
 ---
 
-`TestUriContract` is a class derived from <a href="TestHarness">TestHarness</a>.
+# TestUriContract
+
+<code>TestUriContract</code> is a class derived from <a href="TestHarness">TestHarness</a>.
 
 ## Public Methods
 
-* `<a href="TestUriContract%3A%3Amain">TestUriContract::main</a>()`
+* <code><a href="TestUriContract%3A%3Amain">TestUriContract::main</a>()</code>
 

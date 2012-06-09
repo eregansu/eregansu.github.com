@@ -1,6 +1,9 @@
 ---
 title: MIME::extForType
+layout: default
 ---
+
+# MIME::extForType
 
 Return the preferred file extension for a specified MIME type
 
@@ -48,5 +51,5 @@ The MIME type to resolve to an extension
 
 ## Return Value
 
-string The preferred file extension for `$type`, or an empty string if no mapping exists.
+string The preferred file extension for <code class="keyword">$type</code>, or an empty string if no mapping exists.
 

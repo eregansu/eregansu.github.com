@@ -1,6 +1,9 @@
 ---
 title: GenericWebSearch::query
+layout: default
 ---
+
+# GenericWebSearch::query
 
 ## Synopsis
 

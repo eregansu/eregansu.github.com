@@ -1,6 +1,9 @@
 ---
 title: TestUuidGenMD5::main
+layout: default
 ---
+
+# TestUuidGenMD5::main
 
 ## Synopsis
 

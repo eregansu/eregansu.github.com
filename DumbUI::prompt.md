@@ -1,6 +1,9 @@
 ---
 title: DumbUI::prompt
+layout: default
 ---
+
+# DumbUI::prompt
 
 ## Synopsis
 

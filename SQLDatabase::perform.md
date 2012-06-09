@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::perform
+layout: default
 ---
+
+# SQLDatabase::perform
 
 ## Synopsis
 

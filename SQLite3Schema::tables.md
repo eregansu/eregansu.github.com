@@ -1,6 +1,9 @@
 ---
 title: SQLite3Schema::tables
+layout: default
 ---
+
+# SQLite3Schema::tables
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Storable::offsetExists
+layout: default
 ---
+
+# Storable::offsetExists
 
 ## Synopsis
 

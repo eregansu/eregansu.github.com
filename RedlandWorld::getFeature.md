@@ -1,6 +1,9 @@
 ---
 title: RedlandWorld::getFeature
+layout: default
 ---
+
+# RedlandWorld::getFeature
 
 ## Synopsis
 

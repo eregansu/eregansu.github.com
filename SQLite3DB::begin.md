@@ -1,6 +1,9 @@
 ---
 title: SQLite3DB::begin
+layout: default
 ---
+
+# SQLite3DB::begin
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Template::useJQuery
+layout: default
 ---
+
+# Template::useJQuery
 
 ## Synopsis
 

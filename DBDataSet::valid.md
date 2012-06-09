@@ -1,6 +1,9 @@
 ---
 title: DBDataSet::valid
+layout: default
 ---
+
+# DBDataSet::valid
 
 ## Synopsis
 

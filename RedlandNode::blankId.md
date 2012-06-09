@@ -1,6 +1,9 @@
 ---
 title: RedlandNode::blankId
+layout: default
 ---
+
+# RedlandNode::blankId
 
 ## Synopsis
 

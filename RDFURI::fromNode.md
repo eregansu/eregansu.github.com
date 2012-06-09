@@ -1,6 +1,9 @@
 ---
 title: RDFURI::fromNode
+layout: default
 ---
+
+# RDFURI::fromNode
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Auth::__construct
+layout: default
 ---
+
+# Auth::__construct
 
 ## Synopsis
 

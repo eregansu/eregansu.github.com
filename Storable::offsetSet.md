@@ -1,6 +1,9 @@
 ---
 title: Storable::offsetSet
+layout: default
 ---
+
+# Storable::offsetSet
 
 ## Synopsis
 

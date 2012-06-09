@@ -1,6 +1,9 @@
 ---
 title: UUID::formatted
+layout: default
 ---
+
+# UUID::formatted
 
 Format a UUID in the traditional aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee form
 
@@ -12,7 +15,7 @@ Format a UUID in the traditional aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee form
 
 `<a href="UUID%3A%3Airi">UUID::iri</a>()` converts a string representation of a UUID in the
 traditional form.
-For example, the null UUID converted to an IRI would be `00000000-0000-0000-0000-000000000000`.
+For example, the null UUID converted to an IRI would be <code>00000000-0000-0000-0000-000000000000</code>.
 
 ## Parameters
 
@@ -55,5 +58,5 @@ A string representation of a UUID
 
 ## Return Value
 
-The IRI representation of `$uuid`, or `null` if `$uuid` is not a valid UUID string.
+The IRI representation of <code class="keyword">$uuid</code>, or <code class="keyword">null</code> if <code class="keyword">$uuid</code> is not a valid UUID string.
 

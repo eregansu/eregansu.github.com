@@ -1,6 +1,9 @@
 ---
 title: RedlandNode::isBlank
+layout: default
 ---
+
+# RedlandNode::isBlank
 
 ## Synopsis
 

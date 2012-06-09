@@ -1,6 +1,9 @@
 ---
 title: CSVImport::__construct
+layout: default
 ---
+
+# CSVImport::__construct
 
 Initialise a `<a href="CSVImport">CSVImport</a>` instance.
 

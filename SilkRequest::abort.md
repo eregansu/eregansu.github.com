@@ -1,6 +1,9 @@
 ---
 title: SilkRequest::abort
+layout: default
 ---
+
+# SilkRequest::abort
 
 ## Synopsis
 

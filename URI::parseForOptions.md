@@ -1,6 +1,9 @@
 ---
 title: URI::parseForOptions
+layout: default
 ---
+
+# URI::parseForOptions
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: MySQL::quoteRef
+layout: default
 ---
+
+# MySQL::quoteRef
 
 ## Synopsis
 

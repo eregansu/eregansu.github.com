@@ -1,6 +1,9 @@
 ---
 title: RDFComplexLiteral::__toString
+layout: default
 ---
+
+# RDFComplexLiteral::__toString
 
 ## Synopsis
 

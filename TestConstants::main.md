@@ -1,6 +1,9 @@
 ---
 title: TestConstants::main
+layout: default
 ---
+
+# TestConstants::main
 
 ## Synopsis
 

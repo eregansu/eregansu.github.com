@@ -1,6 +1,9 @@
 ---
 title: RDFSet::count
+layout: default
 ---
+
+# RDFSet::count
 
 ## Synopsis
 

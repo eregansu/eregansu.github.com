@@ -1,18 +1,19 @@
 ---
 title: IRequestProcessor
+layout: default
 ---
+
+# IRequestProcessor
 
 The interface implemented by all classes which can process requests.
 
-`IRequestProcessor` is a base interface.
+<code>IRequestProcessor</code> is a base interface.
 
 ## Synopsis
 
-```php
-uses('routable');
-```
-
+<pre><code>uses('routable');
+</code></pre>
 ## Public Methods
 
-* `<a href="IRequestProcessor%3A%3Aprocess">IRequestProcessor::process</a>()`
+* <code><a href="IRequestProcessor%3A%3Aprocess">IRequestProcessor::process</a>()</code>
 

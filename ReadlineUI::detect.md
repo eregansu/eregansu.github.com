@@ -1,6 +1,9 @@
 ---
 title: ReadlineUI::detect
+layout: default
 ---
+
+# ReadlineUI::detect
 
 ## Synopsis
 

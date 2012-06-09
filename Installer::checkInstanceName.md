@@ -1,6 +1,9 @@
 ---
 title: Installer::checkInstanceName
+layout: default
 ---
+
+# Installer::checkInstanceName
 
 ## Synopsis
 

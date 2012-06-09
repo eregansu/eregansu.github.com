@@ -1,6 +1,9 @@
 ---
 title: URI::fqname
+layout: default
 ---
+
+# URI::fqname
 
 Generate a fully-qualified URI for a namespace URI and local name.
 
@@ -10,7 +13,7 @@ Generate a fully-qualified URI for a namespace URI and local name.
 
 ## Note
 
-If `$namespaceURI` is a `DOMNode`, `$local` must be `null`. If `$namespaceURI` is a string, `$local` must not be `null`.
+If <code class="keyword">$namespaceURI</code> is a <code class="keyword">DOMNode</code>, <code class="keyword">$local</code> must be <code class="keyword">null</code>. If <code class="keyword">$namespaceURI</code> is a string, <code class="keyword">$local</code> must not be <code class="keyword">null</code>.
 
 ## Parameters
 

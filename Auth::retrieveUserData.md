@@ -1,6 +1,9 @@
 ---
 title: Auth::retrieveUserData
+layout: default
 ---
+
+# Auth::retrieveUserData
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Request::abort
+layout: default
 ---
+
+# Request::abort
 
 ## Synopsis
 

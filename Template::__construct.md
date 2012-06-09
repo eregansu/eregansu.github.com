@@ -1,6 +1,9 @@
 ---
 title: Template::__construct
+layout: default
 ---
+
+# Template::__construct
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: IdentityModule::dependencies
+layout: default
 ---
+
+# IdentityModule::dependencies
 
 ## Synopsis
 

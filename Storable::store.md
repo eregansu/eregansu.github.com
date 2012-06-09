@@ -1,6 +1,9 @@
 ---
 title: Storable::store
+layout: default
 ---
+
+# Storable::store
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: MySQL::__construct
+layout: default
 ---
+
+# MySQL::__construct
 
 ## Synopsis
 

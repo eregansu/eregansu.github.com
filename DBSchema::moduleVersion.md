@@ -1,6 +1,9 @@
 ---
 title: DBSchema::moduleVersion
+layout: default
 ---
+
+# DBSchema::moduleVersion
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::__construct
+layout: default
 ---
+
+# RDFDocument::__construct
 
 ## Synopsis
 

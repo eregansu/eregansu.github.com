@@ -1,6 +1,9 @@
 ---
 title: Store::insertId
+layout: default
 ---
+
+# Store::insertId
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: RDFURI::asArray
+layout: default
 ---
+
+# RDFURI::asArray
 
 ## Synopsis
 

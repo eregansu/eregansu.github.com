@@ -1,6 +1,9 @@
 ---
 title: Storable::offsetGet
+layout: default
 ---
+
+# Storable::offsetGet
 
 ## Synopsis
 

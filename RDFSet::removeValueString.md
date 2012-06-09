@@ -1,6 +1,9 @@
 ---
 title: RDFSet::removeValueString
+layout: default
 ---
+
+# RDFSet::removeValueString
 
 ## Synopsis
 

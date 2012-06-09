@@ -1,6 +1,9 @@
 ---
 title: RedlandModel::removeStatement
+layout: default
 ---
+
+# RedlandModel::removeStatement
 
 ## Synopsis
 

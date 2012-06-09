@@ -1,6 +1,9 @@
 ---
 title: IIndexable::indexBody
+layout: default
 ---
+
+# IIndexable::indexBody
 
 ## Synopsis
 

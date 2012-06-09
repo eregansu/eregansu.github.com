@@ -1,6 +1,9 @@
 ---
 title: Form::submit
+layout: default
 ---
+
+# Form::submit
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: DBDataSet::key
+layout: default
 ---
+
+# DBDataSet::key
 
 ## Synopsis
 

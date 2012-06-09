@@ -1,6 +1,9 @@
 ---
 title: RDFTriple::predicate
+layout: default
 ---
+
+# RDFTriple::predicate
 
 ## Synopsis
 

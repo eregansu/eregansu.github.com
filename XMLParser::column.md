@@ -1,6 +1,9 @@
 ---
 title: XMLParser::column
+layout: default
 ---
+
+# XMLParser::column
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: SQLite3Set::__construct
+layout: default
 ---
+
+# SQLite3Set::__construct
 
 ## Synopsis
 

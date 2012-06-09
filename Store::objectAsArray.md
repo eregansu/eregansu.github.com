@@ -1,6 +1,9 @@
 ---
 title: Store::objectAsArray
+layout: default
 ---
+
+# Store::objectAsArray
 
 ## Synopsis
 

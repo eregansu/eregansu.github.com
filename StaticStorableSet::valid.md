@@ -1,6 +1,9 @@
 ---
 title: StaticStorableSet::valid
+layout: default
 ---
+
+# StaticStorableSet::valid
 
 ## Synopsis
 

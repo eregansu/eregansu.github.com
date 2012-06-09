@@ -1,6 +1,9 @@
 ---
 title: XMLParser::__construct
+layout: default
 ---
+
+# XMLParser::__construct
 
 ## Synopsis
 

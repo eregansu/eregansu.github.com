@@ -1,18 +1,19 @@
 ---
 title: IDirectoryService
+layout: default
 ---
 
-`IDirectoryService` is an interface derived from <a href="IDatabase">IDatabase</a>.
+# IDirectoryService
+
+<code>IDirectoryService</code> is an interface derived from <a href="IDatabase">IDatabase</a>.
 
 <a href="http://github.com/nexgenta/eregansu/blob/master/lib/db.php">View source</a>
 
 ## Synopsis
 
-```php
-uses('db');
-```
-
+<pre><code>uses('db');
+</code></pre>
 ## Public Methods
 
-* `<a href="IDirectoryService%3A%3AinsertAt">IDirectoryService::insertAt</a>()`
+* <code><a href="IDirectoryService%3A%3AinsertAt">IDirectoryService::insertAt</a>()</code>
 

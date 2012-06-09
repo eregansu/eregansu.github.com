@@ -1,6 +1,9 @@
 ---
 title: Database::__construct
+layout: default
 ---
+
+# Database::__construct
 
 ## Synopsis
 

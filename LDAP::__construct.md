@@ -1,6 +1,9 @@
 ---
 title: LDAP::__construct
+layout: default
 ---
+
+# LDAP::__construct
 
 ## Synopsis
 

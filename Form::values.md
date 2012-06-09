@@ -1,6 +1,9 @@
 ---
 title: Form::values
+layout: default
 ---
+
+# Form::values
 
 ## Synopsis
 

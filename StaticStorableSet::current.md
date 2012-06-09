@@ -1,6 +1,9 @@
 ---
 title: StaticStorableSet::current
+layout: default
 ---
+
+# StaticStorableSet::current
 
 ## Synopsis
 

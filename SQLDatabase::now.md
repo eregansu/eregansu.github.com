@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::now
+layout: default
 ---
+
+# SQLDatabase::now
 
 ## Synopsis
 

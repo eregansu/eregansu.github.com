@@ -1,6 +1,9 @@
 ---
 title: RedlandTurtleSerializer::__construct
+layout: default
 ---
+
+# RedlandTurtleSerializer::__construct
 
 ## Synopsis
 

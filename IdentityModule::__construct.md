@@ -1,6 +1,9 @@
 ---
 title: IdentityModule::__construct
+layout: default
 ---
+
+# IdentityModule::__construct
 
 ## Synopsis
 

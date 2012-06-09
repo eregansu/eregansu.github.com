@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::value
+layout: default
 ---
+
+# SQLDatabase::value
 
 ## Synopsis
 

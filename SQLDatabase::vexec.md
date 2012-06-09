@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::vexec
+layout: default
 ---
+
+# SQLDatabase::vexec
 
 ## Synopsis
 

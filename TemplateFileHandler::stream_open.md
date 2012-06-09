@@ -1,6 +1,9 @@
 ---
 title: TemplateFileHandler::stream_open
+layout: default
 ---
+
+# TemplateFileHandler::stream_open
 
 ## Synopsis
 

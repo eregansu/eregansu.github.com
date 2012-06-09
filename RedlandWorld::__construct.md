@@ -1,6 +1,9 @@
 ---
 title: RedlandWorld::__construct
+layout: default
 ---
+
+# RedlandWorld::__construct
 
 ## Synopsis
 

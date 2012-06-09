@@ -1,6 +1,9 @@
 ---
 title: CurlCache::exec
+layout: default
 ---
+
+# CurlCache::exec
 
 ## Synopsis
 

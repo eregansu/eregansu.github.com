@@ -1,6 +1,9 @@
 ---
 title: Base32::encode
+layout: default
 ---
+
+# Base32::encode
 
 Encode an integer as base-32
 
@@ -41,5 +44,5 @@ The number to encode
 
 ## Return Value
 
-A string containing the value of `$input` encoded as base-32
+A string containing the value of <code class="keyword">$input</code> encoded as base-32
 

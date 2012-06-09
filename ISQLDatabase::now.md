@@ -1,6 +1,9 @@
 ---
 title: ISQLDatabase::now
+layout: default
 ---
+
+# ISQLDatabase::now
 
 ## Synopsis
 

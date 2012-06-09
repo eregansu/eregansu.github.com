@@ -1,6 +1,9 @@
 ---
 title: SilkRequest::complete
+layout: default
 ---
+
+# SilkRequest::complete
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: RDFURI::asJSONLD
+layout: default
 ---
+
+# RDFURI::asJSONLD
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::add
+layout: default
 ---
+
+# RDFDocument::add
 
 ## Synopsis
 

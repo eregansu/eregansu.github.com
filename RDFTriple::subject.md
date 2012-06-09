@@ -1,6 +1,9 @@
 ---
 title: RDFTriple::subject
+layout: default
 ---
+
+# RDFTriple::subject
 
 ## Synopsis
 

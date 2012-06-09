@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::predicates
+layout: default
 ---
+
+# RDFInstanceBase::predicates
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Store::update
+layout: default
 ---
+
+# Store::update
 
 ## Synopsis
 

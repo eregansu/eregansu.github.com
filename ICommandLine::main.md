@@ -1,6 +1,9 @@
 ---
 title: ICommandLine::main
+layout: default
 ---
+
+# ICommandLine::main
 
 ## Synopsis
 

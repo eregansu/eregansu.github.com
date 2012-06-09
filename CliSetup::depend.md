@@ -1,6 +1,9 @@
 ---
 title: CliSetup::depend
+layout: default
 ---
+
+# CliSetup::depend
 
 ## Synopsis
 

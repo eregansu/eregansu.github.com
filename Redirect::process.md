@@ -1,6 +1,9 @@
 ---
 title: Redirect::process
+layout: default
 ---
+
+# Redirect::process
 
 ## Synopsis
 

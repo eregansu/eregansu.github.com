@@ -1,6 +1,9 @@
 ---
 title: RDFStoredObject::objectForData
+layout: default
 ---
+
+# RDFStoredObject::objectForData
 
 ## Synopsis
 

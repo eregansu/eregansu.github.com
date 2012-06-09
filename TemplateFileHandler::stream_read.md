@@ -1,6 +1,9 @@
 ---
 title: TemplateFileHandler::stream_read
+layout: default
 ---
+
+# TemplateFileHandler::stream_read
 
 ## Synopsis
 

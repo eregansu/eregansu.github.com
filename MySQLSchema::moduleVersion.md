@@ -1,6 +1,9 @@
 ---
 title: MySQLSchema::moduleVersion
+layout: default
 ---
+
+# MySQLSchema::moduleVersion
 
 ## Synopsis
 

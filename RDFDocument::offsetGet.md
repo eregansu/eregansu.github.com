@@ -1,6 +1,9 @@
 ---
 title: RDFDocument::offsetGet
+layout: default
 ---
+
+# RDFDocument::offsetGet
 
 ## Synopsis
 

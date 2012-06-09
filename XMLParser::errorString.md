@@ -1,6 +1,9 @@
 ---
 title: XMLParser::errorString
+layout: default
 ---
+
+# XMLParser::errorString
 
 ## Synopsis
 

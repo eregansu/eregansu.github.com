@@ -1,6 +1,9 @@
 ---
 title: URI::parse
+layout: default
 ---
+
+# URI::parse
 
 ## Synopsis
 

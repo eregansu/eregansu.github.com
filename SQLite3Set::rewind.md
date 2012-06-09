@@ -1,6 +1,9 @@
 ---
 title: SQLite3Set::rewind
+layout: default
 ---
+
+# SQLite3Set::rewind
 
 ## Synopsis
 

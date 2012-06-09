@@ -1,6 +1,9 @@
 ---
 title: App::process
+layout: default
 ---
+
+# App::process
 
 ## Synopsis
 

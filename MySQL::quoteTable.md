@@ -1,6 +1,9 @@
 ---
 title: MySQL::quoteTable
+layout: default
 ---
+
+# MySQL::quoteTable
 
 ## Synopsis
 

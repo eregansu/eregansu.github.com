@@ -1,6 +1,9 @@
 ---
 title: IAuthEngine::verifyToken
+layout: default
 ---
+
+# IAuthEngine::verifyToken
 
 ## Synopsis
 

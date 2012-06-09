@@ -1,6 +1,9 @@
 ---
 title: XapianSearch::__construct
+layout: default
 ---
+
+# XapianSearch::__construct
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: SQLDatabase::queryArray
+layout: default
 ---
+
+# SQLDatabase::queryArray
 
 ## Synopsis
 

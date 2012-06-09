@@ -1,6 +1,9 @@
 ---
 title: SQLite3DB::rollback
+layout: default
 ---
+
+# SQLite3DB::rollback
 
 ## Synopsis
 

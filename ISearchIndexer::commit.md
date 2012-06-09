@@ -1,6 +1,9 @@
 ---
 title: ISearchIndexer::commit
+layout: default
 ---
+
+# ISearchIndexer::commit
 
 ## Synopsis
 

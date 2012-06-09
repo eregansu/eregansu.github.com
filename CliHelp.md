@@ -1,12 +1,15 @@
 ---
 title: CliHelp
+layout: default
 ---
+
+# CliHelp
 
 Implements the default 'help' command-line route
 
-`CliHelp` is a class derived from <a href="CommandLine">CommandLine</a>.
+<code>CliHelp</code> is a class derived from <a href="CommandLine">CommandLine</a>.
 
 ## Public Methods
 
-* `<a href="CliHelp%3A%3Amain">CliHelp::main</a>()`
+* <code><a href="CliHelp%3A%3Amain">CliHelp::main</a>()</code>
 

@@ -1,27 +1,28 @@
 ---
 title: Storable
+layout: default
 ---
+
+# Storable
 
 Base class for encapsulations of stored objects.
 
-`Storable` is a base class.
+<code>Storable</code> is a base class.
 
 ## Synopsis
 
-```php
-uses('store');
-```
-
+<pre><code>uses('store');
+</code></pre>
 ## Public Static Methods
 
-* `<a href="Storable%3A%3AobjectForData">Storable::objectForData</a>()`
+* <code><a href="Storable%3A%3AobjectForData">Storable::objectForData</a>()</code>
 
 ## Public Methods
 
-* `<a href="Storable%3A%3Astore">Storable::store</a>()`
-* `<a href="Storable%3A%3Areload">Storable::reload</a>()`
-* `<a href="Storable%3A%3AoffsetExists">Storable::offsetExists</a>()`
-* `<a href="Storable%3A%3AoffsetGet">Storable::offsetGet</a>()`
-* `<a href="Storable%3A%3AoffsetSet">Storable::offsetSet</a>()`
-* `<a href="Storable%3A%3AoffsetUnset">Storable::offsetUnset</a>()`
+* <code><a href="Storable%3A%3Astore">Storable::store</a>()</code>
+* <code><a href="Storable%3A%3Areload">Storable::reload</a>()</code>
+* <code><a href="Storable%3A%3AoffsetExists">Storable::offsetExists</a>()</code>
+* <code><a href="Storable%3A%3AoffsetGet">Storable::offsetGet</a>()</code>
+* <code><a href="Storable%3A%3AoffsetSet">Storable::offsetSet</a>()</code>
+* <code><a href="Storable%3A%3AoffsetUnset">Storable::offsetUnset</a>()</code>
 

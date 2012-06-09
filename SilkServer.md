@@ -1,12 +1,13 @@
 ---
 title: Eregansu's Silk web server
+layout: default
 ---
 
 # Eregansu's Silk web server
 
 ## Classes
 
-* `<a href="SilkCompleteException">SilkCompleteException</a>`
-* `<a href="Silk">Silk</a>`
-* `<a href="SilkRequest">SilkRequest</a>`
+* <code><a href="SilkCompleteException">SilkCompleteException</a></code>
+* <code><a href="Silk">Silk</a></code>
+* <code><a href="SilkRequest">SilkRequest</a></code>
 

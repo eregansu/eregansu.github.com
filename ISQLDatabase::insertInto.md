@@ -1,6 +1,9 @@
 ---
 title: ISQLDatabase::insertInto
+layout: default
 ---
+
+# ISQLDatabase::insertInto
 
 ## Synopsis
 

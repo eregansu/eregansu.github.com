@@ -1,6 +1,9 @@
 ---
 title: XtermUI::detect
+layout: default
 ---
+
+# XtermUI::detect
 
 ## Synopsis
 

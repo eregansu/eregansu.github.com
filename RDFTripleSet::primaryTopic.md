@@ -1,6 +1,9 @@
 ---
 title: RDFTripleSet::primaryTopic
+layout: default
 ---
+
+# RDFTripleSet::primaryTopic
 
 ## Synopsis
 

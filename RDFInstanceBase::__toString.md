@@ -1,6 +1,9 @@
 ---
 title: RDFInstanceBase::__toString
+layout: default
 ---
+
+# RDFInstanceBase::__toString
 
 ## Synopsis
 

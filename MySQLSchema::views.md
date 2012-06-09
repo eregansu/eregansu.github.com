@@ -1,6 +1,9 @@
 ---
 title: MySQLSchema::views
+layout: default
 ---
+
+# MySQLSchema::views
 
 ## Synopsis
 

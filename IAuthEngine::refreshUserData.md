@@ -1,6 +1,9 @@
 ---
 title: IAuthEngine::refreshUserData
+layout: default
 ---
+
+# IAuthEngine::refreshUserData
 
 ## Synopsis
 

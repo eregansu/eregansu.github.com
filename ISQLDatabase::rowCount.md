@@ -1,6 +1,9 @@
 ---
 title: ISQLDatabase::rowCount
+layout: default
 ---
+
+# ISQLDatabase::rowCount
 
 ## Synopsis
 

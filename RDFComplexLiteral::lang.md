@@ -1,6 +1,9 @@
 ---
 title: RDFComplexLiteral::lang
+layout: default
 ---
+
+# RDFComplexLiteral::lang
 
 ## Synopsis
 

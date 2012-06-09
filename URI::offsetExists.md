@@ -1,6 +1,9 @@
 ---
 title: URI::offsetExists
+layout: default
 ---
+
+# URI::offsetExists
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: RedlandParser::parseFileIntoModel
+layout: default
 ---
+
+# RedlandParser::parseFileIntoModel
 
 ## Synopsis
 

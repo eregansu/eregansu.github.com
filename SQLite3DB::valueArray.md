@@ -1,6 +1,9 @@
 ---
 title: SQLite3DB::valueArray
+layout: default
 ---
+
+# SQLite3DB::valueArray
 
 ## Synopsis
 

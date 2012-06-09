@@ -1,6 +1,9 @@
 ---
 title: DBSchema::table
+layout: default
 ---
+
+# DBSchema::table
 
 ## Synopsis
 

@@ -1,6 +1,9 @@
 ---
 title: Store::uuidOfObject
+layout: default
 ---
+
+# Store::uuidOfObject
 
 ## Synopsis
 

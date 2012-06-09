@@ -1,6 +1,9 @@
 ---
 title: RDFDateTime::__construct
+layout: default
 ---
+
+# RDFDateTime::__construct
 
 ## Synopsis
 
