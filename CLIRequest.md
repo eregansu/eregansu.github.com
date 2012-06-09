@@ -1,6 +1,10 @@
 ---
-title: CLIRequest
+title: CLIRequest — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: CLIRequest
+type: class
 ---
 
 # CLIRequest
@@ -8,6 +12,8 @@ layout: default
 Implementation of the Request class for command-line (<code>cli</code>) requests.
 
 <code>CLIRequest</code> is a class derived from <code><a href="Request">Request</a></code>.
+
+<a href="https://github.com/eregansu/lib/blob/master/cli.php">View source</a>
 
 ## Synopsis
 

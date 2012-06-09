@@ -1,6 +1,10 @@
 ---
-title: DBNetworkException
+title: DBNetworkException — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBNetworkException
+type: class
 ---
 
 # DBNetworkException

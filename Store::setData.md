@@ -1,6 +1,10 @@
 ---
-title: Store::setData
+title: Store::setData — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::setData

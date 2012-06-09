@@ -1,6 +1,10 @@
 ---
-title: Request::write
+title: Request::write — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Request
+type: method
 ---
 
 # Request::write

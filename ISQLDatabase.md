@@ -1,6 +1,10 @@
 ---
-title: ISQLDatabase
+title: ISQLDatabase — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ISQLDatabase
+type: interface
 ---
 
 # ISQLDatabase

@@ -1,6 +1,10 @@
 ---
-title: RDFDocument::resourceTopic
+title: RDFDocument::resourceTopic — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFDocument
+type: method
 ---
 
 # RDFDocument::resourceTopic

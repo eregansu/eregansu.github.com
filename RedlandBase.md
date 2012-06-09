@@ -1,11 +1,17 @@
 ---
-title: RedlandBase
+title: RedlandBase — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandBase
+type: class
 ---
 
 # RedlandBase
 
 <code>RedlandBase</code> is an abstract base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/rdf/redland.php">View source</a>
 
 ## Public Static Methods
 

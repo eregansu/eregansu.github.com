@@ -1,6 +1,10 @@
 ---
-title: DBException::__construct
+title: DBException::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBException
+type: method
 ---
 
 # DBException::__construct

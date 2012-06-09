@@ -1,6 +1,10 @@
 ---
-title: IAuthEngine
+title: IAuthEngine — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IAuthEngine
+type: interface
 ---
 
 # IAuthEngine

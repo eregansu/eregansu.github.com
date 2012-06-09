@@ -1,6 +1,10 @@
 ---
-title: IContentStore::delete
+title: IContentStore::delete — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: IContentStore
+type: method
 ---
 
 # IContentStore::delete

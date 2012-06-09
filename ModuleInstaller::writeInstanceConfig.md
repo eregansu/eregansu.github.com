@@ -1,6 +1,10 @@
 ---
-title: ModuleInstaller::writeInstanceConfig
+title: ModuleInstaller::writeInstanceConfig — Autoconfiguration/Installation Support
+package: install
+packageTitle: Autoconfiguration/Installation Support
 layout: default
+className: ModuleInstaller
+type: method
 ---
 
 # ModuleInstaller::writeInstanceConfig

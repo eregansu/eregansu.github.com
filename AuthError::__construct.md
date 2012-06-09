@@ -1,6 +1,10 @@
 ---
-title: AuthError::__construct
+title: AuthError::__construct — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: AuthError
+type: method
 ---
 
 # AuthError::__construct

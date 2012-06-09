@@ -1,6 +1,10 @@
 ---
-title: Template::useGlow
+title: Template::useGlow — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Template
+type: method
 ---
 
 # Template::useGlow

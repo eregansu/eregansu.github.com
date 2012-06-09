@@ -1,6 +1,10 @@
 ---
-title: Routable::process
+title: Routable::process — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Routable
+type: method
 ---
 
 # Routable::process

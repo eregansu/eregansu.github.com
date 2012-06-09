@@ -1,6 +1,10 @@
 ---
-title: Auth::__construct
+title: Auth::__construct — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Auth
+type: method
 ---
 
 # Auth::__construct

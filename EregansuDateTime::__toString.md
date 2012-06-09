@@ -1,6 +1,10 @@
 ---
-title: EregansuDateTime::__toString
+title: EregansuDateTime::__toString — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: EregansuDateTime
+type: method
 ---
 
 # EregansuDateTime::__toString

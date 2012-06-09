@@ -1,11 +1,17 @@
 ---
-title: RDFDocument
+title: RDFDocument — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFDocument
+type: class
 ---
 
 # RDFDocument
 
 <code>RDFDocument</code> is a class derived from <code><a href="RedlandModel">RedlandModel</a></code>.
+
+<a href="https://github.com/eregansu/lib/blob/master/rdf/redland.php">View source</a>
 
 ## Public Methods
 

@@ -1,6 +1,10 @@
 ---
-title: Auth::authEngineForIRI
+title: Auth::authEngineForIRI — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Auth
+type: method
 ---
 
 # Auth::authEngineForIRI

@@ -1,11 +1,17 @@
 ---
-title: CurlHeaders
+title: CurlHeaders — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: CurlHeaders
+type: class
 ---
 
 # CurlHeaders
 
 <code>CurlHeaders</code> is a base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/curl.php">View source</a>
 
 ## Public Methods
 

@@ -1,6 +1,10 @@
 ---
-title: Base32::decode
+title: Base32::decode — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Base32
+type: method
 ---
 
 # Base32::decode

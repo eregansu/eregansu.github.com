@@ -1,6 +1,10 @@
 ---
-title: RDFSet::slice
+title: RDFSet::slice — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFSet
+type: method
 ---
 
 # RDFSet::slice

@@ -1,11 +1,17 @@
 ---
-title: RDFInstanceBase
+title: RDFInstanceBase — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFInstanceBase
+type: class
 ---
 
 # RDFInstanceBase
 
 <code>RDFInstanceBase</code> is an abstract class derived from <code><a href="RedlandBase">RedlandBase</a></code>.
+
+<a href="https://github.com/eregansu/lib/blob/master/rdf/redland.php">View source</a>
 
 ## Public Methods
 

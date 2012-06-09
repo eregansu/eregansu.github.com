@@ -1,6 +1,10 @@
 ---
-title: CurlHeaders::offsetSet
+title: CurlHeaders::offsetSet — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: CurlHeaders
+type: method
 ---
 
 # CurlHeaders::offsetSet

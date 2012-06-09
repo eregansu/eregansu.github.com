@@ -1,6 +1,10 @@
 ---
-title: RDFURI::__construct
+title: RDFURI::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFURI
+type: method
 ---
 
 # RDFURI::__construct

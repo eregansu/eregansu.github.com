@@ -1,6 +1,10 @@
 ---
-title: DBDataSet::rewind
+title: DBDataSet::rewind — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBDataSet
+type: method
 ---
 
 # DBDataSet::rewind

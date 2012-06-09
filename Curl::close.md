@@ -1,6 +1,10 @@
 ---
-title: Curl::close
+title: Curl::close — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Curl
+type: method
 ---
 
 # Curl::close

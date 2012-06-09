@@ -1,6 +1,10 @@
 ---
-title: IDirectoryService
+title: IDirectoryService — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: IDirectoryService
+type: interface
 ---
 
 # IDirectoryService

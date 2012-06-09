@@ -1,6 +1,10 @@
 ---
-title: Request::requestForSAPI
+title: Request::requestForSAPI — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Request
+type: method
 ---
 
 # Request::requestForSAPI

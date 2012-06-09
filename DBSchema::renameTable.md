@@ -1,6 +1,10 @@
 ---
-title: DBSchema::renameTable
+title: DBSchema::renameTable — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBSchema
+type: method
 ---
 
 # DBSchema::renameTable

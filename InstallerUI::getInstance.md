@@ -1,6 +1,10 @@
 ---
-title: InstallerUI::getInstance
+title: InstallerUI::getInstance — Autoconfiguration/Installation Support
+package: install
+packageTitle: Autoconfiguration/Installation Support
 layout: default
+className: InstallerUI
+type: method
 ---
 
 # InstallerUI::getInstance

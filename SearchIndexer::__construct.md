@@ -1,6 +1,10 @@
 ---
-title: SearchIndexer::__construct
+title: SearchIndexer::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SearchIndexer
+type: method
 ---
 
 # SearchIndexer::__construct

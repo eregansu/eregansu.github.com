@@ -1,6 +1,10 @@
 ---
-title: IdentityModule::getInstance
+title: IdentityModule::getInstance — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IdentityModule
+type: method
 ---
 
 # IdentityModule::getInstance

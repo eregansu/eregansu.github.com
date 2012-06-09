@@ -1,11 +1,17 @@
 ---
-title: RDFTriple
+title: RDFTriple — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFTriple
+type: class
 ---
 
 # RDFTriple
 
 <code>RDFTriple</code> is a base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/rdf/phprdf.php">View source</a>
 
 ## Public Methods
 

@@ -1,6 +1,10 @@
 ---
-title: IDatabase::query
+title: IDatabase::query — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: IDatabase
+type: method
 ---
 
 # IDatabase::query

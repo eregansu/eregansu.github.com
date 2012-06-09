@@ -1,6 +1,10 @@
 ---
-title: XapianIndexer::begin
+title: XapianIndexer::begin — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: XapianIndexer
+type: method
 ---
 
 # XapianIndexer::begin

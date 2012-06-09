@@ -1,6 +1,10 @@
 ---
-title: RedlandNode::asUri
+title: RedlandNode::asUri — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandNode
+type: method
 ---
 
 # RedlandNode::asUri

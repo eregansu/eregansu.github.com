@@ -1,6 +1,10 @@
 ---
-title: ITransactional::commit
+title: ITransactional::commit — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ITransactional
+type: method
 ---
 
 # ITransactional::commit

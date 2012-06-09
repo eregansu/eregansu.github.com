@@ -1,6 +1,10 @@
 ---
-title: GenericWebSearch::__construct
+title: GenericWebSearch::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: GenericWebSearch
+type: method
 ---
 
 # GenericWebSearch::__construct

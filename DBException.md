@@ -1,6 +1,10 @@
 ---
-title: DBException
+title: DBException — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBException
+type: class
 ---
 
 # DBException

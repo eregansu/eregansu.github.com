@@ -1,6 +1,10 @@
 ---
-title: TemplateFileHandler::stream_lock
+title: TemplateFileHandler::stream_lock — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: TemplateFileHandler
+type: method
 ---
 
 # TemplateFileHandler::stream_lock

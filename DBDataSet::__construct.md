@@ -1,6 +1,10 @@
 ---
-title: DBDataSet::__construct
+title: DBDataSet::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBDataSet
+type: method
 ---
 
 # DBDataSet::__construct

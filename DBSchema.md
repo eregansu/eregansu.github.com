@@ -1,11 +1,17 @@
 ---
-title: DBSchema
+title: DBSchema — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBSchema
+type: class
 ---
 
 # DBSchema
 
 <code>DBSchema</code> is an abstract base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/dbschema.php">View source</a>
 
 ## Public Static Methods
 

@@ -1,6 +1,10 @@
 ---
-title: ISQLDatabase::rows
+title: ISQLDatabase::rows — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ISQLDatabase
+type: method
 ---
 
 # ISQLDatabase::rows

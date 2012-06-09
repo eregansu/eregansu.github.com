@@ -1,6 +1,10 @@
 ---
-title: Identity
+title: Identity — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Identity
+type: class
 ---
 
 # Identity

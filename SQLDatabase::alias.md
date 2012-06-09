@@ -1,6 +1,10 @@
 ---
-title: SQLDatabase::alias
+title: SQLDatabase::alias — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLDatabase
+type: method
 ---
 
 # SQLDatabase::alias

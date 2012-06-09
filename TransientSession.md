@@ -1,6 +1,10 @@
 ---
-title: TransientSession
+title: TransientSession — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: TransientSession
+type: class
 ---
 
 # TransientSession
@@ -8,6 +12,8 @@ layout: default
 Descendant of the Session class which has no persistent storage capabilities.
 
 <code>TransientSession</code> is a class derived from <code><a href="Session">Session</a></code>.
+
+<a href="https://github.com/eregansu/lib/blob/master/session.php">View source</a>
 
 ## Public Methods
 

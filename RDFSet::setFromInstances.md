@@ -1,6 +1,10 @@
 ---
-title: RDFSet::setFromInstances
+title: RDFSet::setFromInstances — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFSet
+type: method
 ---
 
 # RDFSet::setFromInstances

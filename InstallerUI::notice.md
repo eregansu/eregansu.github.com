@@ -1,6 +1,10 @@
 ---
-title: InstallerUI::notice
+title: InstallerUI::notice — Autoconfiguration/Installation Support
+package: install
+packageTitle: Autoconfiguration/Installation Support
 layout: default
+className: InstallerUI
+type: method
 ---
 
 # InstallerUI::notice

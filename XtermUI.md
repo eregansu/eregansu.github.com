@@ -1,6 +1,10 @@
 ---
-title: XtermUI
+title: XtermUI — Autoconfiguration/Installation Support
+package: install
+packageTitle: Autoconfiguration/Installation Support
 layout: default
+className: XtermUI
+type: class
 ---
 
 # XtermUI

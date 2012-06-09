@@ -1,6 +1,10 @@
 ---
-title: RDFDocument::promote
+title: RDFDocument::promote — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFDocument
+type: method
 ---
 
 # RDFDocument::promote

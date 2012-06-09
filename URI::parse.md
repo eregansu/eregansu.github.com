@@ -1,6 +1,10 @@
 ---
-title: URI::parse
+title: URI::parse — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: URI
+type: method
 ---
 
 # URI::parse

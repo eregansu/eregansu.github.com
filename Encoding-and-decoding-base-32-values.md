@@ -1,6 +1,9 @@
 ---
-title: Encoding and decoding base-32 values
+title: Encoding and decoding base-32 values — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+type: task
 ---
 
 # Encoding and decoding base-32 values

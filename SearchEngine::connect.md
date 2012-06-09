@@ -1,6 +1,10 @@
 ---
-title: SearchEngine::connect
+title: SearchEngine::connect — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SearchEngine
+type: method
 ---
 
 # SearchEngine::connect

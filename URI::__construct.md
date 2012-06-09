@@ -1,6 +1,10 @@
 ---
-title: URI::__construct
+title: URI::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: URI
+type: method
 ---
 
 # URI::__construct

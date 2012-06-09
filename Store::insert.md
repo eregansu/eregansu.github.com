@@ -1,6 +1,10 @@
 ---
-title: Store::insert
+title: Store::insert — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::insert

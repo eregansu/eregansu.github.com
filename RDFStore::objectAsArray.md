@@ -1,6 +1,10 @@
 ---
-title: RDFStore::objectAsArray
+title: RDFStore::objectAsArray — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: RDFStore
+type: method
 ---
 
 # RDFStore::objectAsArray

@@ -1,6 +1,10 @@
 ---
-title: RDFStore::ingestRDF
+title: RDFStore::ingestRDF — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: RDFStore
+type: method
 ---
 
 # RDFStore::ingestRDF

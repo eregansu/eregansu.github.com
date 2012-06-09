@@ -1,6 +1,10 @@
 ---
-title: RDFURI::__set
+title: RDFURI::__set — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFURI
+type: method
 ---
 
 # RDFURI::__set

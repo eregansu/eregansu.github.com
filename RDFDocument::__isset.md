@@ -1,6 +1,10 @@
 ---
-title: RDFDocument::__isset
+title: RDFDocument::__isset — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFDocument
+type: method
 ---
 
 # RDFDocument::__isset

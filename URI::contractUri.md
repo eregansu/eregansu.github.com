@@ -1,6 +1,10 @@
 ---
-title: URI::contractUri
+title: URI::contractUri — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: URI
+type: method
 ---
 
 # URI::contractUri

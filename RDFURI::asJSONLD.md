@@ -1,6 +1,10 @@
 ---
-title: RDFURI::asJSONLD
+title: RDFURI::asJSONLD — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFURI
+type: method
 ---
 
 # RDFURI::asJSONLD

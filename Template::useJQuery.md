@@ -1,6 +1,10 @@
 ---
-title: Template::useJQuery
+title: Template::useJQuery — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Template
+type: method
 ---
 
 # Template::useJQuery

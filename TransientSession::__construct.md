@@ -1,6 +1,10 @@
 ---
-title: TransientSession::__construct
+title: TransientSession::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: TransientSession
+type: method
 ---
 
 # TransientSession::__construct

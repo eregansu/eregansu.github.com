@@ -1,6 +1,10 @@
 ---
-title: RDFComplexLiteral::type
+title: RDFComplexLiteral::type — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFComplexLiteral
+type: method
 ---
 
 # RDFComplexLiteral::type

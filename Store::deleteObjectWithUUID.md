@@ -1,6 +1,10 @@
 ---
-title: Store::deleteObjectWithUUID
+title: Store::deleteObjectWithUUID — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::deleteObjectWithUUID

@@ -1,6 +1,10 @@
 ---
-title: StaticStorableSet::valid
+title: StaticStorableSet::valid — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: StaticStorableSet
+type: method
 ---
 
 # StaticStorableSet::valid

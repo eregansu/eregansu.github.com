@@ -1,6 +1,10 @@
 ---
-title: DumbUI::end
+title: DumbUI::end — Autoconfiguration/Installation Support
+package: install
+packageTitle: Autoconfiguration/Installation Support
 layout: default
+className: DumbUI
+type: method
 ---
 
 # DumbUI::end

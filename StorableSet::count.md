@@ -1,6 +1,10 @@
 ---
-title: StorableSet::count
+title: StorableSet::count — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: StorableSet
+type: method
 ---
 
 # StorableSet::count

@@ -1,6 +1,10 @@
 ---
-title: Store::delete
+title: Store::delete — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::delete

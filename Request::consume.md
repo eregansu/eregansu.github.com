@@ -1,6 +1,10 @@
 ---
-title: Request::consume
+title: Request::consume — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Request
+type: method
 ---
 
 # Request::consume

@@ -1,6 +1,10 @@
 ---
-title: RedlandStorage::__construct
+title: RedlandStorage::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandStorage
+type: method
 ---
 
 # RedlandStorage::__construct

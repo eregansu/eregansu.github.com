@@ -1,6 +1,10 @@
 ---
-title: RDFTriple::__construct
+title: RDFTriple::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFTriple
+type: method
 ---
 
 # RDFTriple::__construct

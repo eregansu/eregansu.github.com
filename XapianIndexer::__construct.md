@@ -1,6 +1,10 @@
 ---
-title: XapianIndexer::__construct
+title: XapianIndexer::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: XapianIndexer
+type: method
 ---
 
 # XapianIndexer::__construct

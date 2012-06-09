@@ -1,6 +1,10 @@
 ---
-title: RDFString::__construct
+title: RDFString::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFString
+type: method
 ---
 
 # RDFString::__construct

@@ -1,6 +1,10 @@
 ---
-title: DataSet
+title: DataSet — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DataSet
+type: interface
 ---
 
 # DataSet

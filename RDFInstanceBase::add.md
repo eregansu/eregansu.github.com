@@ -1,6 +1,10 @@
 ---
-title: RDFInstanceBase::add
+title: RDFInstanceBase::add — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFInstanceBase
+type: method
 ---
 
 # RDFInstanceBase::add

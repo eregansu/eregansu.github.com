@@ -1,6 +1,10 @@
 ---
-title: RDFInstance::shortDesc
+title: RDFInstance::shortDesc — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFInstance
+type: method
 ---
 
 # RDFInstance::shortDesc

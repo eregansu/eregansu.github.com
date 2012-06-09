@@ -1,6 +1,10 @@
 ---
-title: HostnameRouter
+title: HostnameRouter — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: HostnameRouter
+type: class
 ---
 
 # HostnameRouter

@@ -1,6 +1,10 @@
 ---
-title: Base32::encode
+title: Base32::encode — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Base32
+type: method
 ---
 
 # Base32::encode

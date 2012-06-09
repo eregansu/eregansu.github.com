@@ -1,6 +1,10 @@
 ---
-title: DumbUI::prompt
+title: DumbUI::prompt — Autoconfiguration/Installation Support
+package: install
+packageTitle: Autoconfiguration/Installation Support
 layout: default
+className: DumbUI
+type: method
 ---
 
 # DumbUI::prompt

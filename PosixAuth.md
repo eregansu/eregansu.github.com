@@ -1,6 +1,10 @@
 ---
-title: PosixAuth
+title: PosixAuth — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: PosixAuth
+type: class
 ---
 
 # PosixAuth

@@ -1,6 +1,10 @@
 ---
-title: ISQLDatabase::rowArray
+title: ISQLDatabase::rowArray — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ISQLDatabase
+type: method
 ---
 
 # ISQLDatabase::rowArray

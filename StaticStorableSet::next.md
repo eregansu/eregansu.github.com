@@ -1,6 +1,10 @@
 ---
-title: StaticStorableSet::next
+title: StaticStorableSet::next — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: StaticStorableSet
+type: method
 ---
 
 # StaticStorableSet::next

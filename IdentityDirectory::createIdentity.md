@@ -1,6 +1,10 @@
 ---
-title: IdentityDirectory::createIdentity
+title: IdentityDirectory::createIdentity — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IdentityDirectory
+type: method
 ---
 
 # IdentityDirectory::createIdentity

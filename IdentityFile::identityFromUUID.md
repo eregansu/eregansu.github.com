@@ -1,6 +1,10 @@
 ---
-title: IdentityFile::identityFromUUID
+title: IdentityFile::identityFromUUID — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IdentityFile
+type: method
 ---
 
 # IdentityFile::identityFromUUID

@@ -1,6 +1,10 @@
 ---
-title: IdentityFile::createIdentity
+title: IdentityFile::createIdentity — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IdentityFile
+type: method
 ---
 
 # IdentityFile::createIdentity

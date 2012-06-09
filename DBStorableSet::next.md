@@ -1,6 +1,10 @@
 ---
-title: DBStorableSet::next
+title: DBStorableSet::next — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: DBStorableSet
+type: method
 ---
 
 # DBStorableSet::next

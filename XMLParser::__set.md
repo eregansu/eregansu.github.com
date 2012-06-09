@@ -1,6 +1,10 @@
 ---
-title: XMLParser::__set
+title: XMLParser::__set — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: XMLParser
+type: method
 ---
 
 # XMLParser::__set

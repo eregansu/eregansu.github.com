@@ -1,11 +1,17 @@
 ---
-title: DBTable
+title: DBTable — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBTable
+type: class
 ---
 
 # DBTable
 
 <code>DBTable</code> is an abstract base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/dbschema.php">View source</a>
 
 ## Public Methods
 

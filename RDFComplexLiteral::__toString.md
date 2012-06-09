@@ -1,6 +1,10 @@
 ---
-title: RDFComplexLiteral::__toString
+title: RDFComplexLiteral::__toString — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFComplexLiteral
+type: method
 ---
 
 # RDFComplexLiteral::__toString

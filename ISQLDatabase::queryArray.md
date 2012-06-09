@@ -1,6 +1,10 @@
 ---
-title: ISQLDatabase::queryArray
+title: ISQLDatabase::queryArray — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ISQLDatabase
+type: method
 ---
 
 # ISQLDatabase::queryArray

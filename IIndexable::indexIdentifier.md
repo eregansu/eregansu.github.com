@@ -1,6 +1,10 @@
 ---
-title: IIndexable::indexIdentifier
+title: IIndexable::indexIdentifier — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: IIndexable
+type: method
 ---
 
 # IIndexable::indexIdentifier

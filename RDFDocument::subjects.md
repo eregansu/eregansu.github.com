@@ -1,6 +1,10 @@
 ---
-title: RDFDocument::subjects
+title: RDFDocument::subjects — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFDocument
+type: method
 ---
 
 # RDFDocument::subjects

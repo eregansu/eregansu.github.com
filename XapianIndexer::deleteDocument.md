@@ -1,6 +1,10 @@
 ---
-title: XapianIndexer::deleteDocument
+title: XapianIndexer::deleteDocument — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: XapianIndexer
+type: method
 ---
 
 # XapianIndexer::deleteDocument

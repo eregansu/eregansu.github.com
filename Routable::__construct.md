@@ -1,6 +1,10 @@
 ---
-title: Routable::__construct
+title: Routable::__construct — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Routable
+type: method
 ---
 
 # Routable::__construct

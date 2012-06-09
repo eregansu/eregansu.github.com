@@ -1,6 +1,10 @@
 ---
-title: Storable::objectForData
+title: Storable::objectForData — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Storable
+type: method
 ---
 
 # Storable::objectForData

@@ -1,6 +1,10 @@
 ---
-title: Form::field
+title: Form::field — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Form
+type: method
 ---
 
 # Form::field

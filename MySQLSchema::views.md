@@ -1,6 +1,10 @@
 ---
-title: MySQLSchema::views
+title: MySQLSchema::views — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MySQLSchema
+type: method
 ---
 
 # MySQLSchema::views

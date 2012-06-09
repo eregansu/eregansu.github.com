@@ -1,6 +1,10 @@
 ---
-title: Observers::observe
+title: Observers::observe — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Observers
+type: method
 ---
 
 # Observers::observe

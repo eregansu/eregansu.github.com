@@ -1,6 +1,10 @@
 ---
-title: MIME::extForType
+title: MIME::extForType — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MIME
+type: method
 ---
 
 # MIME::extForType

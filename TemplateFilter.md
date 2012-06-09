@@ -1,6 +1,10 @@
 ---
-title: TemplateFilter
+title: TemplateFilter — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: TemplateFilter
+type: class
 ---
 
 # TemplateFilter

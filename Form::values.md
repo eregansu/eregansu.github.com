@@ -1,6 +1,10 @@
 ---
-title: Form::values
+title: Form::values — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Form
+type: method
 ---
 
 # Form::values

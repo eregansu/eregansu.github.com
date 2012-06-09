@@ -1,6 +1,9 @@
 ---
-title: Manipulating UUIDs
+title: Manipulating UUIDs — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+type: task
 ---
 
 # Manipulating UUIDs

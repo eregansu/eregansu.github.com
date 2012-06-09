@@ -1,6 +1,10 @@
 ---
-title: TemplateFileHandler::readlink
+title: TemplateFileHandler::readlink — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: TemplateFileHandler
+type: method
 ---
 
 # TemplateFileHandler::readlink

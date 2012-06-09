@@ -1,6 +1,10 @@
 ---
-title: IContentStore::insert
+title: IContentStore::insert — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: IContentStore
+type: method
 ---
 
 # IContentStore::insert

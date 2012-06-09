@@ -1,6 +1,10 @@
 ---
-title: Routable
+title: Routable — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Routable
+type: class
 ---
 
 # Routable

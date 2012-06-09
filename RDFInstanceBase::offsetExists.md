@@ -1,6 +1,10 @@
 ---
-title: RDFInstanceBase::offsetExists
+title: RDFInstanceBase::offsetExists — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFInstanceBase
+type: method
 ---
 
 # RDFInstanceBase::offsetExists

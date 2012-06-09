@@ -1,6 +1,10 @@
 ---
-title: RDF::tripleSetFromXMLString
+title: RDF::tripleSetFromXMLString — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDF
+type: method
 ---
 
 # RDF::tripleSetFromXMLString

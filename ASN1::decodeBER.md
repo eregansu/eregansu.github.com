@@ -1,6 +1,10 @@
 ---
-title: ASN1::decodeBER
+title: ASN1::decodeBER — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ASN1
+type: method
 ---
 
 # ASN1::decodeBER

@@ -1,6 +1,10 @@
 ---
-title: RedlandSerializer::serializeModelToFile
+title: RedlandSerializer::serializeModelToFile — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandSerializer
+type: method
 ---
 
 # RedlandSerializer::serializeModelToFile

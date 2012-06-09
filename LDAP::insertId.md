@@ -1,6 +1,10 @@
 ---
-title: LDAP::insertId
+title: LDAP::insertId — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: LDAP
+type: method
 ---
 
 # LDAP::insertId

@@ -1,6 +1,10 @@
 ---
-title: StaticStorableSet::current
+title: StaticStorableSet::current — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: StaticStorableSet
+type: method
 ---
 
 # StaticStorableSet::current

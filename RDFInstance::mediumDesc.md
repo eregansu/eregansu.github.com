@@ -1,6 +1,10 @@
 ---
-title: RDFInstance::mediumDesc
+title: RDFInstance::mediumDesc — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFInstance
+type: method
 ---
 
 # RDFInstance::mediumDesc

@@ -1,6 +1,10 @@
 ---
-title: ISearchIndexer::indexDocument
+title: ISearchIndexer::indexDocument — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ISearchIndexer
+type: method
 ---
 
 # ISearchIndexer::indexDocument

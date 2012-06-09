@@ -1,6 +1,9 @@
 ---
-title: Processing requests
+title: Processing requests — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+type: task
 ---
 
 # Processing requests

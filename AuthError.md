@@ -1,6 +1,10 @@
 ---
-title: AuthError
+title: AuthError — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: AuthError
+type: class
 ---
 
 # AuthError

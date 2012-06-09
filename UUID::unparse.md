@@ -1,6 +1,10 @@
 ---
-title: UUID::unparse
+title: UUID::unparse — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: UUID
+type: method
 ---
 
 # UUID::unparse

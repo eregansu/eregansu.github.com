@@ -1,6 +1,10 @@
 ---
-title: RedlandRDFXMLSerializer::__construct
+title: RedlandRDFXMLSerializer::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandRDFXMLSerializer
+type: method
 ---
 
 # RedlandRDFXMLSerializer::__construct

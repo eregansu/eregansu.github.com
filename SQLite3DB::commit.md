@@ -1,6 +1,10 @@
 ---
-title: SQLite3DB::commit
+title: SQLite3DB::commit — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLite3DB
+type: method
 ---
 
 # SQLite3DB::commit

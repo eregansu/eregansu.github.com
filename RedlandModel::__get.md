@@ -1,6 +1,10 @@
 ---
-title: RedlandModel::__get
+title: RedlandModel::__get — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandModel
+type: method
 ---
 
 # RedlandModel::__get

@@ -1,6 +1,10 @@
 ---
-title: Template::setArrayRef
+title: Template::setArrayRef — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Template
+type: method
 ---
 
 # Template::setArrayRef

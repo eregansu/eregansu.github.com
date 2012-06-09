@@ -1,6 +1,10 @@
 ---
-title: DirectoryService
+title: DirectoryService — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DirectoryService
+type: class
 ---
 
 # DirectoryService

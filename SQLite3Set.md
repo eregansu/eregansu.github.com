@@ -1,11 +1,17 @@
 ---
-title: SQLite3Set
+title: SQLite3Set — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLite3Set
+type: class
 ---
 
 # SQLite3Set
 
 <code>SQLite3Set</code> is a class derived from <code><a href="DBDataSet">DBDataSet</a></code>.
+
+<a href="https://github.com/eregansu/lib/blob/master/db/sqlite3.php">View source</a>
 
 ## Public Methods
 

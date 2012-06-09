@@ -1,6 +1,10 @@
 ---
-title: URI::namespaces
+title: URI::namespaces — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: URI
+type: method
 ---
 
 # URI::namespaces

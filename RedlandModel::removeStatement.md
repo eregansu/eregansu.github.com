@@ -1,6 +1,10 @@
 ---
-title: RedlandModel::removeStatement
+title: RedlandModel::removeStatement — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandModel
+type: method
 ---
 
 # RedlandModel::removeStatement

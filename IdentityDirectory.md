@@ -1,6 +1,10 @@
 ---
-title: IdentityDirectory
+title: IdentityDirectory — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IdentityDirectory
+type: class
 ---
 
 # IdentityDirectory

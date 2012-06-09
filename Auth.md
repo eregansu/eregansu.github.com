@@ -1,6 +1,10 @@
 ---
-title: Auth
+title: Auth — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Auth
+type: class
 ---
 
 # Auth

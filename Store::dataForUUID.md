@@ -1,6 +1,10 @@
 ---
-title: Store::dataForUUID
+title: Store::dataForUUID — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::dataForUUID

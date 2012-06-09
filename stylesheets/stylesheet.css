@@ -434,3 +434,28 @@ Small Device Styles
 
 i { color: #070; }
 b { color: #700; }
+
+nav.crumb {
+	background: #b8c1ca;
+	display: block;
+	margin: 0;
+	padding: 4px;
+	color: #666;
+}
+nav.crumb ul, nav.crumb li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: inline;
+}
+nav.crumb li:after {
+	content: ' > ';
+}
+nav.crumb li:last-child:after {
+	content: '';
+}
+nav.crumb a:link, nav.crumb a:visited {
+	color: #000;
+}
+
+

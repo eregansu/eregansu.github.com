@@ -1,6 +1,10 @@
 ---
-title: CLIRequest::redirect
+title: CLIRequest::redirect — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: CLIRequest
+type: method
 ---
 
 # CLIRequest::redirect

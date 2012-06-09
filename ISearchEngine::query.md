@@ -1,6 +1,10 @@
 ---
-title: ISearchEngine::query
+title: ISearchEngine::query — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ISearchEngine
+type: method
 ---
 
 # ISearchEngine::query

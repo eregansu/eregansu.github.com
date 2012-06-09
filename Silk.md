@@ -1,6 +1,10 @@
 ---
-title: Silk
+title: Silk — Eregansu's Silk web server
+package: SilkServer
+packageTitle: Eregansu's Silk web server
 layout: default
+className: Silk
+type: class
 ---
 
 # Silk

@@ -1,6 +1,10 @@
 ---
-title: Auth::authEngineForToken
+title: Auth::authEngineForToken — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Auth
+type: method
 ---
 
 # Auth::authEngineForToken

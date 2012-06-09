@@ -1,6 +1,10 @@
 ---
-title: RedlandModel::serialiseToString
+title: RedlandModel::serialiseToString — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandModel
+type: method
 ---
 
 # RedlandModel::serialiseToString

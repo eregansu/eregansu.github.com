@@ -1,6 +1,10 @@
 ---
-title: Router::process
+title: Router::process — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Router
+type: method
 ---
 
 # Router::process

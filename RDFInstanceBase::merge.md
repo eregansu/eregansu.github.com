@@ -1,6 +1,10 @@
 ---
-title: RDFInstanceBase::merge
+title: RDFInstanceBase::merge — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFInstanceBase
+type: method
 ---
 
 # RDFInstanceBase::merge

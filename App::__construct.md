@@ -1,6 +1,10 @@
 ---
-title: App::__construct
+title: App::__construct — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: App
+type: method
 ---
 
 # App::__construct

@@ -1,6 +1,10 @@
 ---
-title: RDF::uriPredicates
+title: RDF::uriPredicates — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDF
+type: method
 ---
 
 # RDF::uriPredicates

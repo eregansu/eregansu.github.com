@@ -1,6 +1,10 @@
 ---
-title: MySQL::selectDatabase
+title: MySQL::selectDatabase — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MySQL
+type: method
 ---
 
 # MySQL::selectDatabase

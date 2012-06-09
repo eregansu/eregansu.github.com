@@ -1,11 +1,17 @@
 ---
-title: RDFInstance
+title: RDFInstance — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFInstance
+type: class
 ---
 
 # RDFInstance
 
 <code>RDFInstance</code> is a class derived from <code><a href="RDFInstanceBase">RDFInstanceBase</a></code>.
+
+<a href="https://github.com/eregansu/lib/blob/master/rdf.php">View source</a>
 
 ## Synopsis
 

@@ -1,6 +1,10 @@
 ---
-title: RedlandParser::parseFileIntoModel
+title: RedlandParser::parseFileIntoModel — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandParser
+type: method
 ---
 
 # RedlandParser::parseFileIntoModel

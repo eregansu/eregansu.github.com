@@ -1,6 +1,10 @@
 ---
-title: Observers::forget
+title: Observers::forget — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Observers
+type: method
 ---
 
 # Observers::forget

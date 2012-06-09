@@ -1,6 +1,10 @@
 ---
-title: SQLite3Set::__construct
+title: SQLite3Set::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLite3Set
+type: method
 ---
 
 # SQLite3Set::__construct

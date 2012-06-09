@@ -1,6 +1,10 @@
 ---
-title: ASN1
+title: ASN1 — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ASN1
+type: class
 ---
 
 # ASN1
@@ -8,6 +12,8 @@ layout: default
 ASN.1 decoding support.
 
 <code>ASN1</code> is an abstract base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/asn1.php">View source</a>
 
 ## Synopsis
 

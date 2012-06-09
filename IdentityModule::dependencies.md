@@ -1,6 +1,10 @@
 ---
-title: IdentityModule::dependencies
+title: IdentityModule::dependencies — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IdentityModule
+type: method
 ---
 
 # IdentityModule::dependencies

@@ -1,6 +1,10 @@
 ---
-title: RDF::barePredicates
+title: RDF::barePredicates — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDF
+type: method
 ---
 
 # RDF::barePredicates

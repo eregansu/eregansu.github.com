@@ -1,11 +1,17 @@
 ---
-title: SQLite3DB
+title: SQLite3DB — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLite3DB
+type: class
 ---
 
 # SQLite3DB
 
 <code>SQLite3DB</code> is a class derived from <code><a href="DBCore">DBCore</a></code>.
+
+<a href="https://github.com/eregansu/lib/blob/master/db/sqlite3.php">View source</a>
 
 ## Public Methods
 

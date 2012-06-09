@@ -1,6 +1,10 @@
 ---
-title: Identity::__construct
+title: Identity::__construct — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Identity
+type: method
 ---
 
 # Identity::__construct

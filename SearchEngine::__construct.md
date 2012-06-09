@@ -1,6 +1,10 @@
 ---
-title: SearchEngine::__construct
+title: SearchEngine::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SearchEngine
+type: method
 ---
 
 # SearchEngine::__construct

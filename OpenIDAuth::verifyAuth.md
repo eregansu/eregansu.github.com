@@ -1,6 +1,10 @@
 ---
-title: OpenIDAuth::verifyAuth
+title: OpenIDAuth::verifyAuth — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: OpenIDAuth
+type: method
 ---
 
 # OpenIDAuth::verifyAuth

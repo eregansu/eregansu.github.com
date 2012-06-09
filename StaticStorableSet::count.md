@@ -1,6 +1,10 @@
 ---
-title: StaticStorableSet::count
+title: StaticStorableSet::count — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: StaticStorableSet
+type: method
 ---
 
 # StaticStorableSet::count

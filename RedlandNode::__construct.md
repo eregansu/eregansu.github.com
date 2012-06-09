@@ -1,6 +1,10 @@
 ---
-title: RedlandNode::__construct
+title: RedlandNode::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandNode
+type: method
 ---
 
 # RedlandNode::__construct

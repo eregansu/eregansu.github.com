@@ -1,6 +1,10 @@
 ---
-title: Template::__construct
+title: Template::__construct — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Template
+type: method
 ---
 
 # Template::__construct

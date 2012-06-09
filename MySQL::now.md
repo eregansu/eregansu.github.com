@@ -1,6 +1,10 @@
 ---
-title: MySQL::now
+title: MySQL::now — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MySQL
+type: method
 ---
 
 # MySQL::now

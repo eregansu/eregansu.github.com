@@ -1,6 +1,10 @@
 ---
-title: RDFSet::addStream
+title: RDFSet::addStream — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFSet
+type: method
 ---
 
 # RDFSet::addStream

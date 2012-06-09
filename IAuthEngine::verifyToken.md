@@ -1,6 +1,10 @@
 ---
-title: IAuthEngine::verifyToken
+title: IAuthEngine::verifyToken — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IAuthEngine
+type: method
 ---
 
 # IAuthEngine::verifyToken

@@ -1,6 +1,10 @@
 ---
-title: HTTPRequest::consumeForApp
+title: HTTPRequest::consumeForApp — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: HTTPRequest
+type: method
 ---
 
 # HTTPRequest::consumeForApp

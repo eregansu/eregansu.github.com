@@ -1,6 +1,10 @@
 ---
-title: Module::updateSchema
+title: Module::updateSchema — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Module
+type: method
 ---
 
 # Module::updateSchema

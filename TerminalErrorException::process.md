@@ -1,6 +1,10 @@
 ---
-title: TerminalErrorException::process
+title: TerminalErrorException::process — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: TerminalErrorException
+type: method
 ---
 
 # TerminalErrorException::process

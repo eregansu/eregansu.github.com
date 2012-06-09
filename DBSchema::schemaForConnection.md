@@ -1,6 +1,10 @@
 ---
-title: DBSchema::schemaForConnection
+title: DBSchema::schemaForConnection — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBSchema
+type: method
 ---
 
 # DBSchema::schemaForConnection

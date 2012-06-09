@@ -1,6 +1,10 @@
 ---
-title: IdentityFile
+title: IdentityFile — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IdentityFile
+type: class
 ---
 
 # IdentityFile

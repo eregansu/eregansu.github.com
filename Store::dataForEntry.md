@@ -1,6 +1,10 @@
 ---
-title: Store::dataForEntry
+title: Store::dataForEntry — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::dataForEntry

@@ -1,6 +1,10 @@
 ---
-title: SilkRequest::flush
+title: SilkRequest::flush — Eregansu's Silk web server
+package: SilkServer
+packageTitle: Eregansu's Silk web server
 layout: default
+className: SilkRequest
+type: method
 ---
 
 # SilkRequest::flush

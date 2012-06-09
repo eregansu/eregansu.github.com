@@ -1,6 +1,10 @@
 ---
-title: RDFStore
+title: RDFStore — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: RDFStore
+type: class
 ---
 
 # RDFStore

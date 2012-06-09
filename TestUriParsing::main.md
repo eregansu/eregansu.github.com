@@ -1,6 +1,10 @@
 ---
-title: TestUriParsing::main
+title: TestUriParsing::main — Eregansu Core Library Tests
+package: lib-tests
+packageTitle: Eregansu Core Library Tests
 layout: default
+className: TestUriParsing
+type: method
 ---
 
 # TestUriParsing::main

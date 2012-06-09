@@ -1,6 +1,10 @@
 ---
-title: RDFDateTime::__construct
+title: RDFDateTime::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFDateTime
+type: method
 ---
 
 # RDFDateTime::__construct

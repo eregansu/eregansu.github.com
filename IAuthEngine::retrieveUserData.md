@@ -1,6 +1,10 @@
 ---
-title: IAuthEngine::retrieveUserData
+title: IAuthEngine::retrieveUserData — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IAuthEngine
+type: method
 ---
 
 # IAuthEngine::retrieveUserData

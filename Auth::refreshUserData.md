@@ -1,6 +1,10 @@
 ---
-title: Auth::refreshUserData
+title: Auth::refreshUserData — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Auth
+type: method
 ---
 
 # Auth::refreshUserData

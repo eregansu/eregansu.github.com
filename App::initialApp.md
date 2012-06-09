@@ -1,6 +1,10 @@
 ---
-title: App::initialApp
+title: App::initialApp — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: App
+type: method
 ---
 
 # App::initialApp

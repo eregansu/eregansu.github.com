@@ -1,6 +1,10 @@
 ---
-title: RDFInstanceBase::isA
+title: RDFInstanceBase::isA — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFInstanceBase
+type: method
 ---
 
 # RDFInstanceBase::isA

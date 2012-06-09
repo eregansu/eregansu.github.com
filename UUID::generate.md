@@ -1,6 +1,10 @@
 ---
-title: UUID::generate
+title: UUID::generate — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: UUID
+type: method
 ---
 
 # UUID::generate

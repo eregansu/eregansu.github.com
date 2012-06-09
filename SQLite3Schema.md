@@ -1,11 +1,17 @@
 ---
-title: SQLite3Schema
+title: SQLite3Schema — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLite3Schema
+type: class
 ---
 
 # SQLite3Schema
 
 <code>SQLite3Schema</code> is a class derived from <code><a href="DBSchema">DBSchema</a></code>.
+
+<a href="https://github.com/eregansu/lib/blob/master/db/sqlite3-schema.php">View source</a>
 
 ## Public Methods
 

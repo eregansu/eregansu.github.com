@@ -1,6 +1,10 @@
 ---
-title: RDFStore::subjectOfObject
+title: RDFStore::subjectOfObject — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: RDFStore
+type: method
 ---
 
 # RDFStore::subjectOfObject

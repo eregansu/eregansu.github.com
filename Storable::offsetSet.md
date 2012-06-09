@@ -1,6 +1,10 @@
 ---
-title: Storable::offsetSet
+title: Storable::offsetSet — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Storable
+type: method
 ---
 
 # Storable::offsetSet

@@ -1,6 +1,10 @@
 ---
-title: Request::setCookie
+title: Request::setCookie — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Request
+type: method
 ---
 
 # Request::setCookie

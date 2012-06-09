@@ -1,11 +1,17 @@
 ---
-title: MySQLSchema
+title: MySQLSchema — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MySQLSchema
+type: class
 ---
 
 # MySQLSchema
 
 <code>MySQLSchema</code> is a class derived from <code><a href="DBSchema">DBSchema</a></code>.
+
+<a href="https://github.com/eregansu/lib/blob/master/db/mysql-schema.php">View source</a>
 
 ## Public Methods
 

@@ -1,6 +1,10 @@
 ---
-title: RDFStoredObject
+title: RDFStoredObject — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: RDFStoredObject
+type: class
 ---
 
 # RDFStoredObject

@@ -1,6 +1,10 @@
 ---
-title: RedlandWorld::getFeature
+title: RedlandWorld::getFeature — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandWorld
+type: method
 ---
 
 # RedlandWorld::getFeature

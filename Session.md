@@ -1,6 +1,10 @@
 ---
-title: Session
+title: Session — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Session
+type: class
 ---
 
 # Session
@@ -8,6 +12,8 @@ layout: default
 Session handling
 
 <code>Session</code> is a base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/session.php">View source</a>
 
 ## Description
 

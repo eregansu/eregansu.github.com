@@ -1,6 +1,10 @@
 ---
-title: URI::uriForPrefix
+title: URI::uriForPrefix — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: URI
+type: method
 ---
 
 # URI::uriForPrefix

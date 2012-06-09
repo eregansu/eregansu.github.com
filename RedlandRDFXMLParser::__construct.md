@@ -1,6 +1,10 @@
 ---
-title: RedlandRDFXMLParser::__construct
+title: RedlandRDFXMLParser::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandRDFXMLParser
+type: method
 ---
 
 # RedlandRDFXMLParser::__construct

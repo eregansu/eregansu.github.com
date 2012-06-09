@@ -1,6 +1,10 @@
 ---
-title: Curl::headerFunction
+title: Curl::headerFunction — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Curl
+type: method
 ---
 
 # Curl::headerFunction

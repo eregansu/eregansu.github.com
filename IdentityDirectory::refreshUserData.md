@@ -1,6 +1,10 @@
 ---
-title: IdentityDirectory::refreshUserData
+title: IdentityDirectory::refreshUserData — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IdentityDirectory
+type: method
 ---
 
 # IdentityDirectory::refreshUserData

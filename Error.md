@@ -1,6 +1,10 @@
 ---
-title: Error
+title: Error — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Error
+type: class
 ---
 
 # Error

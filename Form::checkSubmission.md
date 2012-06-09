@@ -1,6 +1,10 @@
 ---
-title: Form::checkSubmission
+title: Form::checkSubmission — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Form
+type: method
 ---
 
 # Form::checkSubmission

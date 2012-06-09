@@ -1,6 +1,10 @@
 ---
-title: UUID::iri
+title: UUID::iri — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: UUID
+type: method
 ---
 
 # UUID::iri

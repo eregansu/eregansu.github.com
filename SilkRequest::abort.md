@@ -1,6 +1,10 @@
 ---
-title: SilkRequest::abort
+title: SilkRequest::abort — Eregansu's Silk web server
+package: SilkServer
+packageTitle: Eregansu's Silk web server
 layout: default
+className: SilkRequest
+type: method
 ---
 
 # SilkRequest::abort

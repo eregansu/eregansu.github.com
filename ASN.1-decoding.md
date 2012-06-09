@@ -1,6 +1,9 @@
 ---
-title: ASN.1 decoding
+title: ASN.1 decoding — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+type: task
 ---
 
 # ASN.1 decoding

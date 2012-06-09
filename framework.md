@@ -1,6 +1,9 @@
 ---
-title: Eregansu Framework
+title: Eregansu Framework — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+type: package
 ---
 
 # Eregansu Framework

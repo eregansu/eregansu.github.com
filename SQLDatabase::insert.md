@@ -1,6 +1,10 @@
 ---
-title: SQLDatabase::insert
+title: SQLDatabase::insert — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLDatabase
+type: method
 ---
 
 # SQLDatabase::insert

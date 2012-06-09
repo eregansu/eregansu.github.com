@@ -1,6 +1,10 @@
 ---
-title: TemplateFileHandler
+title: TemplateFileHandler — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: TemplateFileHandler
+type: class
 ---
 
 # TemplateFileHandler

@@ -1,6 +1,10 @@
 ---
-title: CurlCache::exec
+title: CurlCache::exec — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: CurlCache
+type: method
 ---
 
 # CurlCache::exec

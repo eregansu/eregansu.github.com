@@ -1,6 +1,10 @@
 ---
-title: CliSetup
+title: CliSetup — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: CliSetup
+type: class
 ---
 
 # CliSetup

@@ -1,6 +1,10 @@
 ---
-title: ModuleInstaller::__construct
+title: ModuleInstaller::__construct — Autoconfiguration/Installation Support
+package: install
+packageTitle: Autoconfiguration/Installation Support
 layout: default
+className: ModuleInstaller
+type: method
 ---
 
 # ModuleInstaller::__construct

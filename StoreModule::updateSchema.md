@@ -1,6 +1,10 @@
 ---
-title: StoreModule::updateSchema
+title: StoreModule::updateSchema — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: StoreModule
+type: method
 ---
 
 # StoreModule::updateSchema

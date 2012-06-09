@@ -1,6 +1,10 @@
 ---
-title: Storable::store
+title: Storable::store — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Storable
+type: method
 ---
 
 # Storable::store

@@ -1,6 +1,10 @@
 ---
-title: BuiltinAuth
+title: BuiltinAuth — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: BuiltinAuth
+type: class
 ---
 
 # BuiltinAuth

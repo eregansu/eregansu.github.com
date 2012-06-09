@@ -1,6 +1,10 @@
 ---
-title: StaticStorableSet::rewind
+title: StaticStorableSet::rewind — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: StaticStorableSet
+type: method
 ---
 
 # StaticStorableSet::rewind

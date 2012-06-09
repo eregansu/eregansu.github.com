@@ -1,6 +1,10 @@
 ---
-title: DBTable::column
+title: DBTable::column — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBTable
+type: method
 ---
 
 # DBTable::column

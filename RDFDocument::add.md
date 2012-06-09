@@ -1,6 +1,10 @@
 ---
-title: RDFDocument::add
+title: RDFDocument::add — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFDocument
+type: method
 ---
 
 # RDFDocument::add

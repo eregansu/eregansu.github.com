@@ -1,6 +1,10 @@
 ---
-title: DBStorableSet::key
+title: DBStorableSet::key — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: DBStorableSet
+type: method
 ---
 
 # DBStorableSet::key

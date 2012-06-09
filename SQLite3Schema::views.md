@@ -1,6 +1,10 @@
 ---
-title: SQLite3Schema::views
+title: SQLite3Schema::views — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLite3Schema
+type: method
 ---
 
 # SQLite3Schema::views

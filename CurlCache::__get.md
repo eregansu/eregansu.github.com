@@ -1,6 +1,10 @@
 ---
-title: CurlCache::__get
+title: CurlCache::__get — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: CurlCache
+type: method
 ---
 
 # CurlCache::__get

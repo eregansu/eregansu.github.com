@@ -1,6 +1,10 @@
 ---
-title: IAuthEngine::callback
+title: IAuthEngine::callback — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IAuthEngine
+type: method
 ---
 
 # IAuthEngine::callback

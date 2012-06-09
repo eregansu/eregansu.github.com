@@ -1,6 +1,10 @@
 ---
-title: ICommandLine
+title: ICommandLine — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: ICommandLine
+type: interface
 ---
 
 # ICommandLine

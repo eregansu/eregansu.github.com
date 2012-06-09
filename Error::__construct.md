@@ -1,6 +1,10 @@
 ---
-title: Error::__construct
+title: Error::__construct — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Error
+type: method
 ---
 
 # Error::__construct

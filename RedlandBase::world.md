@@ -1,6 +1,10 @@
 ---
-title: RedlandBase::world
+title: RedlandBase::world — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandBase
+type: method
 ---
 
 # RedlandBase::world

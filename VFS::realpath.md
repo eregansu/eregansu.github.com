@@ -1,6 +1,10 @@
 ---
-title: VFS::realpath
+title: VFS::realpath — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: VFS
+type: method
 ---
 
 # VFS::realpath

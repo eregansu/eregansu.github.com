@@ -1,6 +1,10 @@
 ---
-title: RDFSet::add
+title: RDFSet::add — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFSet
+type: method
 ---
 
 # RDFSet::add

@@ -1,6 +1,10 @@
 ---
-title: TemplateFileHandler::stream_eof
+title: TemplateFileHandler::stream_eof — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: TemplateFileHandler
+type: method
 ---
 
 # TemplateFileHandler::stream_eof

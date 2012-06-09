@@ -1,6 +1,10 @@
 ---
-title: SQLDatabase::rowArray
+title: SQLDatabase::rowArray — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLDatabase
+type: method
 ---
 
 # SQLDatabase::rowArray

@@ -1,6 +1,10 @@
 ---
-title: XapianSearch::query
+title: XapianSearch::query — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: XapianSearch
+type: method
 ---
 
 # XapianSearch::query

@@ -1,6 +1,10 @@
 ---
-title: RDFDocument::__get
+title: RDFDocument::__get — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFDocument
+type: method
 ---
 
 # RDFDocument::__get

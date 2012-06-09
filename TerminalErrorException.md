@@ -1,6 +1,10 @@
 ---
-title: TerminalErrorException
+title: TerminalErrorException — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: TerminalErrorException
+type: class
 ---
 
 # TerminalErrorException

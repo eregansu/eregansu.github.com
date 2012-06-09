@@ -1,6 +1,10 @@
 ---
-title: RDFDocument::offsetSet
+title: RDFDocument::offsetSet — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFDocument
+type: method
 ---
 
 # RDFDocument::offsetSet

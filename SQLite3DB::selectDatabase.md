@@ -1,6 +1,10 @@
 ---
-title: SQLite3DB::selectDatabase
+title: SQLite3DB::selectDatabase — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLite3DB
+type: method
 ---
 
 # SQLite3DB::selectDatabase

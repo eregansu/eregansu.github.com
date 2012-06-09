@@ -1,6 +1,10 @@
 ---
-title: Store::objectAsArray
+title: Store::objectAsArray — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::objectAsArray

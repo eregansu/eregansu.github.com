@@ -1,6 +1,10 @@
 ---
-title: Database::__construct
+title: Database::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Database
+type: method
 ---
 
 # Database::__construct

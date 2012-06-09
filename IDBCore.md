@@ -1,6 +1,10 @@
 ---
-title: IDBCore
+title: IDBCore — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: IDBCore
+type: interface
 ---
 
 # IDBCore

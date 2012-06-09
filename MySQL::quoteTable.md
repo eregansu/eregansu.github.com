@@ -1,6 +1,10 @@
 ---
-title: MySQL::quoteTable
+title: MySQL::quoteTable — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MySQL
+type: method
 ---
 
 # MySQL::quoteTable

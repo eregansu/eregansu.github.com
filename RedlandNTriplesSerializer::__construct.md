@@ -1,6 +1,10 @@
 ---
-title: RedlandNTriplesSerializer::__construct
+title: RedlandNTriplesSerializer::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandNTriplesSerializer
+type: method
 ---
 
 # RedlandNTriplesSerializer::__construct

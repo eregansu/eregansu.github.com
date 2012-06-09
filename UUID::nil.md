@@ -1,6 +1,10 @@
 ---
-title: UUID::nil
+title: UUID::nil — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: UUID
+type: method
 ---
 
 # UUID::nil

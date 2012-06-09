@@ -1,6 +1,10 @@
 ---
-title: Curl::__destruct
+title: Curl::__destruct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Curl
+type: method
 ---
 
 # Curl::__destruct

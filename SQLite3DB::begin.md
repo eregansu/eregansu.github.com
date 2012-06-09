@@ -1,6 +1,10 @@
 ---
-title: SQLite3DB::begin
+title: SQLite3DB::begin — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLite3DB
+type: method
 ---
 
 # SQLite3DB::begin

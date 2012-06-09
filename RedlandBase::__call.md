@@ -1,6 +1,10 @@
 ---
-title: RedlandBase::__call
+title: RedlandBase::__call — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandBase
+type: method
 ---
 
 # RedlandBase::__call

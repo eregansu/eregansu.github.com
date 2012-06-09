@@ -1,6 +1,10 @@
 ---
-title: SQLite3Schema::moduleVersion
+title: SQLite3Schema::moduleVersion — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLite3Schema
+type: method
 ---
 
 # SQLite3Schema::moduleVersion

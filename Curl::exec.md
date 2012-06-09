@@ -1,6 +1,10 @@
 ---
-title: Curl::exec
+title: Curl::exec — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Curl
+type: method
 ---
 
 # Curl::exec

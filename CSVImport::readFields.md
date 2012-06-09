@@ -1,6 +1,10 @@
 ---
-title: CSVImport::readFields
+title: CSVImport::readFields — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: CSVImport
+type: method
 ---
 
 # CSVImport::readFields

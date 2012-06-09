@@ -1,6 +1,10 @@
 ---
-title: IContentStore::fetch
+title: IContentStore::fetch — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: IContentStore
+type: method
 ---
 
 # IContentStore::fetch

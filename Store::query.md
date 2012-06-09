@@ -1,6 +1,10 @@
 ---
-title: Store::query
+title: Store::query — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::query

@@ -1,6 +1,10 @@
 ---
-title: MySQL::insertId
+title: MySQL::insertId — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MySQL
+type: method
 ---
 
 # MySQL::insertId

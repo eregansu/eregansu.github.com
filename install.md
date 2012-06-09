@@ -1,6 +1,9 @@
 ---
-title: Autoconfiguration/Installation Support
+title: Autoconfiguration/Installation Support — Autoconfiguration/Installation Support
+package: install
+packageTitle: Autoconfiguration/Installation Support
 layout: default
+type: package
 ---
 
 # Autoconfiguration/Installation Support

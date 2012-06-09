@@ -1,11 +1,17 @@
 ---
-title: XMLParser
+title: XMLParser — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: XMLParser
+type: class
 ---
 
 # XMLParser
 
 <code>XMLParser</code> is a base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/xml.php">View source</a>
 
 ## Public Static Methods
 

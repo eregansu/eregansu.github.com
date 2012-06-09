@@ -1,6 +1,10 @@
 ---
-title: Store::insertId
+title: Store::insertId — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::insertId

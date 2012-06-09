@@ -1,6 +1,10 @@
 ---
-title: RedlandParser::__construct
+title: RedlandParser::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandParser
+type: method
 ---
 
 # RedlandParser::__construct

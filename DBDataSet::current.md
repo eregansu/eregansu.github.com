@@ -1,6 +1,10 @@
 ---
-title: DBDataSet::current
+title: DBDataSet::current — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBDataSet
+type: method
 ---
 
 # DBDataSet::current

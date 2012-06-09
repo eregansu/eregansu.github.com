@@ -1,6 +1,10 @@
 ---
-title: RedlandNode::blankId
+title: RedlandNode::blankId — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandNode
+type: method
 ---
 
 # RedlandNode::blankId

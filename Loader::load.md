@@ -1,6 +1,10 @@
 ---
-title: Loader::load
+title: Loader::load — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Loader
+type: method
 ---
 
 # Loader::load

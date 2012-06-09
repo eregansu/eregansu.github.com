@@ -1,6 +1,10 @@
 ---
-title: RDFStoredObject::objectForData
+title: RDFStoredObject::objectForData — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: RDFStoredObject
+type: method
 ---
 
 # RDFStoredObject::objectForData

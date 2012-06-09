@@ -1,6 +1,10 @@
 ---
-title: HTTPRequest::pageMatch
+title: HTTPRequest::pageMatch — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: HTTPRequest
+type: method
 ---
 
 # HTTPRequest::pageMatch

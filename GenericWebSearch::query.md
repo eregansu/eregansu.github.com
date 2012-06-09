@@ -1,6 +1,10 @@
 ---
-title: GenericWebSearch::query
+title: GenericWebSearch::query — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: GenericWebSearch
+type: method
 ---
 
 # GenericWebSearch::query

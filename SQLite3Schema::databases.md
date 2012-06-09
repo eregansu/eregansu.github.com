@@ -1,6 +1,10 @@
 ---
-title: SQLite3Schema::databases
+title: SQLite3Schema::databases — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLite3Schema
+type: method
 ---
 
 # SQLite3Schema::databases

@@ -1,6 +1,10 @@
 ---
-title: OpenIDAuth::callback
+title: OpenIDAuth::callback — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: OpenIDAuth
+type: method
 ---
 
 # OpenIDAuth::callback

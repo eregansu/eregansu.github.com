@@ -1,6 +1,10 @@
 ---
-title: HTTPRequest::consume
+title: HTTPRequest::consume — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: HTTPRequest
+type: method
 ---
 
 # HTTPRequest::consume

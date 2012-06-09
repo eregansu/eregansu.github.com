@@ -1,6 +1,10 @@
 ---
-title: BuiltinAuth::retrieveUserData
+title: BuiltinAuth::retrieveUserData — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: BuiltinAuth
+type: method
 ---
 
 # BuiltinAuth::retrieveUserData

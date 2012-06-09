@@ -18,7 +18,7 @@
         <header class="inner">
           <a id="forkme_banner" href="https://github.com/eregansu/eregansu">View on GitHub</a>
 
-          <h1 id="project_title">Eregansu</h1>
+          <h1 id="project_title"><a href="{{ site.url }}/">Eregansu</a></h1>
           <h2 id="project_tagline">A PHP application platform</h2>
 
 <!--            <section id="downloads">
@@ -27,10 +27,24 @@
             </section> -->
         </header>
     </div>
-
+	{% if page.package %}
+	<nav class="crumb">
+	  <ul>
+		<li><a href="{{ site.url }}/">Eregansu</a></li>
+		{% if page.type != 'package' %}
+		<li><a href="{{ site.url }}/{{ page.package }}">{{ page.packageTitle }}</a></li>
+		{% endif %}
+		{% if page.className %}
+		{% if page.type != 'class' && page.type != 'interface' %}
+		<li><a href="{{ site.url }}/{{ page.className }}">{{ page.className }}</a></li>
+		{% endif %}
+		{% endif %}
+	  </ul>
+	</nav>
+	{% endif %}
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
+      <section id="main_content" class="inner" role="main">
 		{{ content }}
 	  </section>
 	</div>

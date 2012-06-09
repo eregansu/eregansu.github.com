@@ -1,6 +1,10 @@
 ---
-title: RDFTriple::subject
+title: RDFTriple::subject — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFTriple
+type: method
 ---
 
 # RDFTriple::subject

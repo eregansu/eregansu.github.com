@@ -1,6 +1,10 @@
 ---
-title: TestErrorException::main
+title: TestErrorException::main — Eregansu Core Library Tests
+package: lib-tests
+packageTitle: Eregansu Core Library Tests
 layout: default
+className: TestErrorException
+type: method
 ---
 
 # TestErrorException::main

@@ -1,6 +1,10 @@
 ---
-title: Request::err
+title: Request::err — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Request
+type: method
 ---
 
 # Request::err

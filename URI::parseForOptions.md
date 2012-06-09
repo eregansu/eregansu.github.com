@@ -1,6 +1,10 @@
 ---
-title: URI::parseForOptions
+title: URI::parseForOptions — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: URI
+type: method
 ---
 
 # URI::parseForOptions

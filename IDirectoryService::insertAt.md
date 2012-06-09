@@ -1,6 +1,10 @@
 ---
-title: IDirectoryService::insertAt
+title: IDirectoryService::insertAt — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: IDirectoryService
+type: method
 ---
 
 # IDirectoryService::insertAt

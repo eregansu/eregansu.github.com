@@ -1,6 +1,10 @@
 ---
-title: RDFXMLLiteral::fromDOM
+title: RDFXMLLiteral::fromDOM — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFXMLLiteral
+type: method
 ---
 
 # RDFXMLLiteral::fromDOM

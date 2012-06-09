@@ -1,6 +1,10 @@
 ---
-title: RedlandNode::__toString
+title: RedlandNode::__toString — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandNode
+type: method
 ---
 
 # RedlandNode::__toString

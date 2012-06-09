@@ -1,6 +1,10 @@
 ---
-title: OpenIDAuth
+title: OpenIDAuth — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: OpenIDAuth
+type: class
 ---
 
 # OpenIDAuth

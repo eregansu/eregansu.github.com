@@ -1,6 +1,10 @@
 ---
-title: Curl::version
+title: Curl::version — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Curl
+type: method
 ---
 
 # Curl::version

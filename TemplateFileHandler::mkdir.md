@@ -1,6 +1,10 @@
 ---
-title: TemplateFileHandler::mkdir
+title: TemplateFileHandler::mkdir — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: TemplateFileHandler
+type: method
 ---
 
 # TemplateFileHandler::mkdir

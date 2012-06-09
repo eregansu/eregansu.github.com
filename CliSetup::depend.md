@@ -1,6 +1,10 @@
 ---
-title: CliSetup::depend
+title: CliSetup::depend — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: CliSetup
+type: method
 ---
 
 # CliSetup::depend

@@ -1,6 +1,10 @@
 ---
-title: MySQLSchema::moduleVersion
+title: MySQLSchema::moduleVersion — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MySQLSchema
+type: method
 ---
 
 # MySQLSchema::moduleVersion

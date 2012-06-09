@@ -1,6 +1,10 @@
 ---
-title: TemplateFileHandler::stream_read
+title: TemplateFileHandler::stream_read — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: TemplateFileHandler
+type: method
 ---
 
 # TemplateFileHandler::stream_read

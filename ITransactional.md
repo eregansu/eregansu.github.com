@@ -1,6 +1,10 @@
 ---
-title: ITransactional
+title: ITransactional — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ITransactional
+type: interface
 ---
 
 # ITransactional

@@ -1,6 +1,10 @@
 ---
-title: Observers::invoke
+title: Observers::invoke — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Observers
+type: method
 ---
 
 # Observers::invoke

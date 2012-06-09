@@ -1,6 +1,10 @@
 ---
-title: RDFXMLStreamParser::__construct
+title: RDFXMLStreamParser::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFXMLStreamParser
+type: method
 ---
 
 # RDFXMLStreamParser::__construct

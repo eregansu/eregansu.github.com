@@ -1,6 +1,10 @@
 ---
-title: RDFComplexLiteral::fromDOM
+title: RDFComplexLiteral::fromDOM — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFComplexLiteral
+type: method
 ---
 
 # RDFComplexLiteral::fromDOM

@@ -1,6 +1,10 @@
 ---
-title: RDFInstance::transform
+title: RDFInstance::transform — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFInstance
+type: method
 ---
 
 # RDFInstance::transform

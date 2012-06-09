@@ -1,6 +1,10 @@
 ---
-title: ITransactional::rollback
+title: ITransactional::rollback — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ITransactional
+type: method
 ---
 
 # ITransactional::rollback

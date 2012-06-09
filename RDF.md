@@ -1,6 +1,10 @@
 ---
-title: RDF
+title: RDF — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDF
+type: class
 ---
 
 # RDF
@@ -8,6 +12,8 @@ layout: default
 Utility methods for instantiating RDF documents.
 
 <code>RDF</code> is an abstract class derived from <code><a href="URI">URI</a></code>.
+
+<a href="https://github.com/eregansu/lib/blob/master/rdf.php">View source</a>
 
 ## Synopsis
 

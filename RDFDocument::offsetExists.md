@@ -1,6 +1,10 @@
 ---
-title: RDFDocument::offsetExists
+title: RDFDocument::offsetExists — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFDocument
+type: method
 ---
 
 # RDFDocument::offsetExists

@@ -1,6 +1,10 @@
 ---
-title: CSVImport::rowFlat
+title: CSVImport::rowFlat — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: CSVImport
+type: method
 ---
 
 # CSVImport::rowFlat

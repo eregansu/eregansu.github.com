@@ -1,6 +1,10 @@
 ---
-title: Template::useRequireJS
+title: Template::useRequireJS — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Template
+type: method
 ---
 
 # Template::useRequireJS

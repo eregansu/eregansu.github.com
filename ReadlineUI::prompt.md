@@ -1,6 +1,10 @@
 ---
-title: ReadlineUI::prompt
+title: ReadlineUI::prompt — Autoconfiguration/Installation Support
+package: install
+packageTitle: Autoconfiguration/Installation Support
 layout: default
+className: ReadlineUI
+type: method
 ---
 
 # ReadlineUI::prompt

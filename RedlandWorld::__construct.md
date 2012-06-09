@@ -1,6 +1,10 @@
 ---
-title: RedlandWorld::__construct
+title: RedlandWorld::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandWorld
+type: method
 ---
 
 # RedlandWorld::__construct

@@ -1,6 +1,10 @@
 ---
-title: TemplateFileHandler::stream_write
+title: TemplateFileHandler::stream_write — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: TemplateFileHandler
+type: method
 ---
 
 # TemplateFileHandler::stream_write

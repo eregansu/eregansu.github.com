@@ -1,6 +1,10 @@
 ---
-title: MIME
+title: MIME — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MIME
+type: class
 ---
 
 # MIME
@@ -10,6 +14,8 @@ MIME types and vice versa and obtaining human-readable descriptions
 from MIME types.
 
 <code>MIME</code> is an abstract base class.
+
+<a href="http://github.com/nexgenta/eregansu/blob/master/mime.php">View source</a>
 
 ## Synopsis
 

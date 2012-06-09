@@ -1,6 +1,10 @@
 ---
-title: RDFSet::lang
+title: RDFSet::lang — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFSet
+type: method
 ---
 
 # RDFSet::lang

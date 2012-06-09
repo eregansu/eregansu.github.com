@@ -1,6 +1,10 @@
 ---
-title: RedlandTurtleSerializer::__construct
+title: RedlandTurtleSerializer::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandTurtleSerializer
+type: method
 ---
 
 # RedlandTurtleSerializer::__construct

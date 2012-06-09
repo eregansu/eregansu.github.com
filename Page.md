@@ -1,6 +1,10 @@
 ---
-title: Page
+title: Page — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Page
+type: class
 ---
 
 # Page

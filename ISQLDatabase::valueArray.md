@@ -1,6 +1,10 @@
 ---
-title: ISQLDatabase::valueArray
+title: ISQLDatabase::valueArray — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ISQLDatabase
+type: method
 ---
 
 # ISQLDatabase::valueArray

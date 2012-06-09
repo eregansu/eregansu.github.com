@@ -1,6 +1,10 @@
 ---
-title: URI::__toString
+title: URI::__toString — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: URI
+type: method
 ---
 
 # URI::__toString

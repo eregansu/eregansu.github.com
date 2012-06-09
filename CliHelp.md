@@ -1,6 +1,10 @@
 ---
-title: CliHelp
+title: CliHelp — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: CliHelp
+type: class
 ---
 
 # CliHelp

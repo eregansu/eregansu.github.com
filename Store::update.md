@@ -1,6 +1,10 @@
 ---
-title: Store::update
+title: Store::update — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::update

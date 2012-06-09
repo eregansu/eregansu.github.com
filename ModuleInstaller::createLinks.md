@@ -1,6 +1,10 @@
 ---
-title: ModuleInstaller::createLinks
+title: ModuleInstaller::createLinks — Autoconfiguration/Installation Support
+package: install
+packageTitle: Autoconfiguration/Installation Support
 layout: default
+className: ModuleInstaller
+type: method
 ---
 
 # ModuleInstaller::createLinks

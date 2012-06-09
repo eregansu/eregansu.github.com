@@ -1,6 +1,10 @@
 ---
-title: InstallerUI::end
+title: InstallerUI::end — Autoconfiguration/Installation Support
+package: install
+packageTitle: Autoconfiguration/Installation Support
 layout: default
+className: InstallerUI
+type: method
 ---
 
 # InstallerUI::end

@@ -1,6 +1,10 @@
 ---
-title: HTTPRequest
+title: HTTPRequest — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: HTTPRequest
+type: class
 ---
 
 # HTTPRequest
@@ -8,6 +12,8 @@ layout: default
 Encapsulation of an HTTP request.
 
 <code>HTTPRequest</code> is a class derived from <code><a href="Request">Request</a></code>.
+
+<a href="https://github.com/eregansu/lib/blob/master/request.php">View source</a>
 
 ## Synopsis
 

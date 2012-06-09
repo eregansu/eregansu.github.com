@@ -1,6 +1,10 @@
 ---
-title: Request
+title: Request — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Request
+type: class
 ---
 
 # Request
@@ -8,6 +12,8 @@ layout: default
 Encapsulation of a request from a client.
 
 <code>Request</code> is an abstract base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/request.php">View source</a>
 
 ## Synopsis
 

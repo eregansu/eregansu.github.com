@@ -1,6 +1,10 @@
 ---
-title: RDF::tripleSetFromURL
+title: RDF::tripleSetFromURL — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDF
+type: method
 ---
 
 # RDF::tripleSetFromURL

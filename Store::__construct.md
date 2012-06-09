@@ -1,6 +1,10 @@
 ---
-title: Store::__construct
+title: Store::__construct — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::__construct

@@ -1,6 +1,10 @@
 ---
-title: TestUuidIsUuid::main
+title: TestUuidIsUuid::main — Eregansu Core Library Tests
+package: lib-tests
+packageTitle: Eregansu Core Library Tests
 layout: default
+className: TestUuidIsUuid
+type: method
 ---
 
 # TestUuidIsUuid::main

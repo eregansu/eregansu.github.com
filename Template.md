@@ -1,6 +1,10 @@
 ---
-title: Template
+title: Template — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Template
+type: class
 ---
 
 # Template

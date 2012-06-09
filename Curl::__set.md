@@ -1,6 +1,10 @@
 ---
-title: Curl::__set
+title: Curl::__set — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Curl
+type: method
 ---
 
 # Curl::__set

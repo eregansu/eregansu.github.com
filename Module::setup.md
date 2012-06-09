@@ -1,6 +1,10 @@
 ---
-title: Module::setup
+title: Module::setup — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Module
+type: method
 ---
 
 # Module::setup

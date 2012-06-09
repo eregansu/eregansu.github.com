@@ -1,6 +1,10 @@
 ---
-title: TemplateFileHandler::stream_cast
+title: TemplateFileHandler::stream_cast — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: TemplateFileHandler
+type: method
 ---
 
 # TemplateFileHandler::stream_cast

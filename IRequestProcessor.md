@@ -1,6 +1,10 @@
 ---
-title: IRequestProcessor
+title: IRequestProcessor — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IRequestProcessor
+type: interface
 ---
 
 # IRequestProcessor

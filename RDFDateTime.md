@@ -1,11 +1,17 @@
 ---
-title: RDFDateTime
+title: RDFDateTime — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFDateTime
+type: class
 ---
 
 # RDFDateTime
 
 <code>RDFDateTime</code> is a class derived from <code><a href="RDFComplexLiteral">RDFComplexLiteral</a></code>.
+
+<a href="https://github.com/eregansu/lib/blob/master/rdf.php">View source</a>
 
 ## Synopsis
 

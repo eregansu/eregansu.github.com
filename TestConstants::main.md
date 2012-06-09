@@ -1,6 +1,10 @@
 ---
-title: TestConstants::main
+title: TestConstants::main — Eregansu Core Library Tests
+package: lib-tests
+packageTitle: Eregansu Core Library Tests
 layout: default
+className: TestConstants
+type: method
 ---
 
 # TestConstants::main

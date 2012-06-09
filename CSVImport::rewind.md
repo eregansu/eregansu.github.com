@@ -1,6 +1,10 @@
 ---
-title: CSVImport::rewind
+title: CSVImport::rewind — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: CSVImport
+type: method
 ---
 
 # CSVImport::rewind

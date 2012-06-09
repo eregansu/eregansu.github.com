@@ -1,6 +1,10 @@
 ---
-title: RDFComplexLiteral::asJSONLD
+title: RDFComplexLiteral::asJSONLD — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFComplexLiteral
+type: method
 ---
 
 # RDFComplexLiteral::asJSONLD

@@ -1,6 +1,10 @@
 ---
-title: RDFSet::values
+title: RDFSet::values — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFSet
+type: method
 ---
 
 # RDFSet::values

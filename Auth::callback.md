@@ -1,6 +1,10 @@
 ---
-title: Auth::callback
+title: Auth::callback — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Auth
+type: method
 ---
 
 # Auth::callback

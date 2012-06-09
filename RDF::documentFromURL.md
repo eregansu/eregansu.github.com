@@ -1,6 +1,10 @@
 ---
-title: RDF::documentFromURL
+title: RDF::documentFromURL — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDF
+type: method
 ---
 
 # RDF::documentFromURL

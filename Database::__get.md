@@ -1,6 +1,10 @@
 ---
-title: Database::__get
+title: Database::__get — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Database
+type: method
 ---
 
 # Database::__get

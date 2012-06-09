@@ -1,6 +1,10 @@
 ---
-title: MySQLSchema::databases
+title: MySQLSchema::databases — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MySQLSchema
+type: method
 ---
 
 # MySQLSchema::databases

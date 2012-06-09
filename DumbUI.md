@@ -1,6 +1,10 @@
 ---
-title: DumbUI
+title: DumbUI — Autoconfiguration/Installation Support
+package: install
+packageTitle: Autoconfiguration/Installation Support
 layout: default
+className: DumbUI
+type: class
 ---
 
 # DumbUI

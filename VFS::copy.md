@@ -1,6 +1,10 @@
 ---
-title: VFS::copy
+title: VFS::copy — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: VFS
+type: method
 ---
 
 # VFS::copy

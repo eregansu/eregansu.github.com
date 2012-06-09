@@ -1,6 +1,10 @@
 ---
-title: RDFInstance::title
+title: RDFInstance::title — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFInstance
+type: method
 ---
 
 # RDFInstance::title

@@ -1,6 +1,10 @@
 ---
-title: IContentStore
+title: IContentStore — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: IContentStore
+type: interface
 ---
 
 # IContentStore

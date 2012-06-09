@@ -1,6 +1,10 @@
 ---
-title: PosixAuth::retrieveUserData
+title: PosixAuth::retrieveUserData — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: PosixAuth
+type: method
 ---
 
 # PosixAuth::retrieveUserData

@@ -1,6 +1,10 @@
 ---
-title: CSVImport
+title: CSVImport — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: CSVImport
+type: class
 ---
 
 # CSVImport
@@ -8,6 +12,8 @@ layout: default
 Import data from a CSV file
 
 <code>CSVImport</code> is a base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/csv-import.php">View source</a>
 
 ## Synopsis
 

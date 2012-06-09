@@ -1,6 +1,10 @@
 ---
-title: LDAP::quoteRef
+title: LDAP::quoteRef — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: LDAP
+type: method
 ---
 
 # LDAP::quoteRef

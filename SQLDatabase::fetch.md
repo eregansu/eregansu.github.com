@@ -1,6 +1,10 @@
 ---
-title: SQLDatabase::fetch
+title: SQLDatabase::fetch — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLDatabase
+type: method
 ---
 
 # SQLDatabase::fetch

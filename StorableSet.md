@@ -1,6 +1,10 @@
 ---
-title: StorableSet
+title: StorableSet — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: StorableSet
+type: class
 ---
 
 # StorableSet

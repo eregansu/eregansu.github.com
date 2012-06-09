@@ -1,6 +1,10 @@
 ---
-title: DBCore
+title: DBCore — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBCore
+type: class
 ---
 
 # DBCore

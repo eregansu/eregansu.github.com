@@ -1,6 +1,10 @@
 ---
-title: RDFTripleSet::subject
+title: RDFTripleSet::subject — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFTripleSet
+type: method
 ---
 
 # RDFTripleSet::subject

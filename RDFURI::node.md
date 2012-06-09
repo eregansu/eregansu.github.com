@@ -1,6 +1,10 @@
 ---
-title: RDFURI::node
+title: RDFURI::node — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFURI
+type: method
 ---
 
 # RDFURI::node

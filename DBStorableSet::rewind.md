@@ -1,6 +1,10 @@
 ---
-title: DBStorableSet::rewind
+title: DBStorableSet::rewind — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: DBStorableSet
+type: method
 ---
 
 # DBStorableSet::rewind

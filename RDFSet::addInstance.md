@@ -1,6 +1,10 @@
 ---
-title: RDFSet::addInstance
+title: RDFSet::addInstance — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFSet
+type: method
 ---
 
 # RDFSet::addInstance

@@ -1,6 +1,10 @@
 ---
-title: RDFXMLLiteral::__construct
+title: RDFXMLLiteral::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFXMLLiteral
+type: method
 ---
 
 # RDFXMLLiteral::__construct

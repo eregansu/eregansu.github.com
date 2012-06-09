@@ -1,6 +1,10 @@
 ---
-title: XMLParser::setOption
+title: XMLParser::setOption — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: XMLParser
+type: method
 ---
 
 # XMLParser::setOption

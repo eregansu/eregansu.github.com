@@ -1,6 +1,10 @@
 ---
-title: Auth::verifyAuth
+title: Auth::verifyAuth — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Auth
+type: method
 ---
 
 # Auth::verifyAuth

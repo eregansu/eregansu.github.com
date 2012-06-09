@@ -1,6 +1,10 @@
 ---
-title: RDFInstanceBase::predicateObjectList
+title: RDFInstanceBase::predicateObjectList — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFInstanceBase
+type: method
 ---
 
 # RDFInstanceBase::predicateObjectList

@@ -1,6 +1,10 @@
 ---
-title: URI::offsetGet
+title: URI::offsetGet — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: URI
+type: method
 ---
 
 # URI::offsetGet

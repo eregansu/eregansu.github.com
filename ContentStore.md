@@ -1,6 +1,10 @@
 ---
-title: ContentStore
+title: ContentStore — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ContentStore
+type: class
 ---
 
 # ContentStore

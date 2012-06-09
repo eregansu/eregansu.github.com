@@ -1,6 +1,10 @@
 ---
-title: DBDataSet
+title: DBDataSet — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBDataSet
+type: class
 ---
 
 # DBDataSet

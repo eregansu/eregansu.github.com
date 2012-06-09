@@ -1,6 +1,10 @@
 ---
-title: RDFComplexLiteral::__construct
+title: RDFComplexLiteral::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFComplexLiteral
+type: method
 ---
 
 # RDFComplexLiteral::__construct

@@ -1,6 +1,10 @@
 ---
-title: DBSchema::__construct
+title: DBSchema::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBSchema
+type: method
 ---
 
 # DBSchema::__construct

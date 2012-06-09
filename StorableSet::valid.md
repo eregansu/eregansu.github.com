@@ -1,6 +1,10 @@
 ---
-title: StorableSet::valid
+title: StorableSet::valid — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: StorableSet
+type: method
 ---
 
 # StorableSet::valid

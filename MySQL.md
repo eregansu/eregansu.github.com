@@ -1,11 +1,17 @@
 ---
-title: MySQL
+title: MySQL — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MySQL
+type: class
 ---
 
 # MySQL
 
 <code>MySQL</code> is a class derived from <code><a href="DBCore">DBCore</a></code>.
+
+<a href="https://github.com/eregansu/lib/blob/master/db/mysql.php">View source</a>
 
 ## Public Methods
 

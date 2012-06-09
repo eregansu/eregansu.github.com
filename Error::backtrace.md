@@ -1,6 +1,10 @@
 ---
-title: Error::backtrace
+title: Error::backtrace — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Error
+type: method
 ---
 
 # Error::backtrace

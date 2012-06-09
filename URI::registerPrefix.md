@@ -1,6 +1,10 @@
 ---
-title: URI::registerPrefix
+title: URI::registerPrefix — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: URI
+type: method
 ---
 
 # URI::registerPrefix

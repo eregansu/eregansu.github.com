@@ -1,6 +1,10 @@
 ---
-title: RDF::documentFromDOM
+title: RDF::documentFromDOM — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDF
+type: method
 ---
 
 # RDF::documentFromDOM

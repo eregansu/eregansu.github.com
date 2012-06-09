@@ -1,6 +1,10 @@
 ---
-title: DBStorableSet::current
+title: DBStorableSet::current — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: DBStorableSet
+type: method
 ---
 
 # DBStorableSet::current

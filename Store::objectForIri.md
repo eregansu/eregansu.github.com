@@ -1,6 +1,10 @@
 ---
-title: Store::objectForIri
+title: Store::objectForIri — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::objectForIri

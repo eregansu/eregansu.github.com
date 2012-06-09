@@ -1,6 +1,10 @@
 ---
-title: App
+title: App — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: App
+type: class
 ---
 
 # App

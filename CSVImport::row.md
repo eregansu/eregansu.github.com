@@ -1,6 +1,10 @@
 ---
-title: CSVImport::row
+title: CSVImport::row — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: CSVImport
+type: method
 ---
 
 # CSVImport::row

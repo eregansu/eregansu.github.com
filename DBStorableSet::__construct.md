@@ -1,6 +1,10 @@
 ---
-title: DBStorableSet::__construct
+title: DBStorableSet::__construct — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: DBStorableSet
+type: method
 ---
 
 # DBStorableSet::__construct

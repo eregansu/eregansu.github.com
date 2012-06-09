@@ -1,6 +1,9 @@
 ---
-title: Generating UUIDs
+title: Generating UUIDs — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+type: task
 ---
 
 # Generating UUIDs

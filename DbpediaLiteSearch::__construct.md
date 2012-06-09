@@ -1,6 +1,10 @@
 ---
-title: DbpediaLiteSearch::__construct
+title: DbpediaLiteSearch::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DbpediaLiteSearch
+type: method
 ---
 
 # DbpediaLiteSearch::__construct

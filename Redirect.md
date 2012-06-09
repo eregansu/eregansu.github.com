@@ -1,6 +1,10 @@
 ---
-title: Redirect
+title: Redirect — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Redirect
+type: class
 ---
 
 # Redirect

@@ -1,6 +1,10 @@
 ---
-title: SilkRequest
+title: SilkRequest — Eregansu's Silk web server
+package: SilkServer
+packageTitle: Eregansu's Silk web server
 layout: default
+className: SilkRequest
+type: class
 ---
 
 # SilkRequest

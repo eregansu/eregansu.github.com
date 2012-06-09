@@ -1,6 +1,10 @@
 ---
-title: CommandLine
+title: CommandLine — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: CommandLine
+type: class
 ---
 
 # CommandLine

@@ -1,6 +1,10 @@
 ---
-title: Template::process
+title: Template::process — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Template
+type: method
 ---
 
 # Template::process

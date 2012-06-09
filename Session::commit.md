@@ -1,6 +1,10 @@
 ---
-title: Session::commit
+title: Session::commit — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Session
+type: method
 ---
 
 # Session::commit

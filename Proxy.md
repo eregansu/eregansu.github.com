@@ -1,6 +1,10 @@
 ---
-title: Proxy
+title: Proxy — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Proxy
+type: class
 ---
 
 # Proxy

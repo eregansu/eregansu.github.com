@@ -1,6 +1,10 @@
 ---
-title: StorableSet::__construct
+title: StorableSet::__construct — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: StorableSet
+type: method
 ---
 
 # StorableSet::__construct

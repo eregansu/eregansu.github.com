@@ -1,6 +1,10 @@
 ---
-title: Store::dirty
+title: Store::dirty — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::dirty

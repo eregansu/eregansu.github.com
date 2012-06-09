@@ -1,6 +1,10 @@
 ---
-title: Proxy::__get
+title: Proxy::__get — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Proxy
+type: method
 ---
 
 # Proxy::__get

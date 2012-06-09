@@ -1,6 +1,10 @@
 ---
-title: IDatabase
+title: IDatabase — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: IDatabase
+type: interface
 ---
 
 # IDatabase

@@ -1,6 +1,10 @@
 ---
-title: StoreModule
+title: StoreModule — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: StoreModule
+type: class
 ---
 
 # StoreModule

@@ -1,6 +1,10 @@
 ---
-title: Form::render
+title: Form::render — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Form
+type: method
 ---
 
 # Form::render

@@ -1,6 +1,10 @@
 ---
-title: ISQLDatabase::rowCount
+title: ISQLDatabase::rowCount — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ISQLDatabase
+type: method
 ---
 
 # ISQLDatabase::rowCount

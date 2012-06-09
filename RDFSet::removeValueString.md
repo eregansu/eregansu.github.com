@@ -1,6 +1,10 @@
 ---
-title: RDFSet::removeValueString
+title: RDFSet::removeValueString — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFSet
+type: method
 ---
 
 # RDFSet::removeValueString

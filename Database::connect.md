@@ -1,6 +1,10 @@
 ---
-title: Database::connect
+title: Database::connect — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Database
+type: method
 ---
 
 # Database::connect

@@ -1,6 +1,10 @@
 ---
-title: RDF::tripleSetFromDOM
+title: RDF::tripleSetFromDOM — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDF
+type: method
 ---
 
 # RDF::tripleSetFromDOM

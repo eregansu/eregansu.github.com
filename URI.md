@@ -1,11 +1,17 @@
 ---
-title: URI
+title: URI — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: URI
+type: class
 ---
 
 # URI
 
 <code>URI</code> is a base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/uri.php">View source</a>
 
 ## Public Static Methods
 

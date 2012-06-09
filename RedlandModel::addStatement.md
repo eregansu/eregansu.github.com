@@ -1,6 +1,10 @@
 ---
-title: RedlandModel::addStatement
+title: RedlandModel::addStatement — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandModel
+type: method
 ---
 
 # RedlandModel::addStatement

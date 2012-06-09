@@ -1,6 +1,10 @@
 ---
-title: MIME::description
+title: MIME::description — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MIME
+type: method
 ---
 
 # MIME::description

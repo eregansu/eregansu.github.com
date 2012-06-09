@@ -1,6 +1,10 @@
 ---
-title: Form
+title: Form — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Form
+type: class
 ---
 
 # Form
@@ -8,6 +12,8 @@ layout: default
 HTML form generation and handling
 
 <code>Form</code> is a base class.
+
+<a href="http://github.com/nexgenta/eregansu/blob/master/framework/form.php">View source</a>
 
 ## Synopsis
 

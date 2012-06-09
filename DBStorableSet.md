@@ -1,6 +1,10 @@
 ---
-title: DBStorableSet
+title: DBStorableSet — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: DBStorableSet
+type: class
 ---
 
 # DBStorableSet

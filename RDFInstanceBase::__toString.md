@@ -1,6 +1,10 @@
 ---
-title: RDFInstanceBase::__toString
+title: RDFInstanceBase::__toString — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFInstanceBase
+type: method
 ---
 
 # RDFInstanceBase::__toString

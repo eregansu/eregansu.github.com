@@ -1,6 +1,10 @@
 ---
-title: CurlHeaders::__toString
+title: CurlHeaders::__toString — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: CurlHeaders
+type: method
 ---
 
 # CurlHeaders::__toString

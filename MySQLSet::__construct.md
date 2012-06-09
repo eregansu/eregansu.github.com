@@ -1,6 +1,10 @@
 ---
-title: MySQLSet::__construct
+title: MySQLSet::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MySQLSet
+type: method
 ---
 
 # MySQLSet::__construct

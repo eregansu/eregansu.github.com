@@ -1,6 +1,10 @@
 ---
-title: Store::getInstance
+title: Store::getInstance — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::getInstance

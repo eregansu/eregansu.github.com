@@ -1,6 +1,10 @@
 ---
-title: Installer::run
+title: Installer::run — Autoconfiguration/Installation Support
+package: install
+packageTitle: Autoconfiguration/Installation Support
 layout: default
+className: Installer
+type: method
 ---
 
 # Installer::run

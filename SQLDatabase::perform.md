@@ -1,6 +1,10 @@
 ---
-title: SQLDatabase::perform
+title: SQLDatabase::perform — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLDatabase
+type: method
 ---
 
 # SQLDatabase::perform

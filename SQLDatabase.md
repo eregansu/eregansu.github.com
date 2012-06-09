@@ -1,6 +1,10 @@
 ---
-title: SQLDatabase
+title: SQLDatabase — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLDatabase
+type: class
 ---
 
 # SQLDatabase

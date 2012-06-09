@@ -1,6 +1,10 @@
 ---
-title: ISQLDatabase::exec
+title: ISQLDatabase::exec — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ISQLDatabase
+type: method
 ---
 
 # ISQLDatabase::exec

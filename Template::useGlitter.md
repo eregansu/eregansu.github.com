@@ -1,6 +1,10 @@
 ---
-title: Template::useGlitter
+title: Template::useGlitter — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Template
+type: method
 ---
 
 # Template::useGlitter

@@ -1,6 +1,10 @@
 ---
-title: MIME::register
+title: MIME::register — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MIME
+type: method
 ---
 
 # MIME::register

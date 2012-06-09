@@ -1,6 +1,10 @@
 ---
-title: Template::setArray
+title: Template::setArray — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Template
+type: method
 ---
 
 # Template::setArray

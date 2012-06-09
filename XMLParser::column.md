@@ -1,6 +1,10 @@
 ---
-title: XMLParser::column
+title: XMLParser::column — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: XMLParser
+type: method
 ---
 
 # XMLParser::column

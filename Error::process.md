@@ -1,6 +1,10 @@
 ---
-title: Error::process
+title: Error::process — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Error
+type: method
 ---
 
 # Error::process

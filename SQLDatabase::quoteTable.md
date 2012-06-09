@@ -1,6 +1,10 @@
 ---
-title: SQLDatabase::quoteTable
+title: SQLDatabase::quoteTable — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SQLDatabase
+type: method
 ---
 
 # SQLDatabase::quoteTable

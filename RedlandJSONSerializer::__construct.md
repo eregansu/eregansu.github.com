@@ -1,6 +1,10 @@
 ---
-title: RedlandJSONSerializer::__construct
+title: RedlandJSONSerializer::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandJSONSerializer
+type: method
 ---
 
 # RedlandJSONSerializer::__construct

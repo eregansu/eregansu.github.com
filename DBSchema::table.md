@@ -1,6 +1,10 @@
 ---
-title: DBSchema::table
+title: DBSchema::table — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBSchema
+type: method
 ---
 
 # DBSchema::table

@@ -1,6 +1,10 @@
 ---
-title: DBTable::__construct
+title: DBTable::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBTable
+type: method
 ---
 
 # DBTable::__construct

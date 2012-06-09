@@ -1,6 +1,10 @@
 ---
-title: XapianSearch::__construct
+title: XapianSearch::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: XapianSearch
+type: method
 ---
 
 # XapianSearch::__construct

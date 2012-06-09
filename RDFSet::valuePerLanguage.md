@@ -1,6 +1,10 @@
 ---
-title: RDFSet::valuePerLanguage
+title: RDFSet::valuePerLanguage — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFSet
+type: method
 ---
 
 # RDFSet::valuePerLanguage

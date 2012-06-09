@@ -1,6 +1,10 @@
 ---
-title: IdentityModule
+title: IdentityModule — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IdentityModule
+type: class
 ---
 
 # IdentityModule

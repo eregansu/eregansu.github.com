@@ -1,6 +1,10 @@
 ---
-title: DBSchema::setModuleVersion
+title: DBSchema::setModuleVersion — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBSchema
+type: method
 ---
 
 # DBSchema::setModuleVersion

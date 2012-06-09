@@ -1,6 +1,10 @@
 ---
-title: DBStorableSet::count
+title: DBStorableSet::count — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: DBStorableSet
+type: method
 ---
 
 # DBStorableSet::count

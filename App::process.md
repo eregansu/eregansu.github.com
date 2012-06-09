@@ -1,6 +1,10 @@
 ---
-title: App::process
+title: App::process — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: App
+type: method
 ---
 
 # App::process

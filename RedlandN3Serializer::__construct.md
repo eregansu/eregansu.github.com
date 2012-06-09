@@ -1,6 +1,10 @@
 ---
-title: RedlandN3Serializer::__construct
+title: RedlandN3Serializer::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandN3Serializer
+type: method
 ---
 
 # RedlandN3Serializer::__construct

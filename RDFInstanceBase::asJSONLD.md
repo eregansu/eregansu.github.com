@@ -1,6 +1,10 @@
 ---
-title: RDFInstanceBase::asJSONLD
+title: RDFInstanceBase::asJSONLD — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFInstanceBase
+type: method
 ---
 
 # RDFInstanceBase::asJSONLD

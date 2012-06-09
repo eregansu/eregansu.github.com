@@ -1,6 +1,10 @@
 ---
-title: Template::reset
+title: Template::reset — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Template
+type: method
 ---
 
 # Template::reset

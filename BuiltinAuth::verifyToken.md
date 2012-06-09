@@ -1,6 +1,10 @@
 ---
-title: BuiltinAuth::verifyToken
+title: BuiltinAuth::verifyToken — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: BuiltinAuth
+type: method
 ---
 
 # BuiltinAuth::verifyToken

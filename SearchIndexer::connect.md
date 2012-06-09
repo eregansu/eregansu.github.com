@@ -1,6 +1,10 @@
 ---
-title: SearchIndexer::connect
+title: SearchIndexer::connect — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SearchIndexer
+type: method
 ---
 
 # SearchIndexer::connect

@@ -1,6 +1,10 @@
 ---
-title: Redirect::process
+title: Redirect::process — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Redirect
+type: method
 ---
 
 # Redirect::process

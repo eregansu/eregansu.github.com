@@ -1,6 +1,10 @@
 ---
-title: Form::submit
+title: Form::submit — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Form
+type: method
 ---
 
 # Form::submit

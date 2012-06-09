@@ -1,6 +1,10 @@
 ---
-title: Request::negotiate
+title: Request::negotiate — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Request
+type: method
 ---
 
 # Request::negotiate

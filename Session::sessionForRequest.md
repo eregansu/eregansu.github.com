@@ -1,6 +1,10 @@
 ---
-title: Session::sessionForRequest
+title: Session::sessionForRequest — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Session
+type: method
 ---
 
 # Session::sessionForRequest

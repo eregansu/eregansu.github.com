@@ -1,6 +1,10 @@
 ---
-title: DBSchema::tableWithOptions
+title: DBSchema::tableWithOptions — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBSchema
+type: method
 ---
 
 # DBSchema::tableWithOptions

@@ -1,6 +1,10 @@
 ---
-title: Curl::__get
+title: Curl::__get — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Curl
+type: method
 ---
 
 # Curl::__get

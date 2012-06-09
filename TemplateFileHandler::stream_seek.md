@@ -1,6 +1,10 @@
 ---
-title: TemplateFileHandler::stream_seek
+title: TemplateFileHandler::stream_seek — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: TemplateFileHandler
+type: method
 ---
 
 # TemplateFileHandler::stream_seek

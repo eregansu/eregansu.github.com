@@ -1,6 +1,10 @@
 ---
-title: StorableSet::rewind
+title: StorableSet::rewind — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: StorableSet
+type: method
 ---
 
 # StorableSet::rewind

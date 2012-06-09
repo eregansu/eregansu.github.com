@@ -1,6 +1,10 @@
 ---
-title: CurlHeaders::apply
+title: CurlHeaders::apply — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: CurlHeaders
+type: method
 ---
 
 # CurlHeaders::apply

@@ -1,6 +1,10 @@
 ---
-title: UUID
+title: UUID — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: UUID
+type: class
 ---
 
 # UUID
@@ -8,6 +12,8 @@ layout: default
 Abstract class containing UUID manipulation facilities.
 
 <code>UUID</code> is an abstract base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/uuid.php">View source</a>
 
 ## Description
 

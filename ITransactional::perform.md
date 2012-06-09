@@ -1,6 +1,10 @@
 ---
-title: ITransactional::perform
+title: ITransactional::perform — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ITransactional
+type: method
 ---
 
 # ITransactional::perform

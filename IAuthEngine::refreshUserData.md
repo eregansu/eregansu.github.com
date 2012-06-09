@@ -1,6 +1,10 @@
 ---
-title: IAuthEngine::refreshUserData
+title: IAuthEngine::refreshUserData — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IAuthEngine
+type: method
 ---
 
 # IAuthEngine::refreshUserData

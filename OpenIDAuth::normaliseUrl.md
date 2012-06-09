@@ -1,6 +1,10 @@
 ---
-title: OpenIDAuth::normaliseUrl
+title: OpenIDAuth::normaliseUrl — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: OpenIDAuth
+type: method
 ---
 
 # OpenIDAuth::normaliseUrl

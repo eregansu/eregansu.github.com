@@ -1,6 +1,10 @@
 ---
-title: Request::complete
+title: Request::complete — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Request
+type: method
 ---
 
 # Request::complete

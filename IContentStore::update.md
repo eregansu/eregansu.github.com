@@ -1,6 +1,10 @@
 ---
-title: IContentStore::update
+title: IContentStore::update — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: IContentStore
+type: method
 ---
 
 # IContentStore::update

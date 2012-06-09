@@ -1,6 +1,10 @@
 ---
-title: Router
+title: Router — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Router
+type: class
 ---
 
 # Router

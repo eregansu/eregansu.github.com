@@ -1,6 +1,10 @@
 ---
-title: LDAP::__construct
+title: LDAP::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: LDAP
+type: method
 ---
 
 # LDAP::__construct

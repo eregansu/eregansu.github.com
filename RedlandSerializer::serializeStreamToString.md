@@ -1,6 +1,10 @@
 ---
-title: RedlandSerializer::serializeStreamToString
+title: RedlandSerializer::serializeStreamToString — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RedlandSerializer
+type: method
 ---
 
 # RedlandSerializer::serializeStreamToString

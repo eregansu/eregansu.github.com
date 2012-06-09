@@ -1,6 +1,10 @@
 ---
-title: Form::__construct
+title: Form::__construct — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Form
+type: method
 ---
 
 # Form::__construct

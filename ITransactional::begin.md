@@ -1,6 +1,10 @@
 ---
-title: ITransactional::begin
+title: ITransactional::begin — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ITransactional
+type: method
 ---
 
 # ITransactional::begin

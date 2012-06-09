@@ -1,6 +1,10 @@
 ---
-title: ISQLDatabase::quoteObjectRef
+title: ISQLDatabase::quoteObjectRef — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ISQLDatabase
+type: method
 ---
 
 # ISQLDatabase::quoteObjectRef

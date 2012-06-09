@@ -1,6 +1,10 @@
 ---
-title: StaticStorableSet::__construct
+title: StaticStorableSet::__construct — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: StaticStorableSet
+type: method
 ---
 
 # StaticStorableSet::__construct

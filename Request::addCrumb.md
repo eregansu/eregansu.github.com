@@ -1,6 +1,10 @@
 ---
-title: Request::addCrumb
+title: Request::addCrumb — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Request
+type: method
 ---
 
 # Request::addCrumb

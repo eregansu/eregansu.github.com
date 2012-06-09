@@ -1,6 +1,10 @@
 ---
-title: Store::markAllAsDirty
+title: Store::markAllAsDirty — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::markAllAsDirty

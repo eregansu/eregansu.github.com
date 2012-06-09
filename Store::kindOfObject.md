@@ -1,6 +1,10 @@
 ---
-title: Store::kindOfObject
+title: Store::kindOfObject — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Store
+type: method
 ---
 
 # Store::kindOfObject

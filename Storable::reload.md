@@ -1,6 +1,10 @@
 ---
-title: Storable::reload
+title: Storable::reload — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Storable
+type: method
 ---
 
 # Storable::reload

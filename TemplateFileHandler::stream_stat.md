@@ -1,6 +1,10 @@
 ---
-title: TemplateFileHandler::stream_stat
+title: TemplateFileHandler::stream_stat — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: TemplateFileHandler
+type: method
 ---
 
 # TemplateFileHandler::stream_stat

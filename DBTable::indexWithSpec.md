@@ -1,6 +1,10 @@
 ---
-title: DBTable::indexWithSpec
+title: DBTable::indexWithSpec — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBTable
+type: method
 ---
 
 # DBTable::indexWithSpec

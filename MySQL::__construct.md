@@ -1,6 +1,10 @@
 ---
-title: MySQL::__construct
+title: MySQL::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: MySQL
+type: method
 ---
 
 # MySQL::__construct

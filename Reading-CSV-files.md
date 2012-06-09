@@ -1,6 +1,9 @@
 ---
-title: Reading CSV files
+title: Reading CSV files — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+type: task
 ---
 
 # Reading CSV files

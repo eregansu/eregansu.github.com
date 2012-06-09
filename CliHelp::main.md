@@ -1,6 +1,10 @@
 ---
-title: CliHelp::main
+title: CliHelp::main — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: CliHelp
+type: method
 ---
 
 # CliHelp::main

@@ -1,6 +1,10 @@
 ---
-title: Curl::__construct
+title: Curl::__construct — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Curl
+type: method
 ---
 
 # Curl::__construct

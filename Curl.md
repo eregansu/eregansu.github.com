@@ -1,11 +1,17 @@
 ---
-title: Curl
+title: Curl — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Curl
+type: class
 ---
 
 # Curl
 
 <code>Curl</code> is a base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/curl.php">View source</a>
 
 ## Public Static Methods
 

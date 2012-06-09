@@ -1,11 +1,17 @@
 ---
-title: SearchEngine
+title: SearchEngine — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: SearchEngine
+type: class
 ---
 
 # SearchEngine
 
 <code>SearchEngine</code> is an abstract base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/searchengine.php">View source</a>
 
 ## Public Static Methods
 

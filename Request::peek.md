@@ -1,6 +1,10 @@
 ---
-title: Request::peek
+title: Request::peek — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Request
+type: method
 ---
 
 # Request::peek

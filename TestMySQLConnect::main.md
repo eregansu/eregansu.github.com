@@ -1,6 +1,10 @@
 ---
-title: TestMySQLConnect::main
+title: TestMySQLConnect::main — Eregansu Core Library Tests
+package: lib-tests
+packageTitle: Eregansu Core Library Tests
 layout: default
+className: TestMySQLConnect
+type: method
 ---
 
 # TestMySQLConnect::main

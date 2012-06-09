@@ -1,6 +1,10 @@
 ---
-title: RDFURI::__isset
+title: RDFURI::__isset — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFURI
+type: method
 ---
 
 # RDFURI::__isset

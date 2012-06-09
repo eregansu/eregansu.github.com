@@ -1,6 +1,10 @@
 ---
-title: DBDataSet::key
+title: DBDataSet::key — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: DBDataSet
+type: method
 ---
 
 # DBDataSet::key

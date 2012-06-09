@@ -1,6 +1,10 @@
 ---
-title: Model::getInstance
+title: Model::getInstance — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Model
+type: method
 ---
 
 # Model::getInstance

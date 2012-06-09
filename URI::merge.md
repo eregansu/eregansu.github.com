@@ -1,6 +1,10 @@
 ---
-title: URI::merge
+title: URI::merge — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: URI
+type: method
 ---
 
 # URI::merge

@@ -1,6 +1,10 @@
 ---
-title: Module
+title: Module — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: Module
+type: class
 ---
 
 # Module

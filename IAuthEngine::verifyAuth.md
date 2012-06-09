@@ -1,6 +1,10 @@
 ---
-title: IAuthEngine::verifyAuth
+title: IAuthEngine::verifyAuth — Eregansu Framework
+package: framework
+packageTitle: Eregansu Framework
 layout: default
+className: IAuthEngine
+type: method
 ---
 
 # IAuthEngine::verifyAuth

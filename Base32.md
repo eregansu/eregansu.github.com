@@ -1,6 +1,10 @@
 ---
-title: Base32
+title: Base32 — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Base32
+type: class
 ---
 
 # Base32
@@ -8,6 +12,8 @@ layout: default
 Abstract class implementing base-32 encoding and decoding.
 
 <code>Base32</code> is an abstract base class.
+
+<a href="https://github.com/eregansu/lib/blob/master/base32.php">View source</a>
 
 ## Synopsis
 

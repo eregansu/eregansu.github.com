@@ -1,11 +1,17 @@
 ---
-title: RDFComplexLiteral
+title: RDFComplexLiteral — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: RDFComplexLiteral
+type: class
 ---
 
 # RDFComplexLiteral
 
 <code>RDFComplexLiteral</code> is a class derived from <code><a href="RedlandNode">RedlandNode</a></code>.
+
+<a href="https://github.com/eregansu/lib/blob/master/rdf/redland.php">View source</a>
 
 ## Public Static Methods
 

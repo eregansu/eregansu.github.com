@@ -1,6 +1,10 @@
 ---
-title: ISQLDatabase::quote
+title: ISQLDatabase::quote — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: ISQLDatabase
+type: method
 ---
 
 # ISQLDatabase::quote

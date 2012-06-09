@@ -1,6 +1,10 @@
 ---
-title: Request::consumeForApp
+title: Request::consumeForApp — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Request
+type: method
 ---
 
 # Request::consumeForApp

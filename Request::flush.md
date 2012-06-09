@@ -1,6 +1,10 @@
 ---
-title: Request::flush
+title: Request::flush — Core Library
+package: lib
+packageTitle: Core Library
 layout: default
+className: Request
+type: method
 ---
 
 # Request::flush
