@@ -458,4 +458,7 @@ nav.crumb a:link, nav.crumb a:visited {
 	color: #000;
 }
 
-
+body.home #main_content h2 {
+	font-size: 100%;
+	background-image: none;
+}

@@ -11,7 +11,7 @@
     <title>{{ page.title }}</title>
   </head>
 
-  <body>
+  <body class="{{ page.class }}">
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
@@ -27,16 +27,18 @@
             </section> -->
         </header>
     </div>
-	{% if page.package %}
+	{% if page.type %}
 	<nav class="crumb">
 	  <ul>
 		<li><a href="{{ site.url }}/">Eregansu</a></li>
+		{% if page.package %}
 		{% if page.type != 'package' %}
 		<li><a href="{{ site.url }}/{{ page.package }}">{{ page.packageTitle }}</a></li>
 		{% endif %}
 		{% if page.className %}
 		{% if page.type != 'class' && page.type != 'interface' %}
 		<li><a href="{{ site.url }}/{{ page.className }}">{{ page.className }}</a></li>
+		{% endif %}
 		{% endif %}
 		{% endif %}
 	  </ul>
